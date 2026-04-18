@@ -1,0 +1,1 @@
+ETF_BASE_URL="https://stockanalysis.com/etf/screener/"
