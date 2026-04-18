@@ -1,3 +1,3 @@
-sources/stockanalysis/data.json
-data.json
-*/data.json
+**/data.json        # ignores data.json anywhere in the project
+**/__pycache__      # ignores __pycache__ anywhere in the project
+*.pyc               # also good to add for compiled python files
