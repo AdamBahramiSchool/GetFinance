@@ -780,6 +780,16 @@
     "holdings": 440
   },
   {
+    "s": "GLDM",
+    "n": "SPDR Gold Minishares Trust of beneficial interest",
+    "assetClass": "Commodity",
+    "aum": 32311544521,
+    "price": 96.04,
+    "change": 1.27,
+    "volume": 3963230,
+    "holdings": 1
+  },
+  {
     "s": "LQD",
     "n": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
     "assetClass": "Fixed Income",
@@ -798,16 +808,6 @@
     "change": 1.3,
     "volume": 4864491,
     "holdings": 57
-  },
-  {
-    "s": "GLDM",
-    "n": "SPDR Gold Minishares Trust of beneficial interest",
-    "assetClass": "Commodity",
-    "aum": 31069318974,
-    "price": 96.04,
-    "change": 1.27,
-    "volume": 3963230,
-    "holdings": 1
   },
   {
     "s": "GDX",
@@ -1390,6 +1390,16 @@
     "holdings": 3030
   },
   {
+    "s": "USIG",
+    "n": "iShares Broad USD Investment Grade Corporate Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 17028027346,
+    "price": 51.65,
+    "change": 0.47,
+    "volume": 1321375,
+    "holdings": 11339
+  },
+  {
     "s": "HYG",
     "n": "iShares iBoxx $ High Yield Corporate Bond ETF",
     "assetClass": "Fixed Income",
@@ -1398,16 +1408,6 @@
     "change": 0.37,
     "volume": 61628092,
     "holdings": 1322
-  },
-  {
-    "s": "USIG",
-    "n": "iShares Broad USD Investment Grade Corporate Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 16964199551,
-    "price": 51.65,
-    "change": 0.47,
-    "volume": 1321375,
-    "holdings": 11339
   },
   {
     "s": "BINC",
@@ -1440,6 +1440,16 @@
     "holdings": 403
   },
   {
+    "s": "BBJP",
+    "n": "JPMorgan BetaBuilders Japan ETF",
+    "assetClass": "Equity",
+    "aum": 16467757406,
+    "price": 73.39,
+    "change": 0.87,
+    "volume": 1398287,
+    "holdings": 184
+  },
+  {
     "s": "VHT",
     "n": "Vanguard Health Care ETF",
     "assetClass": "Equity",
@@ -1468,16 +1478,6 @@
     "change": 1.16,
     "volume": 1392534,
     "holdings": 3834
-  },
-  {
-    "s": "BBJP",
-    "n": "JPMorgan BetaBuilders Japan ETF",
-    "assetClass": "Equity",
-    "aum": 15962035116,
-    "price": 73.39,
-    "change": 0.87,
-    "volume": 1398287,
-    "holdings": 184
   },
   {
     "s": "DGRW",
@@ -1790,6 +1790,16 @@
     "holdings": 7925
   },
   {
+    "s": "SPTM",
+    "n": "State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF",
+    "assetClass": "Equity",
+    "aum": 12901833956,
+    "price": 86.3,
+    "change": 1.31,
+    "volume": 1084157,
+    "holdings": 1516
+  },
+  {
     "s": "IWN",
     "n": "iShares Russell 2000 Value ETF",
     "assetClass": "Equity",
@@ -1860,16 +1870,6 @@
     "holdings": 426
   },
   {
-    "s": "SPTM",
-    "n": "State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF",
-    "assetClass": "Equity",
-    "aum": 12463862675,
-    "price": 86.3,
-    "change": 1.31,
-    "volume": 1084157,
-    "holdings": 1516
-  },
-  {
     "s": "ESGV",
     "n": "Vanguard ESG U.S. Stock ETF",
     "assetClass": "Equity",
@@ -1887,7 +1887,7 @@
     "price": 51.11,
     "change": -1.05,
     "volume": 2085926,
-    "holdings": 15
+    "holdings": 14
   },
   {
     "s": "SCHE",
@@ -2243,7 +2243,7 @@
     "s": "SPSB",
     "n": "State Street SPDR Portfolio Short Term Corporate Bond ETF",
     "assetClass": "Fixed Income",
-    "aum": 9972018263,
+    "aum": 10021234792,
     "price": 30.12,
     "change": 0.13,
     "volume": 1684362,
@@ -2900,6 +2900,16 @@
     "holdings": 46
   },
   {
+    "s": "JMUB",
+    "n": "JPMorgan Municipal ETF",
+    "assetClass": "Fixed Income",
+    "aum": 7375517060,
+    "price": 50.53,
+    "change": 0.28,
+    "volume": 1005100,
+    "holdings": 1952
+  },
+  {
     "s": "IJS",
     "n": "iShares S&P Small-Cap 600 Value ETF",
     "assetClass": "Equity",
@@ -2918,16 +2928,6 @@
     "change": 0.04,
     "volume": 1650238,
     "holdings": 379
-  },
-  {
-    "s": "JMUB",
-    "n": "JPMorgan Municipal ETF",
-    "assetClass": "Fixed Income",
-    "aum": 7341843910,
-    "price": 50.53,
-    "change": 0.28,
-    "volume": 1005100,
-    "holdings": 1952
   },
   {
     "s": "SPLV",
@@ -3240,16 +3240,6 @@
     "holdings": 3137
   },
   {
-    "s": "BBAX",
-    "n": "JPMorgan BetaBuilders Developed Asia Pacific ex-Japan ETF",
-    "assetClass": "Equity",
-    "aum": 6511100662,
-    "price": 63.08,
-    "change": 0.75,
-    "volume": 165558,
-    "holdings": 106
-  },
-  {
     "s": "DFSD",
     "n": "Dimensional Short-Duration Fixed Income ETF",
     "assetClass": "Fixed Income",
@@ -3258,6 +3248,16 @@
     "change": 0.27,
     "volume": 403513,
     "holdings": 1585
+  },
+  {
+    "s": "BBAX",
+    "n": "JPMorgan BetaBuilders Developed Asia Pacific ex-Japan ETF",
+    "assetClass": "Equity",
+    "aum": 6489591201,
+    "price": 63.08,
+    "change": 0.75,
+    "volume": 165558,
+    "holdings": 106
   },
   {
     "s": "VFLO",
@@ -3290,6 +3290,16 @@
     "holdings": 219
   },
   {
+    "s": "VSGX",
+    "n": "Vanguard ESG International Stock ETF",
+    "assetClass": "Equity",
+    "aum": 6362550000,
+    "price": 78.95,
+    "change": 1.83,
+    "volume": 180450,
+    "holdings": 6662
+  },
+  {
     "s": "INDA",
     "n": "iShares MSCI India ETF",
     "assetClass": "Equity",
@@ -3308,16 +3318,6 @@
     "change": 1.8,
     "volume": 863139,
     "holdings": 324
-  },
-  {
-    "s": "JMST",
-    "n": "JPMorgan Ultra-Short Municipal Income ETF",
-    "assetClass": "Fixed Income",
-    "aum": 6325225996,
-    "price": 50.94,
-    "change": 0.02,
-    "volume": 1071250,
-    "holdings": 1623
   },
   {
     "s": "FPE",
@@ -3380,24 +3380,24 @@
     "holdings": 156
   },
   {
+    "s": "JMST",
+    "n": "JPMorgan Ultra-Short Municipal Income ETF",
+    "assetClass": "Fixed Income",
+    "aum": 6221785569,
+    "price": 50.94,
+    "change": 0.02,
+    "volume": 1071250,
+    "holdings": 1623
+  },
+  {
     "s": "SPTS",
     "n": "State Street SPDR Portfolio Short Term Treasury ETF",
     "assetClass": "Fixed Income",
-    "aum": 6219843799,
+    "aum": 6173825867,
     "price": 29.2,
     "change": 0.17,
     "volume": 1082100,
     "holdings": 97
-  },
-  {
-    "s": "VSGX",
-    "n": "Vanguard ESG International Stock ETF",
-    "assetClass": "Equity",
-    "aum": 6194070000,
-    "price": 78.95,
-    "change": 1.83,
-    "volume": 180450,
-    "holdings": 6662
   },
   {
     "s": "VOOV",
@@ -3830,6 +3830,16 @@
     "holdings": 58
   },
   {
+    "s": "SBIL",
+    "n": "Simplify Government Money Market ETF",
+    "assetClass": "Fixed Income",
+    "aum": 4773886182,
+    "price": 100.24,
+    "change": 0.03,
+    "volume": 64524,
+    "holdings": 123
+  },
+  {
     "s": "CGDG",
     "n": "Capital Group Dividend Growers ETF",
     "assetClass": "Equity",
@@ -3860,16 +3870,6 @@
     "holdings": 223
   },
   {
-    "s": "SBIL",
-    "n": "Simplify Government Money Market ETF",
-    "assetClass": "Fixed Income",
-    "aum": 4733803799,
-    "price": 100.24,
-    "change": 0.03,
-    "volume": 64524,
-    "holdings": 123
-  },
-  {
     "s": "ISTB",
     "n": "iShares Core 1-5 Year USD Bond ETF",
     "assetClass": "Fixed Income",
@@ -3893,7 +3893,7 @@
     "s": "EAGG",
     "n": "iShares ESG Aware US Aggregate Bond ETF",
     "assetClass": "Fixed Income",
-    "aum": 4692317080,
+    "aum": 4723361179,
     "price": 47.84,
     "change": 0.38,
     "volume": 171045,
@@ -4030,6 +4030,16 @@
     "holdings": 23
   },
   {
+    "s": "GRNY",
+    "n": "Fundstrat Granny Shots US Large Cap ETF",
+    "assetClass": "Equity",
+    "aum": 4299945694,
+    "price": 26.24,
+    "change": 1.27,
+    "volume": 1879319,
+    "holdings": 43
+  },
+  {
     "s": "RSPT",
     "n": "Invesco S&P 500 Equal Weight Technology ETF",
     "assetClass": "Equity",
@@ -4108,16 +4118,6 @@
     "change": 0.35,
     "volume": 253367,
     "holdings": 1669
-  },
-  {
-    "s": "GRNY",
-    "n": "Fundstrat Granny Shots US Large Cap ETF",
-    "assetClass": "Equity",
-    "aum": 4171681160,
-    "price": 26.24,
-    "change": 1.27,
-    "volume": 1879319,
-    "holdings": 43
   },
   {
     "s": "VTHR",
@@ -4270,16 +4270,6 @@
     "holdings": 271
   },
   {
-    "s": "IFRA",
-    "n": "iShares U.S. Infrastructure ETF",
-    "assetClass": "Equity",
-    "aum": 3882124849,
-    "price": 59.73,
-    "change": 1.03,
-    "volume": 275064,
-    "holdings": 168
-  },
-  {
     "s": "IBDT",
     "n": "iShares iBonds Dec 2028 Term Corporate ETF",
     "assetClass": "Fixed Income",
@@ -4350,6 +4340,16 @@
     "holdings": 1011
   },
   {
+    "s": "IFRA",
+    "n": "iShares U.S. Infrastructure ETF",
+    "assetClass": "Equity",
+    "aum": 3740819079,
+    "price": 59.73,
+    "change": 1.03,
+    "volume": 275064,
+    "holdings": 168
+  },
+  {
     "s": "IBDU",
     "n": "iShares iBonds Dec 2029 Term Corporate ETF",
     "assetClass": "Fixed Income",
@@ -4388,6 +4388,16 @@
     "change": 1.16,
     "volume": 141251,
     "holdings": 98
+  },
+  {
+    "s": "IDEF",
+    "n": "iShares Defense Industrials Active ETF",
+    "assetClass": "Equity",
+    "aum": 3659354699,
+    "price": 34.99,
+    "change": 0.69,
+    "volume": 528662,
+    "holdings": 126
   },
   {
     "s": "IXJ",
@@ -4458,16 +4468,6 @@
     "change": 0.88,
     "volume": 398565,
     "holdings": 158
-  },
-  {
-    "s": "IDEF",
-    "n": "iShares Defense Industrials Active ETF",
-    "assetClass": "Equity",
-    "aum": 3612711741,
-    "price": 34.99,
-    "change": 0.69,
-    "volume": 528662,
-    "holdings": 126
   },
   {
     "s": "AIA",
@@ -4560,6 +4560,16 @@
     "holdings": 79
   },
   {
+    "s": "FLJP",
+    "n": "Franklin FTSE Japan ETF",
+    "assetClass": "Equity",
+    "aum": 3495422312,
+    "price": 38.57,
+    "change": 0.81,
+    "volume": 982458,
+    "holdings": 484
+  },
+  {
     "s": "GPIX",
     "n": "Goldman Sachs S&P 500 Premium Income ETF",
     "assetClass": "Equity",
@@ -4640,6 +4650,16 @@
     "holdings": 915
   },
   {
+    "s": "KNG",
+    "n": "FT Vest S&P 500 Dividend Aristocrats Target Income ETF",
+    "assetClass": "Alternatives",
+    "aum": 3435161357,
+    "price": 49.94,
+    "change": 0.91,
+    "volume": 306499,
+    "holdings": 139
+  },
+  {
     "s": "SHM",
     "n": "State Street SPDR Nuveen ICE Short Term Municipal Bond ETF",
     "assetClass": "Fixed Income",
@@ -4688,26 +4708,6 @@
     "change": 0.44,
     "volume": 323133,
     "holdings": 474
-  },
-  {
-    "s": "FLJP",
-    "n": "Franklin FTSE Japan ETF",
-    "assetClass": "Equity",
-    "aum": 3401320461,
-    "price": 38.57,
-    "change": 0.81,
-    "volume": 982458,
-    "holdings": 484
-  },
-  {
-    "s": "KNG",
-    "n": "FT Vest S&P 500 Dividend Aristocrats Target Income ETF",
-    "assetClass": "Alternatives",
-    "aum": 3396464267,
-    "price": 49.94,
-    "change": 0.91,
-    "volume": 306499,
-    "holdings": 139
   },
   {
     "s": "AOR",
@@ -4830,6 +4830,16 @@
     "holdings": 1602
   },
   {
+    "s": "UCON",
+    "n": "First Trust Smith Unconstrained Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 3258246241,
+    "price": 25.1,
+    "change": 0.32,
+    "volume": 321013,
+    "holdings": 484
+  },
+  {
     "s": "MLPX",
     "n": "Global X MLP & Energy Infrastructure ETF",
     "assetClass": "Equity",
@@ -4838,16 +4848,6 @@
     "change": -0.77,
     "volume": 784821,
     "holdings": 29
-  },
-  {
-    "s": "UCON",
-    "n": "First Trust Smith Unconstrained Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 3243679127,
-    "price": 25.1,
-    "change": 0.32,
-    "volume": 321013,
-    "holdings": 484
   },
   {
     "s": "IHI",
@@ -4878,6 +4878,16 @@
     "change": 0.1,
     "volume": 324206,
     "holdings": 416
+  },
+  {
+    "s": "USMC",
+    "n": "Principal U.S. Mega-Cap ETF",
+    "assetClass": "Equity",
+    "aum": 3131368371,
+    "price": 69.6261,
+    "change": 0.64,
+    "volume": 58991,
+    "holdings": 27
   },
   {
     "s": "VAW",
@@ -4950,16 +4960,6 @@
     "holdings": 76
   },
   {
-    "s": "USMC",
-    "n": "Principal U.S. Mega-Cap ETF",
-    "assetClass": "Equity",
-    "aum": 3034575536,
-    "price": 69.6261,
-    "change": 0.64,
-    "volume": 58991,
-    "holdings": 27
-  },
-  {
     "s": "NFRA",
     "n": "FlexShares STOXX Global Broad Infrastructure Index Fund",
     "assetClass": "Equity",
@@ -5020,6 +5020,16 @@
     "holdings": 136
   },
   {
+    "s": "AAAU",
+    "n": "Goldman Sachs Physical Gold ETF",
+    "assetClass": "Commodity",
+    "aum": 2958342995,
+    "price": 47.89,
+    "change": 1.31,
+    "volume": 1487992,
+    "holdings": 1
+  },
+  {
     "s": "FLCB",
     "n": "Franklin U.S Core Bond ETF",
     "assetClass": "Fixed Income",
@@ -5077,16 +5087,6 @@
     "price": 46.69,
     "change": 1.3,
     "volume": 969898,
-    "holdings": 1
-  },
-  {
-    "s": "AAAU",
-    "n": "Goldman Sachs Physical Gold ETF",
-    "assetClass": "Commodity",
-    "aum": 2889579055,
-    "price": 47.89,
-    "change": 1.31,
-    "volume": 1487992,
     "holdings": 1
   },
   {
@@ -5410,6 +5410,16 @@
     "holdings": 314
   },
   {
+    "s": "FLIN",
+    "n": "Franklin FTSE India ETF",
+    "assetClass": "Equity",
+    "aum": 2606454877,
+    "price": 36.63,
+    "change": 2.63,
+    "volume": 821100,
+    "holdings": 277
+  },
+  {
     "s": "MDYG",
     "n": "State Street SPDR S&P 400 Mid Cap Growth ETF",
     "assetClass": "Equity",
@@ -5480,16 +5490,6 @@
     "holdings": 8
   },
   {
-    "s": "FLIN",
-    "n": "Franklin FTSE India ETF",
-    "assetClass": "Equity",
-    "aum": 2531674832,
-    "price": 36.63,
-    "change": 2.63,
-    "volume": 821100,
-    "holdings": 277
-  },
-  {
     "s": "FUTY",
     "n": "Fidelity MSCI Utilities Index ETF",
     "assetClass": "Equity",
@@ -5557,7 +5557,7 @@
     "price": 100.24,
     "change": 0.02,
     "volume": 169459,
-    "holdings": 27
+    "holdings": 26
   },
   {
     "s": "BSCU",
@@ -5740,6 +5740,16 @@
     "holdings": 656
   },
   {
+    "s": "ESML",
+    "n": "iShares ESG Aware MSCI USA Small-Cap ETF",
+    "assetClass": "Equity",
+    "aum": 2329462395,
+    "price": 51.24,
+    "change": 1.83,
+    "volume": 231331,
+    "holdings": 909
+  },
+  {
     "s": "IBDW",
     "n": "iShares iBonds Dec 2031 Term Corporate ETF",
     "assetClass": "Fixed Income",
@@ -5768,6 +5778,16 @@
     "change": 0.17,
     "volume": 232862,
     "holdings": 2973
+  },
+  {
+    "s": "PFFA",
+    "n": "Virtus InfraCap U.S. Preferred Stock ETF",
+    "assetClass": "Fixed Income",
+    "aum": 2318820091,
+    "price": 21.76,
+    "change": 0.51,
+    "volume": 1170937,
+    "holdings": 200
   },
   {
     "s": "HDEF",
@@ -5810,16 +5830,6 @@
     "holdings": 1838
   },
   {
-    "s": "ESML",
-    "n": "iShares ESG Aware MSCI USA Small-Cap ETF",
-    "assetClass": "Equity",
-    "aum": 2281781784,
-    "price": 51.24,
-    "change": 1.83,
-    "volume": 231331,
-    "holdings": 909
-  },
-  {
     "s": "FBT",
     "n": "First Trust NYSE Arca Biotechnology Index Fund",
     "assetClass": "Equity",
@@ -5838,16 +5848,6 @@
     "change": 1.44,
     "volume": 1076,
     "holdings": 135
-  },
-  {
-    "s": "PFFA",
-    "n": "Virtus InfraCap U.S. Preferred Stock ETF",
-    "assetClass": "Fixed Income",
-    "aum": 2277490403,
-    "price": 21.76,
-    "change": 0.51,
-    "volume": 1170937,
-    "holdings": 200
   },
   {
     "s": "IHDG",
@@ -6057,7 +6057,7 @@
     "price": 46.985,
     "change": 0.42,
     "volume": 183273,
-    "holdings": 1363
+    "holdings": 1365
   },
   {
     "s": "COWG",
@@ -6333,7 +6333,7 @@
     "s": "USTB",
     "n": "VictoryShares Short-Term Bond ETF",
     "assetClass": "Fixed Income",
-    "aum": 2019756601,
+    "aum": 2024071113,
     "price": 50.65,
     "change": 0.14,
     "volume": 190913,
@@ -6408,6 +6408,16 @@
     "change": 1,
     "volume": 43504,
     "holdings": 110
+  },
+  {
+    "s": "TMFC",
+    "n": "Motley Fool 100 Index ETF",
+    "assetClass": "Equity",
+    "aum": 1972963171,
+    "price": 73.42,
+    "change": 1.16,
+    "volume": 104259,
+    "holdings": 103
   },
   {
     "s": "IYJ",
@@ -6560,16 +6570,6 @@
     "holdings": 28
   },
   {
-    "s": "TMFC",
-    "n": "Motley Fool 100 Index ETF",
-    "assetClass": "Equity",
-    "aum": 1886431042,
-    "price": 73.42,
-    "change": 1.16,
-    "volume": 104259,
-    "holdings": 103
-  },
-  {
     "s": "DUSB",
     "n": "Dimensional Ultrashort Fixed Income ETF",
     "assetClass": "Fixed Income",
@@ -6598,6 +6598,16 @@
     "change": 6.85,
     "volume": 3859068,
     "holdings": 6
+  },
+  {
+    "s": "DSTL",
+    "n": "Distillate US Fundamental Stability & Value ETF",
+    "assetClass": "Equity",
+    "aum": 1870649189,
+    "price": 60.25,
+    "change": 1.18,
+    "volume": 88787,
+    "holdings": 103
   },
   {
     "s": "USD",
@@ -6700,16 +6710,6 @@
     "holdings": 42
   },
   {
-    "s": "DSTL",
-    "n": "Distillate US Fundamental Stability & Value ETF",
-    "assetClass": "Equity",
-    "aum": 1824773700,
-    "price": 60.25,
-    "change": 1.18,
-    "volume": 88787,
-    "holdings": 103
-  },
-  {
     "s": "UBND",
     "n": "VictoryShares Core Plus Bond ETF",
     "assetClass": "Fixed Income",
@@ -6797,7 +6797,7 @@
     "price": 41.86,
     "change": 0.41,
     "volume": 137786,
-    "holdings": 788
+    "holdings": 782
   },
   {
     "s": "RWR",
@@ -6807,6 +6807,16 @@
     "price": 109.72,
     "change": 1.5,
     "volume": 299975,
+    "holdings": 103
+  },
+  {
+    "s": "FEGE",
+    "n": "First Eagle Global Equity ETF",
+    "assetClass": "Equity",
+    "aum": 1754300659,
+    "price": 49.85,
+    "change": 1.22,
+    "volume": 252881,
     "holdings": 103
   },
   {
@@ -6908,16 +6918,6 @@
     "change": 1.51,
     "volume": 109927,
     "holdings": 375
-  },
-  {
-    "s": "FEGE",
-    "n": "First Eagle Global Equity ETF",
-    "assetClass": "Equity",
-    "aum": 1715145389,
-    "price": 49.85,
-    "change": 1.22,
-    "volume": 252881,
-    "holdings": 103
   },
   {
     "s": "AOM",
@@ -7040,6 +7040,16 @@
     "holdings": 1
   },
   {
+    "s": "VTC",
+    "n": "Vanguard Total Corporate Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 1678202150,
+    "price": 77.4222,
+    "change": 0.43,
+    "volume": 128044,
+    "holdings": 4971
+  },
+  {
     "s": "HYS",
     "n": "PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund",
     "assetClass": "Fixed Income",
@@ -7068,16 +7078,6 @@
     "change": 0.18,
     "volume": 291494,
     "holdings": 43
-  },
-  {
-    "s": "VTC",
-    "n": "Vanguard Total Corporate Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 1659487100,
-    "price": 77.4222,
-    "change": 0.43,
-    "volume": 128044,
-    "holdings": 4971
   },
   {
     "s": "QLTA",
@@ -7360,6 +7360,16 @@
     "holdings": 135
   },
   {
+    "s": "VFMO",
+    "n": "Vanguard U.S. Momentum Factor ETF",
+    "assetClass": "Equity",
+    "aum": 1543931350,
+    "price": 220.18,
+    "change": 1.48,
+    "volume": 58041,
+    "holdings": 671
+  },
+  {
     "s": "PIEQ",
     "n": "Principal International Equity ETF",
     "assetClass": "Equity",
@@ -7638,16 +7648,6 @@
     "change": 0.08,
     "volume": 680141,
     "holdings": 401
-  },
-  {
-    "s": "VFMO",
-    "n": "Vanguard U.S. Momentum Factor ETF",
-    "assetClass": "Equity",
-    "aum": 1476527000,
-    "price": 220.18,
-    "change": 1.48,
-    "volume": 58041,
-    "holdings": 671
   },
   {
     "s": "RODM",
@@ -8260,6 +8260,26 @@
     "holdings": 156
   },
   {
+    "s": "JFLX",
+    "n": "JPMorgan Flexible Debt ETF",
+    "assetClass": "Fixed Income",
+    "aum": 1307095142,
+    "price": 50.319,
+    "change": 0.38,
+    "volume": 95600,
+    "holdings": 1921
+  },
+  {
+    "s": "DIVB",
+    "n": "iShares Core Dividend ETF",
+    "assetClass": "Equity",
+    "aum": 1305735199,
+    "price": 56.16,
+    "change": 1.06,
+    "volume": 58904,
+    "holdings": 406
+  },
+  {
     "s": "SPLB",
     "n": "State Street SPDR Portfolio Long Term Corporate Bond ETF",
     "assetClass": "Fixed Income",
@@ -8278,16 +8298,6 @@
     "change": 1.29,
     "volume": 36325,
     "holdings": 40
-  },
-  {
-    "s": "JFLX",
-    "n": "JPMorgan Flexible Debt ETF",
-    "assetClass": "Fixed Income",
-    "aum": 1302518163,
-    "price": 50.319,
-    "change": 0.38,
-    "volume": 95600,
-    "holdings": 1921
   },
   {
     "s": "EVLN",
@@ -8337,17 +8347,7 @@
     "price": 25.1089,
     "change": 0.32,
     "volume": 71558,
-    "holdings": 412
-  },
-  {
-    "s": "DIVB",
-    "n": "iShares Core Dividend ETF",
-    "assetClass": "Equity",
-    "aum": 1280163558,
-    "price": 56.16,
-    "change": 1.06,
-    "volume": 58904,
-    "holdings": 406
+    "holdings": 413
   },
   {
     "s": "FFEB",
@@ -8460,6 +8460,16 @@
     "holdings": 44
   },
   {
+    "s": "ALLW",
+    "n": "State Street Bridgewater All Weather ETF",
+    "assetClass": "Asset Allocation",
+    "aum": 1256240505,
+    "price": 30,
+    "change": 0.81,
+    "volume": 649904,
+    "holdings": 44
+  },
+  {
     "s": "NUGT",
     "n": "Direxion Daily Gold Miners Index Bull 2X ETF",
     "assetClass": "Equity",
@@ -8508,16 +8518,6 @@
     "change": 1.2,
     "volume": 59628,
     "holdings": 590
-  },
-  {
-    "s": "ALLW",
-    "n": "State Street Bridgewater All Weather ETF",
-    "assetClass": "Asset Allocation",
-    "aum": 1245360701,
-    "price": 30,
-    "change": 0.81,
-    "volume": 649904,
-    "holdings": 44
   },
   {
     "s": "SEIV",
@@ -8737,7 +8737,7 @@
     "price": 25.22,
     "change": 0.08,
     "volume": 384684,
-    "holdings": 667
+    "holdings": 669
   },
   {
     "s": "RWO",
@@ -9000,6 +9000,16 @@
     "holdings": 30
   },
   {
+    "s": "SFGV",
+    "n": "Sequoia Global Value ETF",
+    "assetClass": "Equity",
+    "aum": 1133339066,
+    "price": 34.5794,
+    "change": 1.23,
+    "volume": 24698,
+    "holdings": 0
+  },
+  {
     "s": "CGSM",
     "n": "Capital Group Short Duration Municipal Income ETF",
     "assetClass": "Fixed Income",
@@ -9020,14 +9030,14 @@
     "holdings": 960
   },
   {
-    "s": "SFGV",
-    "n": "Sequoia Global Value ETF",
+    "s": "BBRE",
+    "n": "JPMorgan BetaBuilders MSCI US REIT ETF",
     "assetClass": "Equity",
-    "aum": 1122494774,
-    "price": 34.5794,
-    "change": 1.23,
-    "volume": 24698,
-    "holdings": 0
+    "aum": 1123027586,
+    "price": 104.19,
+    "change": 1.44,
+    "volume": 3938,
+    "holdings": 111
   },
   {
     "s": "FYX",
@@ -9200,16 +9210,6 @@
     "holdings": 48
   },
   {
-    "s": "BBRE",
-    "n": "JPMorgan BetaBuilders MSCI US REIT ETF",
-    "assetClass": "Equity",
-    "aum": 1083847587,
-    "price": 104.19,
-    "change": 1.44,
-    "volume": 3938,
-    "holdings": 111
-  },
-  {
     "s": "LRGC",
     "n": "AB US Large Cap Strategic Equities ETF",
     "assetClass": "Equity",
@@ -9228,6 +9228,16 @@
     "change": -0.6,
     "volume": 617008,
     "holdings": 12
+  },
+  {
+    "s": "POCT",
+    "n": "Innovator U.S. Equity Power Buffer ETF - October",
+    "assetClass": "Alternatives",
+    "aum": 1080947061,
+    "price": 45.1,
+    "change": 0.56,
+    "volume": 743752,
+    "holdings": 6
   },
   {
     "s": "SUSB",
@@ -9318,16 +9328,6 @@
     "change": 1.64,
     "volume": 107017,
     "holdings": 108
-  },
-  {
-    "s": "POCT",
-    "n": "Innovator U.S. Equity Power Buffer ETF - October",
-    "assetClass": "Alternatives",
-    "aum": 1063989008,
-    "price": 45.1,
-    "change": 0.56,
-    "volume": 743752,
-    "holdings": 6
   },
   {
     "s": "FFLC",
@@ -9520,6 +9520,16 @@
     "holdings": 26
   },
   {
+    "s": "FLHY",
+    "n": "Franklin High Yield Corporate ETF",
+    "assetClass": "Fixed Income",
+    "aum": 1026090006,
+    "price": 24.49,
+    "change": 0.49,
+    "volume": 619969,
+    "holdings": 282
+  },
+  {
     "s": "CGW",
     "n": "Invesco S&P Global Water Index ETF",
     "assetClass": "Equity",
@@ -9580,16 +9590,6 @@
     "holdings": 6
   },
   {
-    "s": "FLHY",
-    "n": "Franklin High Yield Corporate ETF",
-    "assetClass": "Fixed Income",
-    "aum": 1013146316,
-    "price": 24.49,
-    "change": 0.49,
-    "volume": 619969,
-    "holdings": 282
-  },
-  {
     "s": "APIE",
     "n": "ActivePassive International Equity ETF",
     "assetClass": "Equity",
@@ -9617,7 +9617,17 @@
     "price": 35.075,
     "change": 1.2,
     "volume": 75213,
-    "holdings": 345
+    "holdings": 346
+  },
+  {
+    "s": "IVES",
+    "n": "Dan IVES Wedbush AI Revolution ETF",
+    "assetClass": "Equity",
+    "aum": 1003923643,
+    "price": 32.72,
+    "change": 1.18,
+    "volume": 1127109,
+    "holdings": 31
   },
   {
     "s": "FAPR",
@@ -9667,7 +9677,7 @@
     "price": 22.93,
     "change": 0.09,
     "volume": 289181,
-    "holdings": 217
+    "holdings": 218
   },
   {
     "s": "KXI",
@@ -9728,16 +9738,6 @@
     "change": 3.37,
     "volume": 795901,
     "holdings": 16
-  },
-  {
-    "s": "IVES",
-    "n": "Dan IVES Wedbush AI Revolution ETF",
-    "assetClass": "Equity",
-    "aum": 983195985,
-    "price": 32.72,
-    "change": 1.18,
-    "volume": 1127109,
-    "holdings": 31
   },
   {
     "s": "CERY",
@@ -9920,6 +9920,16 @@
     "holdings": 1125
   },
   {
+    "s": "PAPR",
+    "n": "Innovator U.S. Equity Power Buffer ETF - April",
+    "assetClass": "Alternatives",
+    "aum": 924973511,
+    "price": 41.41,
+    "change": 0.63,
+    "volume": 81763,
+    "holdings": 6
+  },
+  {
     "s": "XLSR",
     "n": "State Street US Sector Rotation ETF",
     "assetClass": "Equity",
@@ -10000,6 +10010,16 @@
     "holdings": 141
   },
   {
+    "s": "VGUS",
+    "n": "Vanguard Ultra-Short Treasury ETF",
+    "assetClass": "Fixed Income",
+    "aum": 908849500,
+    "price": 75.605,
+    "change": 0.06,
+    "volume": 211331,
+    "holdings": 92
+  },
+  {
     "s": "MODL",
     "n": "VictoryShares WestEnd U.S. Sector ETF",
     "assetClass": "Equity",
@@ -10018,26 +10038,6 @@
     "change": 0.05,
     "volume": 62116,
     "holdings": 5
-  },
-  {
-    "s": "PAPR",
-    "n": "Innovator U.S. Equity Power Buffer ETF - April",
-    "assetClass": "Alternatives",
-    "aum": 906778216,
-    "price": 41.41,
-    "change": 0.63,
-    "volume": 81763,
-    "holdings": 6
-  },
-  {
-    "s": "VGUS",
-    "n": "Vanguard Ultra-Short Treasury ETF",
-    "assetClass": "Fixed Income",
-    "aum": 906600000,
-    "price": 75.605,
-    "change": 0.06,
-    "volume": 211331,
-    "holdings": 92
   },
   {
     "s": "PFEB",
@@ -10217,7 +10217,7 @@
     "price": 46.43,
     "change": 1.53,
     "volume": 210487,
-    "holdings": 111
+    "holdings": 110
   },
   {
     "s": "FTXR",
@@ -10270,6 +10270,16 @@
     "holdings": 28
   },
   {
+    "s": "FLGB",
+    "n": "Franklin FTSE United Kingdom ETF",
+    "assetClass": "Equity",
+    "aum": 875982182,
+    "price": 36.91,
+    "change": 0.93,
+    "volume": 40606,
+    "holdings": 100
+  },
+  {
     "s": "ARKF",
     "n": "ARK Blockchain & Fintech Innovation ETF",
     "assetClass": "Equity",
@@ -10278,16 +10288,6 @@
     "change": 1.97,
     "volume": 204564,
     "holdings": 47
-  },
-  {
-    "s": "FLGB",
-    "n": "Franklin FTSE United Kingdom ETF",
-    "assetClass": "Equity",
-    "aum": 872077137,
-    "price": 36.91,
-    "change": 0.93,
-    "volume": 40606,
-    "holdings": 100
   },
   {
     "s": "MSFU",
@@ -10557,7 +10557,7 @@
     "price": 32.3583,
     "change": 1.25,
     "volume": 17198,
-    "holdings": 209
+    "holdings": 210
   },
   {
     "s": "RSPN",
@@ -10760,6 +10760,16 @@
     "holdings": 0
   },
   {
+    "s": "RGEF",
+    "n": "Rockefeller Global Equity ETF",
+    "assetClass": "Equity",
+    "aum": 788263287,
+    "price": 32.9409,
+    "change": 1.26,
+    "volume": 2664,
+    "holdings": 73
+  },
+  {
     "s": "DOL",
     "n": "WisdomTree True Developed International Fund",
     "assetClass": "Equity",
@@ -10800,14 +10810,14 @@
     "holdings": 103
   },
   {
-    "s": "RGEF",
-    "n": "Rockefeller Global Equity ETF",
+    "s": "IETC",
+    "n": "iShares U.S. Tech Independence Focused ETF",
     "assetClass": "Equity",
-    "aum": 775133184,
-    "price": 32.9409,
-    "change": 1.26,
-    "volume": 2664,
-    "holdings": 74
+    "aum": 776966178,
+    "price": 100.85,
+    "change": 1.3,
+    "volume": 47643,
+    "holdings": 91
   },
   {
     "s": "ROM",
@@ -10890,6 +10900,16 @@
     "holdings": 784
   },
   {
+    "s": "BGDV",
+    "n": "Bahl & Gaynor Dividend ETF",
+    "assetClass": "Equity",
+    "aum": 765556068,
+    "price": 29.5397,
+    "change": 1.13,
+    "volume": 20649,
+    "holdings": 55
+  },
+  {
     "s": "JCPI",
     "n": "JPMorgan Inflation Managed Bond ETF",
     "assetClass": "Fixed Income",
@@ -10950,16 +10970,6 @@
     "holdings": 341
   },
   {
-    "s": "BGDV",
-    "n": "Bahl & Gaynor Dividend ETF",
-    "assetClass": "Equity",
-    "aum": 755970636,
-    "price": 29.5397,
-    "change": 1.13,
-    "volume": 20649,
-    "holdings": 55
-  },
-  {
     "s": "XBIL",
     "n": "US Treasury 6 Month Bill ETF",
     "assetClass": "Fixed Income",
@@ -11008,6 +11018,16 @@
     "change": 1.06,
     "volume": 101850,
     "holdings": 52
+  },
+  {
+    "s": "RSMC",
+    "n": "Rockefeller U.S. Small-Mid Cap ETF",
+    "assetClass": "Equity",
+    "aum": 747783366,
+    "price": 27.2346,
+    "change": 0.76,
+    "volume": 2017,
+    "holdings": 45
   },
   {
     "s": "DBEU",
@@ -11108,16 +11128,6 @@
     "change": 0.69,
     "volume": 40726,
     "holdings": 10
-  },
-  {
-    "s": "RSMC",
-    "n": "Rockefeller U.S. Small-Mid Cap ETF",
-    "assetClass": "Equity",
-    "aum": 740529053,
-    "price": 27.2346,
-    "change": 0.76,
-    "volume": 2017,
-    "holdings": 47
   },
   {
     "s": "FLSP",
@@ -11260,6 +11270,16 @@
     "holdings": 130
   },
   {
+    "s": "FLIA",
+    "n": "Franklin International Aggregate Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 727989009,
+    "price": 20.3899,
+    "change": 0.44,
+    "volume": 30916,
+    "holdings": 82
+  },
+  {
     "s": "BBSC",
     "n": "JPMorgan BetaBuilders U.S. Small Cap Equity Fund",
     "assetClass": "Equity",
@@ -11288,26 +11308,6 @@
     "change": 0.55,
     "volume": 14460,
     "holdings": 103
-  },
-  {
-    "s": "IETC",
-    "n": "iShares U.S. Tech Independence Focused ETF",
-    "assetClass": "Equity",
-    "aum": 724077889,
-    "price": 100.85,
-    "change": 1.3,
-    "volume": 47643,
-    "holdings": 91
-  },
-  {
-    "s": "FLIA",
-    "n": "Franklin International Aggregate Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 722906256,
-    "price": 20.3899,
-    "change": 0.44,
-    "volume": 30916,
-    "holdings": 82
   },
   {
     "s": "IDHQ",
@@ -11410,6 +11410,16 @@
     "holdings": 54
   },
   {
+    "s": "OMAH",
+    "n": "VistaShares Target 15 Berkshire Select Income ETF",
+    "assetClass": "Equity",
+    "aum": 703763708,
+    "price": 18.53,
+    "change": 0.32,
+    "volume": 526755,
+    "holdings": 78
+  },
+  {
     "s": "CPER",
     "n": "United States Copper Index Fund",
     "assetClass": "Commodity",
@@ -11438,16 +11448,6 @@
     "change": 1.51,
     "volume": 175573,
     "holdings": 171
-  },
-  {
-    "s": "OMAH",
-    "n": "VistaShares Target 15 Berkshire Select Income ETF",
-    "assetClass": "Equity",
-    "aum": 697944494,
-    "price": 18.53,
-    "change": 0.32,
-    "volume": 526755,
-    "holdings": 78
   },
   {
     "s": "DMBS",
@@ -11620,6 +11620,16 @@
     "holdings": 497
   },
   {
+    "s": "XCHG",
+    "n": "AB US Equity ETF",
+    "assetClass": "Equity",
+    "aum": 679173035,
+    "price": 25.9327,
+    "change": 1.3,
+    "volume": 13326,
+    "holdings": 597
+  },
+  {
     "s": "DFCA",
     "n": "Dimensional California Municipal Bond ETF",
     "assetClass": "Fixed Income",
@@ -11728,16 +11738,6 @@
     "change": 0.03,
     "volume": 46122,
     "holdings": 15
-  },
-  {
-    "s": "XCHG",
-    "n": "AB US Equity ETF",
-    "assetClass": "Equity",
-    "aum": 666472699,
-    "price": 25.9327,
-    "change": 1.3,
-    "volume": 13326,
-    "holdings": 599
   },
   {
     "s": "BSJS",
@@ -11900,6 +11900,16 @@
     "holdings": 6
   },
   {
+    "s": "HNDL",
+    "n": "Strategy Shares Nasdaq 7HANDL Index ETF",
+    "assetClass": "Asset Allocation",
+    "aum": 641400094,
+    "price": 22.5778,
+    "change": 0.7,
+    "volume": 128245,
+    "holdings": 23
+  },
+  {
     "s": "SILJ",
     "n": "Amplify Junior Silver Miners ETF",
     "assetClass": "Equity",
@@ -11940,16 +11950,6 @@
     "holdings": 267
   },
   {
-    "s": "HNDL",
-    "n": "Strategy Shares Nasdaq 7HANDL Index ETF",
-    "assetClass": "Asset Allocation",
-    "aum": 636147271,
-    "price": 22.5778,
-    "change": 0.7,
-    "volume": 128245,
-    "holdings": 23
-  },
-  {
     "s": "SAMT",
     "n": "Strategas Macro Thematic Opportunities ETF",
     "assetClass": "Equity",
@@ -11968,6 +11968,16 @@
     "change": 0,
     "volume": 43636,
     "holdings": 2544
+  },
+  {
+    "s": "BSOL",
+    "n": "Bitwise Solana Staking ETF",
+    "assetClass": "Currency",
+    "aum": 633408160,
+    "price": 12.02,
+    "change": -0.83,
+    "volume": 1874626,
+    "holdings": 1
   },
   {
     "s": "TLTD",
@@ -12450,6 +12460,26 @@
     "holdings": 171
   },
   {
+    "s": "FTCA",
+    "n": "Franklin California Municipal Income ETF",
+    "assetClass": "Fixed Income",
+    "aum": 592285824,
+    "price": 7.37,
+    "change": 0.41,
+    "volume": 147042,
+    "holdings": 286
+  },
+  {
+    "s": "FSMB",
+    "n": "First Trust Short Duration Managed Municipal ETF",
+    "assetClass": "Fixed Income",
+    "aum": 591313768,
+    "price": 20.045,
+    "change": 0.07,
+    "volume": 59025,
+    "holdings": 547
+  },
+  {
     "s": "FLCO",
     "n": "Franklin Investment Grade Corporate ETF",
     "assetClass": "Fixed Income",
@@ -12460,16 +12490,6 @@
     "holdings": 224
   },
   {
-    "s": "FTCA",
-    "n": "Franklin California Municipal Income ETF",
-    "assetClass": "Fixed Income",
-    "aum": 591188059,
-    "price": 7.37,
-    "change": 0.41,
-    "volume": 147042,
-    "holdings": 286
-  },
-  {
     "s": "SVOL",
     "n": "Simplify Volatility Premium ETF",
     "assetClass": "Alternatives",
@@ -12478,16 +12498,6 @@
     "change": -0.38,
     "volume": 349026,
     "holdings": 32
-  },
-  {
-    "s": "FSMB",
-    "n": "First Trust Short Duration Managed Municipal ETF",
-    "assetClass": "Fixed Income",
-    "aum": 588967639,
-    "price": 20.045,
-    "change": 0.07,
-    "volume": 59025,
-    "holdings": 547
   },
   {
     "s": "IXP",
@@ -12528,6 +12538,16 @@
     "change": 1.45,
     "volume": 46,
     "holdings": 131
+  },
+  {
+    "s": "VFMF",
+    "n": "Vanguard U.S. Multifactor ETF",
+    "assetClass": "Equity",
+    "aum": 582040300,
+    "price": 166.0327,
+    "change": 1.45,
+    "volume": 13437,
+    "holdings": 567
   },
   {
     "s": "QSPT",
@@ -12580,16 +12600,6 @@
     "holdings": 1168
   },
   {
-    "s": "BSOL",
-    "n": "Bitwise Solana Staking ETF",
-    "assetClass": "Currency",
-    "aum": 578612670,
-    "price": 12.02,
-    "change": -0.83,
-    "volume": 1874626,
-    "holdings": 1
-  },
-  {
     "s": "FMAT",
     "n": "Fidelity MSCI Materials Index ETF",
     "assetClass": "Equity",
@@ -12628,16 +12638,6 @@
     "change": 0.12,
     "volume": 70027,
     "holdings": 1463
-  },
-  {
-    "s": "VFMF",
-    "n": "Vanguard U.S. Multifactor ETF",
-    "assetClass": "Equity",
-    "aum": 567845900,
-    "price": 166.0327,
-    "change": 1.45,
-    "volume": 13437,
-    "holdings": 567
   },
   {
     "s": "REM",
@@ -12920,6 +12920,16 @@
     "holdings": 55
   },
   {
+    "s": "JUST",
+    "n": "Goldman Sachs JUST U.S. Large Cap Equity ETF",
+    "assetClass": "Equity",
+    "aum": 540826843,
+    "price": 101.1458,
+    "change": 1.22,
+    "volume": 4699,
+    "holdings": 467
+  },
+  {
     "s": "TFLR",
     "n": "T. Rowe Price Floating Rate ETF",
     "assetClass": "Fixed Income",
@@ -13118,16 +13128,6 @@
     "change": 0.53,
     "volume": 18612,
     "holdings": 10
-  },
-  {
-    "s": "JUST",
-    "n": "Goldman Sachs JUST U.S. Large Cap Equity ETF",
-    "assetClass": "Equity",
-    "aum": 521769758,
-    "price": 101.1458,
-    "change": 1.22,
-    "volume": 4699,
-    "holdings": 467
   },
   {
     "s": "ONEV",
@@ -13390,6 +13390,16 @@
     "holdings": 59
   },
   {
+    "s": "AAUS",
+    "n": "Alpha Architect US Equity ETF",
+    "assetClass": "Equity",
+    "aum": 501508598,
+    "price": 56.9155,
+    "change": 1.17,
+    "volume": 590,
+    "holdings": 376
+  },
+  {
     "s": "CMBS",
     "n": "iShares CMBS ETF",
     "assetClass": "Fixed Income",
@@ -13443,7 +13453,7 @@
     "s": "CMDY",
     "n": "iShares Bloomberg Roll Select Commodity Strategy ETF",
     "assetClass": "Commodity",
-    "aum": 497083835,
+    "aum": 497213891,
     "price": 58.06,
     "change": -2.12,
     "volume": 76727,
@@ -13530,6 +13540,16 @@
     "holdings": 197
   },
   {
+    "s": "FDHY",
+    "n": "Fidelity Enhanced High Yield ETF",
+    "assetClass": "Fixed Income",
+    "aum": 493606566,
+    "price": 49.55,
+    "change": 0.36,
+    "volume": 65559,
+    "holdings": 308
+  },
+  {
     "s": "SPXU",
     "n": "ProShares UltraPro Short S&P500",
     "assetClass": "Equity",
@@ -13560,16 +13580,6 @@
     "holdings": 459
   },
   {
-    "s": "FDHY",
-    "n": "Fidelity Enhanced High Yield ETF",
-    "assetClass": "Fixed Income",
-    "aum": 491031726,
-    "price": 49.55,
-    "change": 0.36,
-    "volume": 65559,
-    "holdings": 308
-  },
-  {
     "s": "NTSI",
     "n": "WisdomTree International Efficient Core Fund",
     "assetClass": "Asset Allocation",
@@ -13578,16 +13588,6 @@
     "change": 1.4,
     "volume": 19022,
     "holdings": 454
-  },
-  {
-    "s": "AAUS",
-    "n": "Alpha Architect US Equity ETF",
-    "assetClass": "Equity",
-    "aum": 490485478,
-    "price": 56.9155,
-    "change": 1.17,
-    "volume": 590,
-    "holdings": 376
   },
   {
     "s": "BLUX",
@@ -13737,7 +13737,7 @@
     "price": 25.365,
     "change": 0.36,
     "volume": 192674,
-    "holdings": 483
+    "holdings": 480
   },
   {
     "s": "AAEQ",
@@ -14137,7 +14137,7 @@
     "price": 21.75,
     "change": 0.88,
     "volume": 64526,
-    "holdings": 226
+    "holdings": 227
   },
   {
     "s": "LABU",
@@ -14260,6 +14260,16 @@
     "holdings": 14
   },
   {
+    "s": "VFQY",
+    "n": "Vanguard U.S. Quality Factor ETF",
+    "assetClass": "Equity",
+    "aum": 446527950,
+    "price": 159.3501,
+    "change": 1.54,
+    "volume": 8373,
+    "holdings": 416
+  },
+  {
     "s": "EELV",
     "n": "Invesco S&P Emerging Markets Low Volatility ETF",
     "assetClass": "Equity",
@@ -14327,7 +14337,7 @@
     "price": 36.36,
     "change": -0.9,
     "volume": 232254,
-    "holdings": 29
+    "holdings": 27
   },
   {
     "s": "TECB",
@@ -14510,16 +14520,6 @@
     "holdings": 65
   },
   {
-    "s": "VFQY",
-    "n": "Vanguard U.S. Quality Factor ETF",
-    "assetClass": "Equity",
-    "aum": 434224000,
-    "price": 159.3501,
-    "change": 1.54,
-    "volume": 8373,
-    "holdings": 416
-  },
-  {
     "s": "GDLC",
     "n": "Grayscale CoinDesk Crypto 5 ETF",
     "assetClass": "Currency",
@@ -14617,7 +14617,7 @@
     "price": 29.22,
     "change": 2.74,
     "volume": 924437,
-    "holdings": 23
+    "holdings": 28
   },
   {
     "s": "EWQ",
@@ -14630,6 +14630,16 @@
     "holdings": 60
   },
   {
+    "s": "MMIN",
+    "n": "NYLI MacKay Muni Insured ETF",
+    "assetClass": "Fixed Income",
+    "aum": 429689413,
+    "price": 24.09,
+    "change": 0.25,
+    "volume": 60992,
+    "holdings": 215
+  },
+  {
     "s": "JIG",
     "n": "JPMorgan International Growth ETF",
     "assetClass": "Equity",
@@ -14638,16 +14648,6 @@
     "change": 2.11,
     "volume": 15004,
     "holdings": 108
-  },
-  {
-    "s": "MMIN",
-    "n": "NYLI MacKay Muni Insured ETF",
-    "assetClass": "Fixed Income",
-    "aum": 428804757,
-    "price": 24.09,
-    "change": 0.25,
-    "volume": 60992,
-    "holdings": 215
   },
   {
     "s": "PFLD",
@@ -14820,6 +14820,16 @@
     "holdings": 245
   },
   {
+    "s": "TCPB",
+    "n": "Thrivent Core Plus Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 414777887,
+    "price": 51.24,
+    "change": 0.35,
+    "volume": 11894,
+    "holdings": 452
+  },
+  {
     "s": "GGUS",
     "n": "Marketbeta Russell 1000 Growth Equity ETF",
     "assetClass": "Equity",
@@ -14848,16 +14858,6 @@
     "change": 0.37,
     "volume": 31538,
     "holdings": 5
-  },
-  {
-    "s": "TCPB",
-    "n": "Thrivent Core Plus Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 413696917,
-    "price": 51.24,
-    "change": 0.35,
-    "volume": 11894,
-    "holdings": 452
   },
   {
     "s": "QMOM",
@@ -14900,16 +14900,6 @@
     "holdings": 796
   },
   {
-    "s": "HECA",
-    "n": "Hedgeye Capital Allocation ETF",
-    "assetClass": "Asset Allocation",
-    "aum": 411253987,
-    "price": 27.48,
-    "change": -0.4,
-    "volume": 512765,
-    "holdings": 24
-  },
-  {
     "s": "GNMA",
     "n": "iShares GNMA Bond ETF",
     "assetClass": "Fixed Income",
@@ -14950,6 +14940,26 @@
     "holdings": 6
   },
   {
+    "s": "VFMV",
+    "n": "Vanguard U.S. Minimum Volatility ETF",
+    "assetClass": "Equity",
+    "aum": 409924200,
+    "price": 139.4489,
+    "change": 1.14,
+    "volume": 13897,
+    "holdings": 189
+  },
+  {
+    "s": "HECA",
+    "n": "Hedgeye Capital Allocation ETF",
+    "assetClass": "Asset Allocation",
+    "aum": 408871659,
+    "price": 27.48,
+    "change": -0.4,
+    "volume": 512765,
+    "holdings": 24
+  },
+  {
     "s": "QVMM",
     "n": "Invesco S&P MidCap 400 QVM Multi-factor ETF",
     "assetClass": "Equity",
@@ -14987,7 +14997,7 @@
     "price": 31.07,
     "change": -3.48,
     "volume": 19070898,
-    "holdings": 19
+    "holdings": 12
   },
   {
     "s": "ZAP",
@@ -15010,6 +15020,16 @@
     "holdings": 126
   },
   {
+    "s": "SRVR",
+    "n": "Pacer Data & Infrastructure Real Estate ETF",
+    "assetClass": "Equity",
+    "aum": 402768773,
+    "price": 35.31,
+    "change": 1.58,
+    "volume": 40386,
+    "holdings": 74
+  },
+  {
     "s": "APLU",
     "n": "Allspring Core Plus ETF",
     "assetClass": "Fixed Income",
@@ -15028,16 +15048,6 @@
     "change": 1.2,
     "volume": 7462,
     "holdings": 503
-  },
-  {
-    "s": "VFMV",
-    "n": "Vanguard U.S. Minimum Volatility ETF",
-    "assetClass": "Equity",
-    "aum": 399672000,
-    "price": 139.4489,
-    "change": 1.14,
-    "volume": 13897,
-    "holdings": 189
   },
   {
     "s": "STOT",
@@ -15190,6 +15200,16 @@
     "holdings": 6
   },
   {
+    "s": "HEDG",
+    "n": "Equable Shares Hedged Equity ETF",
+    "assetClass": "Equity",
+    "aum": 390335265,
+    "price": 29.683,
+    "change": 0.11,
+    "volume": 186426,
+    "holdings": 10
+  },
+  {
     "s": "FLTB",
     "n": "Fidelity Limited Term Bond ETF",
     "assetClass": "Fixed Income",
@@ -15228,16 +15248,6 @@
     "change": 0.33,
     "volume": 15476,
     "holdings": 6
-  },
-  {
-    "s": "HEDG",
-    "n": "Equable Shares Hedged Equity ETF",
-    "assetClass": "Equity",
-    "aum": 389462975,
-    "price": 29.683,
-    "change": 0.11,
-    "volume": 186426,
-    "holdings": 11
   },
   {
     "s": "GMAR",
@@ -15298,16 +15308,6 @@
     "change": 1.19,
     "volume": 1514746,
     "holdings": 22
-  },
-  {
-    "s": "SRVR",
-    "n": "Pacer Data & Infrastructure Real Estate ETF",
-    "assetClass": "Equity",
-    "aum": 386538024,
-    "price": 35.31,
-    "change": 1.58,
-    "volume": 40386,
-    "holdings": 74
   },
   {
     "s": "CEMB",
@@ -15397,7 +15397,7 @@
     "price": 101.235,
     "change": 0.1,
     "volume": 10,
-    "holdings": 197
+    "holdings": 198
   },
   {
     "s": "BJAN",
@@ -15947,7 +15947,7 @@
     "price": 46.4,
     "change": 0.67,
     "volume": 18849,
-    "holdings": 54
+    "holdings": 53
   },
   {
     "s": "KHPI",
@@ -16038,6 +16038,16 @@
     "change": -0.76,
     "volume": 29292,
     "holdings": 85
+  },
+  {
+    "s": "AIPO",
+    "n": "Defiance AI & Power Infrastructure ETF",
+    "assetClass": "Equity",
+    "aum": 338088016,
+    "price": 29.16,
+    "change": 2.07,
+    "volume": 568778,
+    "holdings": 77
   },
   {
     "s": "DUBS",
@@ -16360,6 +16370,16 @@
     "holdings": 536
   },
   {
+    "s": "XRP",
+    "n": "Bitwise XRP ETF",
+    "assetClass": "Currency",
+    "aum": 320506480,
+    "price": 16.67,
+    "change": 1.77,
+    "volume": 770844,
+    "holdings": 1
+  },
+  {
     "s": "USDX",
     "n": "SGI Enhanced Core ETF",
     "assetClass": "Fixed Income",
@@ -16418,16 +16438,6 @@
     "change": 0.25,
     "volume": 13251,
     "holdings": 6
-  },
-  {
-    "s": "AIPO",
-    "n": "Defiance AI & Power Infrastructure ETF",
-    "assetClass": "Equity",
-    "aum": 316598047,
-    "price": 29.16,
-    "change": 2.07,
-    "volume": 568778,
-    "holdings": 78
   },
   {
     "s": "HAP",
@@ -16540,6 +16550,16 @@
     "holdings": 243
   },
   {
+    "s": "FIDI",
+    "n": "Fidelity International High Dividend ETF",
+    "assetClass": "Equity",
+    "aum": 312089998,
+    "price": 28.42,
+    "change": 0.18,
+    "volume": 74400,
+    "holdings": 129
+  },
+  {
     "s": "URTY",
     "n": "ProShares UltraPro Russell2000",
     "assetClass": "Equity",
@@ -16568,16 +16588,6 @@
     "change": 0.64,
     "volume": 8504,
     "holdings": 6
-  },
-  {
-    "s": "FIDI",
-    "n": "Fidelity International High Dividend ETF",
-    "assetClass": "Equity",
-    "aum": 309860850,
-    "price": 28.42,
-    "change": 0.18,
-    "volume": 74400,
-    "holdings": 129
   },
   {
     "s": "RFG",
@@ -16680,16 +16690,6 @@
     "holdings": 3
   },
   {
-    "s": "TMVE",
-    "n": "Thrivent Mid Cap Value ETF",
-    "assetClass": "Equity",
-    "aum": 305986261,
-    "price": 16.735,
-    "change": 1.42,
-    "volume": 1450,
-    "holdings": 80
-  },
-  {
     "s": "HTAB",
     "n": "Hartford Schroders Tax-Aware Bond ETF",
     "assetClass": "Fixed Income",
@@ -16728,6 +16728,16 @@
     "change": 1.58,
     "volume": 124,
     "holdings": 30
+  },
+  {
+    "s": "TMVE",
+    "n": "Thrivent Mid Cap Value ETF",
+    "assetClass": "Equity",
+    "aum": 303340938,
+    "price": 16.735,
+    "change": 1.42,
+    "volume": 1450,
+    "holdings": 80
   },
   {
     "s": "BSMQ",
@@ -16827,7 +16837,7 @@
     "price": 14.67,
     "change": 2.44,
     "volume": 793472,
-    "holdings": 16
+    "holdings": 18
   },
   {
     "s": "BSMS",
@@ -17110,6 +17120,16 @@
     "holdings": 87
   },
   {
+    "s": "HOLA",
+    "n": "JPMorgan International Hedged Equity Laddered Overlay ETF",
+    "assetClass": "Equity",
+    "aum": 283169565,
+    "price": 54.5934,
+    "change": 0.47,
+    "volume": 10068,
+    "holdings": 227
+  },
+  {
     "s": "DINT",
     "n": "Davis Select International ETF",
     "assetClass": "Equity",
@@ -17168,16 +17188,6 @@
     "change": 1.01,
     "volume": 10285,
     "holdings": 140
-  },
-  {
-    "s": "HOLA",
-    "n": "JPMorgan International Hedged Equity Laddered Overlay ETF",
-    "assetClass": "Equity",
-    "aum": 281447303,
-    "price": 54.5934,
-    "change": 0.47,
-    "volume": 10068,
-    "holdings": 227
   },
   {
     "s": "USNZ",
@@ -17280,6 +17290,16 @@
     "holdings": 6
   },
   {
+    "s": "ESPO",
+    "n": "VanEck Video Gaming and eSports ETF",
+    "assetClass": "Equity",
+    "aum": 278112906,
+    "price": 95.7841,
+    "change": 0.91,
+    "volume": 12787,
+    "holdings": 29
+  },
+  {
     "s": "IBMS",
     "n": "iShares iBonds Dec 2030 Term Muni Bond ETF",
     "assetClass": "Fixed Income",
@@ -17330,14 +17350,14 @@
     "holdings": 58
   },
   {
-    "s": "XRP",
-    "n": "Bitwise XRP ETF",
+    "s": "ETHT",
+    "n": "ProShares Ultra Ether ETF",
     "assetClass": "Currency",
-    "aum": 275616519,
-    "price": 16.67,
-    "change": 1.77,
-    "volume": 770844,
-    "holdings": 1
+    "aum": 275906095,
+    "price": 19.86,
+    "change": 5.98,
+    "volume": 3980278,
+    "holdings": 5
   },
   {
     "s": "ISMD",
@@ -17427,7 +17447,7 @@
     "price": 25.535,
     "change": 0.06,
     "volume": 83595,
-    "holdings": 95
+    "holdings": 96
   },
   {
     "s": "FCPI",
@@ -17650,16 +17670,6 @@
     "holdings": 121
   },
   {
-    "s": "ESPO",
-    "n": "VanEck Video Gaming and eSports ETF",
-    "assetClass": "Equity",
-    "aum": 263054314,
-    "price": 95.7841,
-    "change": 0.91,
-    "volume": 12787,
-    "holdings": 29
-  },
-  {
     "s": "FMF",
     "n": "First Trust Managed Futures Strategy Fund",
     "assetClass": "Alternatives",
@@ -17698,6 +17708,16 @@
     "change": 0.75,
     "volume": 43240,
     "holdings": 222
+  },
+  {
+    "s": "SHYL",
+    "n": "Xtrackers Short Duration High Yield Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 261885083,
+    "price": 44.8198,
+    "change": 0.36,
+    "volume": 26530,
+    "holdings": 818
   },
   {
     "s": "CSB",
@@ -17750,6 +17770,16 @@
     "holdings": 25
   },
   {
+    "s": "FTMA",
+    "n": "Franklin Massachusetts Municipal Income ETF",
+    "assetClass": "Fixed Income",
+    "aum": 259887481,
+    "price": 9.06,
+    "change": 0.44,
+    "volume": 140652,
+    "holdings": 165
+  },
+  {
     "s": "BSJU",
     "n": "Invesco BulletShares 2030 High Yield Corporate Bond ETF",
     "assetClass": "Fixed Income",
@@ -17768,16 +17798,6 @@
     "change": -0.54,
     "volume": 271965,
     "holdings": 54
-  },
-  {
-    "s": "FTMA",
-    "n": "Franklin Massachusetts Municipal Income ETF",
-    "assetClass": "Fixed Income",
-    "aum": 259502583,
-    "price": 9.06,
-    "change": 0.44,
-    "volume": 140652,
-    "holdings": 165
   },
   {
     "s": "DAX",
@@ -17837,17 +17857,7 @@
     "price": 46.545,
     "change": 1.1,
     "volume": 24100,
-    "holdings": 101
-  },
-  {
-    "s": "ETHT",
-    "n": "ProShares Ultra Ether ETF",
-    "assetClass": "Currency",
-    "aum": 257791908,
-    "price": 19.86,
-    "change": 5.98,
-    "volume": 3980278,
-    "holdings": 5
+    "holdings": 100
   },
   {
     "s": "HYTR",
@@ -17890,6 +17900,16 @@
     "holdings": 121
   },
   {
+    "s": "UEVM",
+    "n": "VictoryShares Emerging Markets Value Momentum ETF",
+    "assetClass": "Equity",
+    "aum": 255395474,
+    "price": 61.43,
+    "change": 1.44,
+    "volume": 727,
+    "holdings": 202
+  },
+  {
     "s": "GMUB",
     "n": "Goldman Sachs Municipal Income ETF",
     "assetClass": "Fixed Income",
@@ -17897,7 +17917,17 @@
     "price": 51.39,
     "change": 0.31,
     "volume": 84289,
-    "holdings": 494
+    "holdings": 497
+  },
+  {
+    "s": "GPZ",
+    "n": "VanEck Alternative Asset Manager ETF",
+    "assetClass": "Equity",
+    "aum": 254536807,
+    "price": 24.07,
+    "change": 1.99,
+    "volume": 277088,
+    "holdings": 24
   },
   {
     "s": "SPXT",
@@ -17928,16 +17958,6 @@
     "change": 0.84,
     "volume": 18123,
     "holdings": 10
-  },
-  {
-    "s": "SHYL",
-    "n": "Xtrackers Short Duration High Yield Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 253733399,
-    "price": 44.8198,
-    "change": 0.36,
-    "volume": 26530,
-    "holdings": 818
   },
   {
     "s": "LRGG",
@@ -17990,6 +18010,16 @@
     "holdings": 479
   },
   {
+    "s": "QTOP",
+    "n": "iShares Nasdaq Top 30 Stocks ETF",
+    "assetClass": "Equity",
+    "aum": 252225416,
+    "price": 34.09,
+    "change": 1.19,
+    "volume": 237040,
+    "holdings": 35
+  },
+  {
     "s": "MNA",
     "n": "NYLI Merger Arbitrage ETF",
     "assetClass": "Alternatives",
@@ -18028,16 +18058,6 @@
     "change": 0.99,
     "volume": 99777,
     "holdings": 154
-  },
-  {
-    "s": "UEVM",
-    "n": "VictoryShares Emerging Markets Value Momentum ETF",
-    "assetClass": "Equity",
-    "aum": 251317526,
-    "price": 61.43,
-    "change": 1.44,
-    "volume": 727,
-    "holdings": 202
   },
   {
     "s": "GTIP",
@@ -18170,6 +18190,16 @@
     "holdings": 58
   },
   {
+    "s": "ULVM",
+    "n": "VictoryShares US Value Momentum ETF",
+    "assetClass": "Equity",
+    "aum": 246547350,
+    "price": 100.5847,
+    "change": 0.89,
+    "volume": 913,
+    "holdings": 127
+  },
+  {
     "s": "BDEC",
     "n": "Innovator U.S. Equity Buffer ETF - December",
     "assetClass": "Alternatives",
@@ -18188,16 +18218,6 @@
     "change": 1.98,
     "volume": 23002,
     "holdings": 121
-  },
-  {
-    "s": "QTOP",
-    "n": "iShares Nasdaq Top 30 Stocks ETF",
-    "assetClass": "Equity",
-    "aum": 245276498,
-    "price": 34.09,
-    "change": 1.19,
-    "volume": 237040,
-    "holdings": 35
   },
   {
     "s": "PBE",
@@ -18270,16 +18290,6 @@
     "holdings": 39
   },
   {
-    "s": "ULVM",
-    "n": "VictoryShares US Value Momentum ETF",
-    "assetClass": "Equity",
-    "aum": 243271754,
-    "price": 100.5847,
-    "change": 0.89,
-    "volume": 913,
-    "holdings": 127
-  },
-  {
     "s": "DEUS",
     "n": "Xtrackers Russell US Multifactor ETF",
     "assetClass": "Equity",
@@ -18298,6 +18308,16 @@
     "change": 0.16,
     "volume": 309898,
     "holdings": 23
+  },
+  {
+    "s": "UOCT",
+    "n": "Innovator U.S. Equity Ultra Buffer ETF - October",
+    "assetClass": "Alternatives",
+    "aum": 243186995,
+    "price": 40.025,
+    "change": 0.51,
+    "volume": 1587056,
+    "holdings": 6
   },
   {
     "s": "CPAI",
@@ -18388,16 +18408,6 @@
     "change": 1.43,
     "volume": 19324,
     "holdings": 1872
-  },
-  {
-    "s": "UOCT",
-    "n": "Innovator U.S. Equity Ultra Buffer ETF - October",
-    "assetClass": "Alternatives",
-    "aum": 239339448,
-    "price": 40.025,
-    "change": 0.51,
-    "volume": 1587056,
-    "holdings": 6
   },
   {
     "s": "MFUS",
@@ -19000,14 +19010,14 @@
     "holdings": 35
   },
   {
-    "s": "GPZ",
-    "n": "VanEck Alternative Asset Manager ETF",
+    "s": "YOKE",
+    "n": "YOKE Core ETF",
     "assetClass": "Equity",
-    "aum": 221817211,
-    "price": 24.07,
-    "change": 1.99,
-    "volume": 277088,
-    "holdings": 24
+    "aum": 221580889,
+    "price": 29.9848,
+    "change": 1.4,
+    "volume": 14632,
+    "holdings": 53
   },
   {
     "s": "PGHY",
@@ -19070,20 +19080,10 @@
     "holdings": 75
   },
   {
-    "s": "YOKE",
-    "n": "YOKE Core ETF",
-    "assetClass": "Equity",
-    "aum": 220199944,
-    "price": 29.9848,
-    "change": 1.4,
-    "volume": 14632,
-    "holdings": 53
-  },
-  {
     "s": "WTMF",
     "n": "WisdomTree Managed Futures Strategy Fund",
     "assetClass": "Alternatives",
-    "aum": 219450684,
+    "aum": 219498236,
     "price": 40.31,
     "change": -0.02,
     "volume": 17540,
@@ -19180,6 +19180,16 @@
     "holdings": 6
   },
   {
+    "s": "TUSB",
+    "n": "Thrivent Ultra Short Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 214251278,
+    "price": 50.445,
+    "change": -0.03,
+    "volume": 9527,
+    "holdings": 438
+  },
+  {
     "s": "NAPR",
     "n": "Innovator Growth-100 Power Buffer ETF - April",
     "assetClass": "Alternatives",
@@ -19188,16 +19198,6 @@
     "change": 0.35,
     "volume": 15345,
     "holdings": 6
-  },
-  {
-    "s": "TUSB",
-    "n": "Thrivent Ultra Short Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 214146039,
-    "price": 50.445,
-    "change": -0.03,
-    "volume": 9527,
-    "holdings": 438
   },
   {
     "s": "MUSI",
@@ -19407,7 +19407,7 @@
     "price": 53.13,
     "change": 0.3,
     "volume": 18503,
-    "holdings": 258
+    "holdings": 260
   },
   {
     "s": "TMAT",
@@ -19547,7 +19547,7 @@
     "price": 50.725,
     "change": 0.05,
     "volume": 11110,
-    "holdings": 246
+    "holdings": 249
   },
   {
     "s": "SBND",
@@ -19580,6 +19580,16 @@
     "holdings": 83
   },
   {
+    "s": "AINP",
+    "n": "Allspring Income Plus ETF",
+    "assetClass": "Fixed Income",
+    "aum": 199148802,
+    "price": 25.2187,
+    "change": 0.35,
+    "volume": 550,
+    "holdings": 401
+  },
+  {
     "s": "SVXY",
     "n": "ProShares Short VIX Short-Term Futures ETF",
     "assetClass": "Alternatives",
@@ -19598,16 +19608,6 @@
     "change": 2.07,
     "volume": 29099,
     "holdings": 49
-  },
-  {
-    "s": "AINP",
-    "n": "Allspring Income Plus ETF",
-    "assetClass": "Fixed Income",
-    "aum": 198513691,
-    "price": 25.2187,
-    "change": 0.35,
-    "volume": 550,
-    "holdings": 401
   },
   {
     "s": "SNSR",
@@ -19800,6 +19800,16 @@
     "holdings": 58
   },
   {
+    "s": "BEEX",
+    "n": "Beehive ETF",
+    "assetClass": "Equity",
+    "aum": 190982132,
+    "price": 26.0699,
+    "change": 0.97,
+    "volume": 312,
+    "holdings": 35
+  },
+  {
     "s": "IEUS",
     "n": "iShares MSCI Europe Small-Cap ETF",
     "assetClass": "Equity",
@@ -19920,6 +19930,16 @@
     "holdings": 28
   },
   {
+    "s": "WCPB",
+    "n": "Weitz Core Plus Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 187315117,
+    "price": 25.59,
+    "change": 0.43,
+    "volume": 23213,
+    "holdings": 150
+  },
+  {
     "s": "MSTB",
     "n": "LHA Market State Tactical Beta ETF",
     "assetClass": "Equity",
@@ -19940,16 +19960,6 @@
     "holdings": 113
   },
   {
-    "s": "WCPB",
-    "n": "Weitz Core Plus Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 186785541,
-    "price": 25.59,
-    "change": 0.43,
-    "volume": 23213,
-    "holdings": 152
-  },
-  {
     "s": "SVAL",
     "n": "iShares US Small Cap Value Factor ETF",
     "assetClass": "Equity",
@@ -19958,16 +19968,6 @@
     "change": 2.25,
     "volume": 20990,
     "holdings": 246
-  },
-  {
-    "s": "BEEX",
-    "n": "Beehive ETF",
-    "assetClass": "Equity",
-    "aum": 186361227,
-    "price": 26.0699,
-    "change": 0.97,
-    "volume": 312,
-    "holdings": 35
   },
   {
     "s": "CZA",
@@ -20023,7 +20023,7 @@
     "s": "QALT",
     "n": "SEI DBi Multi-Strategy Alternative ETF",
     "assetClass": "Alternatives",
-    "aum": 184462812,
+    "aum": 184606137,
     "price": 25.3,
     "change": -0.12,
     "volume": 18920,
@@ -20038,6 +20038,16 @@
     "change": 0.71,
     "volume": 9962,
     "holdings": 117
+  },
+  {
+    "s": "FTMN",
+    "n": "Franklin Minnesota Municipal Income ETF",
+    "assetClass": "Fixed Income",
+    "aum": 184132104,
+    "price": 8.885,
+    "change": 0.4,
+    "volume": 104008,
+    "holdings": 176
   },
   {
     "s": "QWLD",
@@ -20058,16 +20068,6 @@
     "change": 1.52,
     "volume": 3329,
     "holdings": 512
-  },
-  {
-    "s": "FTMN",
-    "n": "Franklin Minnesota Municipal Income ETF",
-    "assetClass": "Fixed Income",
-    "aum": 183767365,
-    "price": 8.885,
-    "change": 0.4,
-    "volume": 104008,
-    "holdings": 176
   },
   {
     "s": "FDLS",
@@ -20107,7 +20107,7 @@
     "price": 51.38,
     "change": 0.18,
     "volume": 10202,
-    "holdings": 881
+    "holdings": 889
   },
   {
     "s": "CAPE",
@@ -20150,10 +20150,20 @@
     "holdings": 23
   },
   {
+    "s": "IG",
+    "n": "Principal Investment Grade Corporate Active ETF",
+    "assetClass": "Fixed Income",
+    "aum": 180838684,
+    "price": 20.815,
+    "change": 0.41,
+    "volume": 9064,
+    "holdings": 250
+  },
+  {
     "s": "TMB",
     "n": "Thornburg Multi Sector Bond ETF",
     "assetClass": "Fixed Income",
-    "aum": 180357739,
+    "aum": 180757187,
     "price": 25.6601,
     "change": 0.23,
     "volume": 14340,
@@ -20168,6 +20178,16 @@
     "change": -0.67,
     "volume": 3968345,
     "holdings": 2
+  },
+  {
+    "s": "APPX",
+    "n": "Tradr 2X Long APP Daily ETF",
+    "assetClass": "Equity",
+    "aum": 179815244,
+    "price": 38.38,
+    "change": 4.98,
+    "volume": 800413,
+    "holdings": 4
   },
   {
     "s": "UNOV",
@@ -20193,11 +20213,11 @@
     "s": "FTMS",
     "n": "Franklin Short-Term Municipal Income ETF",
     "assetClass": "Fixed Income",
-    "aum": 179034345,
+    "aum": 179090732,
     "price": 9.935,
     "change": 0.05,
     "volume": 46288,
-    "holdings": 223
+    "holdings": 227
   },
   {
     "s": "TTEQ",
@@ -20290,6 +20310,16 @@
     "holdings": 94
   },
   {
+    "s": "LOUP",
+    "n": "Innovator Deepwater Frontier Tech ETF",
+    "assetClass": "Equity",
+    "aum": 177271974,
+    "price": 80.3903,
+    "change": 1.43,
+    "volume": 13458,
+    "holdings": 30
+  },
+  {
     "s": "HIDV",
     "n": "AB US High Dividend ETF",
     "assetClass": "Equity",
@@ -20308,16 +20338,6 @@
     "change": 2.29,
     "volume": 1718,
     "holdings": 293
-  },
-  {
-    "s": "IG",
-    "n": "Principal Investment Grade Corporate Active ETF",
-    "assetClass": "Fixed Income",
-    "aum": 176866698,
-    "price": 20.815,
-    "change": 0.41,
-    "volume": 9064,
-    "holdings": 250
   },
   {
     "s": "SPRX",
@@ -20500,6 +20520,16 @@
     "holdings": 96
   },
   {
+    "s": "TSCV",
+    "n": "Thrivent Small Cap Value ETF",
+    "assetClass": "Equity",
+    "aum": 171793113,
+    "price": 30.63,
+    "change": 1.76,
+    "volume": 1348,
+    "holdings": 59
+  },
+  {
     "s": "OCIO",
     "n": "ClearShares OCIO ETF",
     "assetClass": "Asset Allocation",
@@ -20570,16 +20600,6 @@
     "holdings": 593
   },
   {
-    "s": "LOUP",
-    "n": "Innovator Deepwater Frontier Tech ETF",
-    "assetClass": "Equity",
-    "aum": 169937219,
-    "price": 80.3903,
-    "change": 1.43,
-    "volume": 13458,
-    "holdings": 30
-  },
-  {
     "s": "EDC",
     "n": "Direxion Daily MSCI Emerging Markets Bull 3X ETF",
     "assetClass": "Equity",
@@ -20620,16 +20640,6 @@
     "holdings": 45
   },
   {
-    "s": "TSCV",
-    "n": "Thrivent Small Cap Value ETF",
-    "assetClass": "Equity",
-    "aum": 169417981,
-    "price": 30.63,
-    "change": 1.76,
-    "volume": 1348,
-    "holdings": 59
-  },
-  {
     "s": "GLDI",
     "n": "UBS AG ETRACS Gold Shares Covered Call ETNs due February 2, 2033",
     "assetClass": "Commodity",
@@ -20650,6 +20660,16 @@
     "holdings": 158
   },
   {
+    "s": "SDG",
+    "n": "iShares MSCI Global Sustainable Development Goals ETF",
+    "assetClass": "Equity",
+    "aum": 169017622,
+    "price": 88.9728,
+    "change": 1.41,
+    "volume": 963,
+    "holdings": 153
+  },
+  {
     "s": "IFLO",
     "n": "VictoryShares International Free Cash Flow ETF",
     "assetClass": "Equity",
@@ -20663,7 +20683,7 @@
     "s": "IBTQ",
     "n": "iShares iBonds Dec 2035 Term Treasury ETF",
     "assetClass": "Fixed Income",
-    "aum": 168375823,
+    "aum": 168902311,
     "price": 25.415,
     "change": 0.53,
     "volume": 41692,
@@ -20678,6 +20698,16 @@
     "change": 1.65,
     "volume": 131347,
     "holdings": 32
+  },
+  {
+    "s": "UAUG",
+    "n": "Innovator U.S. Equity Ultra Buffer ETF - August",
+    "assetClass": "Alternatives",
+    "aum": 168234775,
+    "price": 41.035,
+    "change": 0.38,
+    "volume": 4923,
+    "holdings": 6
   },
   {
     "s": "JIII",
@@ -20740,16 +20770,6 @@
     "holdings": 95
   },
   {
-    "s": "SDG",
-    "n": "iShares MSCI Global Sustainable Development Goals ETF",
-    "assetClass": "Equity",
-    "aum": 166768448,
-    "price": 88.9728,
-    "change": 1.41,
-    "volume": 963,
-    "holdings": 153
-  },
-  {
     "s": "DFE",
     "n": "WisdomTree Europe SmallCap Dividend Fund",
     "assetClass": "Equity",
@@ -20768,16 +20788,6 @@
     "change": 1.79,
     "volume": 22791,
     "holdings": 65
-  },
-  {
-    "s": "UAUG",
-    "n": "Innovator U.S. Equity Ultra Buffer ETF - August",
-    "assetClass": "Alternatives",
-    "aum": 166206375,
-    "price": 41.035,
-    "change": 0.38,
-    "volume": 4923,
-    "holdings": 6
   },
   {
     "s": "MBCC",
@@ -20880,6 +20890,16 @@
     "holdings": 44
   },
   {
+    "s": "OKLL",
+    "n": "Defiance Daily Target 2x Long OKLO ETF",
+    "assetClass": "Equity",
+    "aum": 165111261,
+    "price": 10.46,
+    "change": 7.84,
+    "volume": 23999877,
+    "holdings": 12
+  },
+  {
     "s": "VIXY",
     "n": "ProShares VIX Short-Term Futures ETF",
     "assetClass": "Alternatives",
@@ -20907,7 +20927,7 @@
     "price": 35.77,
     "change": 0.22,
     "volume": 377,
-    "holdings": 555
+    "holdings": 561
   },
   {
     "s": "IQSZ",
@@ -20920,6 +20940,26 @@
     "holdings": 514
   },
   {
+    "s": "GSGO",
+    "n": "Goldman Sachs Growth Opportunities ETF",
+    "assetClass": "Equity",
+    "aum": 163226930,
+    "price": 41.2612,
+    "change": 1.8,
+    "volume": 3307,
+    "holdings": 55
+  },
+  {
+    "s": "GTOQ",
+    "n": "Invesco High Yield Systematic Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 162924614,
+    "price": 22.55,
+    "change": 0.45,
+    "volume": 11997,
+    "holdings": 524
+  },
+  {
     "s": "SHDG",
     "n": "Soundwatch Hedged Equity ETF",
     "assetClass": "Equity",
@@ -20928,16 +20968,6 @@
     "change": 0.32,
     "volume": 5231,
     "holdings": 9
-  },
-  {
-    "s": "GTOQ",
-    "n": "Invesco High Yield Systematic Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 162511659,
-    "price": 22.55,
-    "change": 0.45,
-    "volume": 11997,
-    "holdings": 524
   },
   {
     "s": "BCTK",
@@ -20978,6 +21008,16 @@
     "change": 0.31,
     "volume": 2340,
     "holdings": 459
+  },
+  {
+    "s": "ELFY",
+    "n": "ALPS Electrification Infrastructure ETF",
+    "assetClass": "Equity",
+    "aum": 161520760,
+    "price": 42.4807,
+    "change": 1.02,
+    "volume": 26319,
+    "holdings": 109
   },
   {
     "s": "LDSF",
@@ -21150,16 +21190,6 @@
     "holdings": 32
   },
   {
-    "s": "ELFY",
-    "n": "ALPS Electrification Infrastructure ETF",
-    "assetClass": "Equity",
-    "aum": 158756267,
-    "price": 42.4807,
-    "change": 1.02,
-    "volume": 26319,
-    "holdings": 109
-  },
-  {
     "s": "FID",
     "n": "First Trust S&P International Dividend Aristocrats ETF",
     "assetClass": "Equity",
@@ -21227,7 +21257,7 @@
     "price": 28.5,
     "change": 0.04,
     "volume": 71861,
-    "holdings": 176
+    "holdings": 180
   },
   {
     "s": "NUSB",
@@ -21248,26 +21278,6 @@
     "change": -0.34,
     "volume": 252569,
     "holdings": 20
-  },
-  {
-    "s": "GSGO",
-    "n": "Goldman Sachs Growth Opportunities ETF",
-    "assetClass": "Equity",
-    "aum": 156390924,
-    "price": 41.2612,
-    "change": 1.8,
-    "volume": 3307,
-    "holdings": 57
-  },
-  {
-    "s": "APPX",
-    "n": "Tradr 2X Long APP Daily ETF",
-    "assetClass": "Equity",
-    "aum": 156247407,
-    "price": 38.38,
-    "change": 4.98,
-    "volume": 800413,
-    "holdings": 4
   },
   {
     "s": "GIND",
@@ -21517,7 +21527,7 @@
     "price": 10.13,
     "change": 0,
     "volume": 1834,
-    "holdings": 244
+    "holdings": 248
   },
   {
     "s": "TIPZ",
@@ -21528,6 +21538,16 @@
     "change": 0.4,
     "volume": 24187,
     "holdings": 47
+  },
+  {
+    "s": "YLDE",
+    "n": "Franklin ClearBridge Enhanced Income ETF",
+    "assetClass": "Equity",
+    "aum": 150743631,
+    "price": 55.8482,
+    "change": 0.75,
+    "volume": 8416,
+    "holdings": 56
   },
   {
     "s": "UCRD",
@@ -21620,14 +21640,14 @@
     "holdings": 271
   },
   {
-    "s": "YLDE",
-    "n": "Franklin ClearBridge Enhanced Income ETF",
+    "s": "LPRE",
+    "n": "Long Pond Real Estate Select ETF",
     "assetClass": "Equity",
-    "aum": 149247889,
-    "price": 55.8482,
-    "change": 0.75,
-    "volume": 8416,
-    "holdings": 56
+    "aum": 149177882,
+    "price": 28.59,
+    "change": 2.58,
+    "volume": 120843,
+    "holdings": 28
   },
   {
     "s": "MAXJ",
@@ -21728,6 +21748,16 @@
     "change": 3.68,
     "volume": 772926,
     "holdings": 1
+  },
+  {
+    "s": "KOID",
+    "n": "KraneShares Global Humanoid and Embodied Intelligence Index ETF",
+    "assetClass": "Equity",
+    "aum": 147058501,
+    "price": 36.02,
+    "change": 2.59,
+    "volume": 92956,
+    "holdings": 59
   },
   {
     "s": "SMOG",
@@ -21870,6 +21900,16 @@
     "holdings": 90
   },
   {
+    "s": "GEW",
+    "n": "Cambria Global EW ETF",
+    "assetClass": "Equity",
+    "aum": 144678157,
+    "price": 53.8207,
+    "change": 1.15,
+    "volume": 803,
+    "holdings": 453
+  },
+  {
     "s": "KNRG",
     "n": "Simplify Kayne Anderson Energy and Infrastructure Credit ETF",
     "assetClass": "Fixed Income",
@@ -21970,16 +22010,6 @@
     "holdings": 13
   },
   {
-    "s": "GEW",
-    "n": "Cambria Global EW ETF",
-    "assetClass": "Equity",
-    "aum": 142706029,
-    "price": 53.8207,
-    "change": 1.15,
-    "volume": 803,
-    "holdings": 453
-  },
-  {
     "s": "MFEM",
     "n": "PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF",
     "assetClass": "Equity",
@@ -22048,26 +22078,6 @@
     "change": 0.89,
     "volume": 4391,
     "holdings": 6
-  },
-  {
-    "s": "LPRE",
-    "n": "Long Pond Real Estate Select ETF",
-    "assetClass": "Equity",
-    "aum": 141903146,
-    "price": 28.59,
-    "change": 2.58,
-    "volume": 120843,
-    "holdings": 28
-  },
-  {
-    "s": "TSYY",
-    "n": "GraniteShares YieldBOOST TSLA ETF",
-    "assetClass": "Equity",
-    "aum": 141612063,
-    "price": 3.34,
-    "change": -1.18,
-    "volume": 720489,
-    "holdings": 11
   },
   {
     "s": "STXG",
@@ -22140,6 +22150,16 @@
     "holdings": 7
   },
   {
+    "s": "BEDY",
+    "n": "BNY Mellon Enhanced Dividend and Income ETF",
+    "assetClass": "Equity",
+    "aum": 140365930,
+    "price": 27.9836,
+    "change": 0.99,
+    "volume": 2554,
+    "holdings": 62
+  },
+  {
     "s": "BUFS",
     "n": "FT Vest Laddered Small Cap Moderate Buffer ETF",
     "assetClass": "Alternatives",
@@ -22178,6 +22198,16 @@
     "change": 1.26,
     "volume": 34656,
     "holdings": 102
+  },
+  {
+    "s": "TSYY",
+    "n": "GraniteShares YieldBOOST TSLA ETF",
+    "assetClass": "Equity",
+    "aum": 139465618,
+    "price": 3.34,
+    "change": -1.18,
+    "volume": 720489,
+    "holdings": 11
   },
   {
     "s": "DEW",
@@ -22220,16 +22250,6 @@
     "holdings": 5
   },
   {
-    "s": "BEDY",
-    "n": "BNY Mellon Enhanced Dividend and Income ETF",
-    "assetClass": "Equity",
-    "aum": 138501249,
-    "price": 27.9836,
-    "change": 0.99,
-    "volume": 2554,
-    "holdings": 62
-  },
-  {
     "s": "KRBN",
     "n": "KraneShares Global Carbon Strategy ETF",
     "assetClass": "Commodity",
@@ -22270,14 +22290,14 @@
     "holdings": 31
   },
   {
-    "s": "KOID",
-    "n": "KraneShares Global Humanoid and Embodied Intelligence Index ETF",
+    "s": "LGDX",
+    "n": "Intech S&P Large Cap Diversified Alpha ETF",
     "assetClass": "Equity",
-    "aum": 137096820,
-    "price": 36.02,
-    "change": 2.59,
-    "volume": 92956,
-    "holdings": 59
+    "aum": 137233398,
+    "price": 23.91,
+    "change": 1.23,
+    "volume": 1,
+    "holdings": 241
   },
   {
     "s": "RAFE",
@@ -22317,7 +22337,7 @@
     "price": 42.27,
     "change": -2.31,
     "volume": 994612,
-    "holdings": 13
+    "holdings": 12
   },
   {
     "s": "ZNOV",
@@ -22410,6 +22430,16 @@
     "holdings": 75
   },
   {
+    "s": "NEMD",
+    "n": "Neuberger Emerging Markets Debt Hard Currency ETF",
+    "assetClass": "Fixed Income",
+    "aum": 135503321,
+    "price": 53.3445,
+    "change": 0.73,
+    "volume": 8561,
+    "holdings": 248
+  },
+  {
     "s": "RVNU",
     "n": "Xtrackers Municipal Infrastructure Revenue Bond ETF",
     "assetClass": "Fixed Income",
@@ -22450,16 +22480,6 @@
     "holdings": 1983
   },
   {
-    "s": "NEMD",
-    "n": "Neuberger Emerging Markets Debt Hard Currency ETF",
-    "assetClass": "Fixed Income",
-    "aum": 134841892,
-    "price": 53.3445,
-    "change": 0.73,
-    "volume": 8561,
-    "holdings": 248
-  },
-  {
     "s": "ZSEP",
     "n": "Innovator 1 Yr September",
     "assetClass": "Alternatives",
@@ -22478,26 +22498,6 @@
     "change": 0.47,
     "volume": 2561,
     "holdings": 6
-  },
-  {
-    "s": "OKLL",
-    "n": "Defiance Daily Target 2x Long OKLO ETF",
-    "assetClass": "Equity",
-    "aum": 134157311,
-    "price": 10.46,
-    "change": 7.84,
-    "volume": 23999877,
-    "holdings": 12
-  },
-  {
-    "s": "LGDX",
-    "n": "Intech S&P Large Cap Diversified Alpha ETF",
-    "assetClass": "Equity",
-    "aum": 134142630,
-    "price": 23.91,
-    "change": 1.23,
-    "volume": 1,
-    "holdings": 241
   },
   {
     "s": "CTAP",
@@ -22657,7 +22657,7 @@
     "price": 50.098,
     "change": 0.1,
     "volume": 6130,
-    "holdings": 133
+    "holdings": 131
   },
   {
     "s": "EWO",
@@ -22880,6 +22880,16 @@
     "holdings": 29
   },
   {
+    "s": "TSEL",
+    "n": "Touchstone Sands Capital US Select Growth ETF",
+    "assetClass": "Equity",
+    "aum": 127095478,
+    "price": 27.9456,
+    "change": 1.66,
+    "volume": 13119,
+    "holdings": 28
+  },
+  {
     "s": "SIXS",
     "n": "ETC 6 Meridian Small Cap Equity ETF",
     "assetClass": "Equity",
@@ -22890,6 +22900,16 @@
     "holdings": 85
   },
   {
+    "s": "BATT",
+    "n": "Amplify Lithium & Battery Technology ETF",
+    "assetClass": "Equity",
+    "aum": 126807409,
+    "price": 17.11,
+    "change": 1.36,
+    "volume": 72194,
+    "holdings": 57
+  },
+  {
     "s": "XPAY",
     "n": "Roundhill S&P 500 Target 20 Managed Distribution ETF",
     "assetClass": "Equity",
@@ -22898,6 +22918,16 @@
     "change": 1.24,
     "volume": 75544,
     "holdings": 13
+  },
+  {
+    "s": "LEGR",
+    "n": "First Trust Indxx Innovative Transaction & Process ETF",
+    "assetClass": "Equity",
+    "aum": 125904797,
+    "price": 63.1292,
+    "change": 1.3,
+    "volume": 31855,
+    "holdings": 110
   },
   {
     "s": "EDGH",
@@ -23000,16 +23030,6 @@
     "holdings": 51
   },
   {
-    "s": "TSEL",
-    "n": "Touchstone Sands Capital US Select Growth ETF",
-    "assetClass": "Equity",
-    "aum": 124170570,
-    "price": 27.9456,
-    "change": 1.66,
-    "volume": 13119,
-    "holdings": 28
-  },
-  {
     "s": "FSML",
     "n": "Franklin Small Cap Enhanced ETF",
     "assetClass": "Equity",
@@ -23040,16 +23060,6 @@
     "holdings": 78
   },
   {
-    "s": "BFRZ",
-    "n": "Innovator Equity Managed 100 Buffer ETF",
-    "assetClass": "Alternatives",
-    "aum": 123668351,
-    "price": 26.23,
-    "change": -0.38,
-    "volume": 102211,
-    "holdings": 201
-  },
-  {
     "s": "STXT",
     "n": "Strive Total Return Bond ETF",
     "assetClass": "Fixed Income",
@@ -23058,6 +23068,16 @@
     "change": 0.35,
     "volume": 2414,
     "holdings": 221
+  },
+  {
+    "s": "YNOT",
+    "n": "Horizon Digital Frontier ETF",
+    "assetClass": "Equity",
+    "aum": 123581841,
+    "price": 30.8829,
+    "change": 1.49,
+    "volume": 5277,
+    "holdings": 112
   },
   {
     "s": "SMDX",
@@ -23088,6 +23108,16 @@
     "change": 2.37,
     "volume": 37807,
     "holdings": 102
+  },
+  {
+    "s": "BFRZ",
+    "n": "Innovator Equity Managed 100 Buffer ETF",
+    "assetClass": "Alternatives",
+    "aum": 123336101,
+    "price": 26.23,
+    "change": -0.38,
+    "volume": 102211,
+    "holdings": 201
   },
   {
     "s": "BUFI",
@@ -23168,16 +23198,6 @@
     "change": 2.45,
     "volume": 12620,
     "holdings": 79
-  },
-  {
-    "s": "LEGR",
-    "n": "First Trust Indxx Innovative Transaction & Process ETF",
-    "assetClass": "Equity",
-    "aum": 122340641,
-    "price": 63.1292,
-    "change": 1.3,
-    "volume": 31855,
-    "holdings": 110
   },
   {
     "s": "DOG",
@@ -23280,6 +23300,16 @@
     "holdings": 101
   },
   {
+    "s": "XRPI",
+    "n": "Volatility Shares Trust XRP ETF",
+    "assetClass": "Currency",
+    "aum": 120529432,
+    "price": 8.38,
+    "change": 1.33,
+    "volume": 320126,
+    "holdings": 7
+  },
+  {
     "s": "ETHV",
     "n": "VanEck Ethereum ETF",
     "assetClass": "Currency",
@@ -23288,16 +23318,6 @@
     "change": 3.01,
     "volume": 138303,
     "holdings": 1
-  },
-  {
-    "s": "BATT",
-    "n": "Amplify Lithium & Battery Technology ETF",
-    "assetClass": "Equity",
-    "aum": 120399336,
-    "price": 17.11,
-    "change": 1.36,
-    "volume": 72194,
-    "holdings": 57
   },
   {
     "s": "FEBW",
@@ -23318,6 +23338,16 @@
     "change": 1.35,
     "volume": 28443,
     "holdings": 53
+  },
+  {
+    "s": "ACES",
+    "n": "ALPS Clean Energy ETF",
+    "assetClass": "Equity",
+    "aum": 119783456,
+    "price": 34.64,
+    "change": -0.17,
+    "volume": 798359,
+    "holdings": 38
   },
   {
     "s": "KEAT",
@@ -23358,6 +23388,16 @@
     "change": 0.27,
     "volume": 24478,
     "holdings": 78
+  },
+  {
+    "s": "CGVV",
+    "n": "Capital Group U.S. Large Value ETF",
+    "assetClass": "Equity",
+    "aum": 119430054,
+    "price": 29.13,
+    "change": 1.46,
+    "volume": 56525,
+    "holdings": 66
   },
   {
     "s": "YANG",
@@ -23440,6 +23480,16 @@
     "holdings": 75
   },
   {
+    "s": "FLEE",
+    "n": "Franklin FTSE Europe ETF",
+    "assetClass": "Equity",
+    "aum": 118121217,
+    "price": 39.1701,
+    "change": 1.53,
+    "volume": 3259,
+    "holdings": 509
+  },
+  {
     "s": "BNDP",
     "n": "Vanguard Core-Plus Bond Index ETF",
     "assetClass": "Fixed Income",
@@ -23468,16 +23518,6 @@
     "change": 0.78,
     "volume": 15485,
     "holdings": 103
-  },
-  {
-    "s": "ACES",
-    "n": "ALPS Clean Energy ETF",
-    "assetClass": "Equity",
-    "aum": 117440412,
-    "price": 34.64,
-    "change": -0.17,
-    "volume": 798359,
-    "holdings": 40
   },
   {
     "s": "FOXY",
@@ -23540,14 +23580,14 @@
     "holdings": 5
   },
   {
-    "s": "FLEE",
-    "n": "Franklin FTSE Europe ETF",
-    "assetClass": "Equity",
-    "aum": 116809550,
-    "price": 39.1701,
-    "change": 1.53,
-    "volume": 3259,
-    "holdings": 509
+    "s": "DABS",
+    "n": "Doubleline ABS ETF",
+    "assetClass": "Fixed Income",
+    "aum": 116543893,
+    "price": 50.735,
+    "change": 0.21,
+    "volume": 8106,
+    "holdings": 127
   },
   {
     "s": "XAIX",
@@ -23578,16 +23618,6 @@
     "change": 0.69,
     "volume": 20253,
     "holdings": 193
-  },
-  {
-    "s": "DABS",
-    "n": "Doubleline ABS ETF",
-    "assetClass": "Fixed Income",
-    "aum": 116293400,
-    "price": 50.735,
-    "change": 0.21,
-    "volume": 8106,
-    "holdings": 128
   },
   {
     "s": "SFEB",
@@ -23660,16 +23690,6 @@
     "holdings": 50
   },
   {
-    "s": "NFRX",
-    "n": "Harrison Street Infrastructure Active ETF",
-    "assetClass": "Equity",
-    "aum": 114970210,
-    "price": 26.9187,
-    "change": 0.29,
-    "volume": 137,
-    "holdings": 41
-  },
-  {
     "s": "CVY",
     "n": "Invesco Zacks Multi-Asset Income ETF",
     "assetClass": "Asset Allocation",
@@ -23720,6 +23740,16 @@
     "holdings": 292
   },
   {
+    "s": "NFRX",
+    "n": "Harrison Street Infrastructure Active ETF",
+    "assetClass": "Equity",
+    "aum": 114180164,
+    "price": 26.9187,
+    "change": 0.29,
+    "volume": 137,
+    "holdings": 41
+  },
+  {
     "s": "WEBL",
     "n": "Direxion Daily Dow Jones Internet Bull 3X ETF",
     "assetClass": "Equity",
@@ -23730,14 +23760,14 @@
     "holdings": 49
   },
   {
-    "s": "CGVV",
-    "n": "Capital Group U.S. Large Value ETF",
+    "s": "PFDE",
+    "n": "Pathfinder Disciplined US Equity ETF",
     "assetClass": "Equity",
-    "aum": 114021450,
-    "price": 29.13,
-    "change": 1.46,
-    "volume": 56525,
-    "holdings": 66
+    "aum": 113799480,
+    "price": 26.095,
+    "change": 1.26,
+    "volume": 21935,
+    "holdings": 74
   },
   {
     "s": "CSD",
@@ -23770,6 +23800,16 @@
     "holdings": 355
   },
   {
+    "s": "LSAF",
+    "n": "LeaderShares AlphaFactor US Core Equity ETF",
+    "assetClass": "Equity",
+    "aum": 113257640,
+    "price": 49.204,
+    "change": 1.89,
+    "volume": 4551,
+    "holdings": 101
+  },
+  {
     "s": "PFIG",
     "n": "Invesco Fundamental Investment Grade Corporate Bond ETF",
     "assetClass": "Fixed Income",
@@ -23797,7 +23837,7 @@
     "price": 70.7362,
     "change": 2.35,
     "volume": 25208,
-    "holdings": 2799
+    "holdings": 2789
   },
   {
     "s": "EDGU",
@@ -23940,16 +23980,6 @@
     "holdings": 52
   },
   {
-    "s": "PFDE",
-    "n": "Pathfinder Disciplined US Equity ETF",
-    "assetClass": "Equity",
-    "aum": 111296635,
-    "price": 26.095,
-    "change": 1.26,
-    "volume": 21935,
-    "holdings": 74
-  },
-  {
     "s": "FCVT",
     "n": "First Trust SSI Strategic Convertible Securities ETF",
     "assetClass": "Fixed Income",
@@ -23968,16 +23998,6 @@
     "change": 3.42,
     "volume": 900894,
     "holdings": 11
-  },
-  {
-    "s": "LSAF",
-    "n": "LeaderShares AlphaFactor US Core Equity ETF",
-    "assetClass": "Equity",
-    "aum": 110646968,
-    "price": 49.204,
-    "change": 1.89,
-    "volume": 4551,
-    "holdings": 101
   },
   {
     "s": "NATO",
@@ -24010,16 +24030,6 @@
     "holdings": 1664
   },
   {
-    "s": "XRPI",
-    "n": "Volatility Shares Trust XRP ETF",
-    "assetClass": "Currency",
-    "aum": 110233409,
-    "price": 8.38,
-    "change": 1.33,
-    "volume": 320126,
-    "holdings": 7
-  },
-  {
     "s": "JGRW",
     "n": "Jensen Quality Growth ETF",
     "assetClass": "Equity",
@@ -24028,6 +24038,16 @@
     "change": 1.46,
     "volume": 54116,
     "holdings": 28
+  },
+  {
+    "s": "IDYN",
+    "n": "iShares International Equity Factor Rotation Active ETF",
+    "assetClass": "Equity",
+    "aum": 110012342,
+    "price": 31.0044,
+    "change": 1.22,
+    "volume": 2254,
+    "holdings": 190
   },
   {
     "s": "UPGD",
@@ -24098,16 +24118,6 @@
     "change": 0.18,
     "volume": 6189,
     "holdings": 134
-  },
-  {
-    "s": "IDYN",
-    "n": "iShares International Equity Factor Rotation Active ETF",
-    "assetClass": "Equity",
-    "aum": 108491155,
-    "price": 31.0044,
-    "change": 1.22,
-    "volume": 2254,
-    "holdings": 190
   },
   {
     "s": "HARD",
@@ -24490,16 +24500,6 @@
     "holdings": 305
   },
   {
-    "s": "USAI",
-    "n": "Pacer American Energy Infrastructure ETF",
-    "assetClass": "Equity",
-    "aum": 103816580,
-    "price": 44.19,
-    "change": -1.23,
-    "volume": 9297,
-    "holdings": 37
-  },
-  {
     "s": "GLIN",
     "n": "VanEck India Growth Leaders ETF",
     "assetClass": "Equity",
@@ -24598,6 +24598,16 @@
     "change": 0.47,
     "volume": 47699,
     "holdings": 50
+  },
+  {
+    "s": "USAI",
+    "n": "Pacer American Energy Infrastructure ETF",
+    "assetClass": "Equity",
+    "aum": 101577824,
+    "price": 44.19,
+    "change": -1.23,
+    "volume": 9297,
+    "holdings": 37
   },
   {
     "s": "FEBT",
@@ -24940,6 +24950,16 @@
     "holdings": 42
   },
   {
+    "s": "HEFT",
+    "n": "Hedgeye Fourth Turning ETF",
+    "assetClass": "Alternatives",
+    "aum": 97910145,
+    "price": 25.6,
+    "change": -1.31,
+    "volume": 119543,
+    "holdings": 98
+  },
+  {
     "s": "QQQU",
     "n": "Direxion Daily Magnificent 7 Bull 2X ETF",
     "assetClass": "Equity",
@@ -25050,6 +25070,16 @@
     "holdings": 709
   },
   {
+    "s": "PTBD",
+    "n": "Pacer Trendpilot US Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 96723507,
+    "price": 19.34,
+    "change": 0.31,
+    "volume": 4619,
+    "holdings": 901
+  },
+  {
     "s": "IWMY",
     "n": "Defiance R2000 Weekly Distribution ETF",
     "assetClass": "Equity",
@@ -25070,6 +25100,26 @@
     "holdings": 27
   },
   {
+    "s": "JEDI",
+    "n": "Defiance Drone and Modern Warfare ETF",
+    "assetClass": "Equity",
+    "aum": 96502670,
+    "price": 29.61,
+    "change": -4.08,
+    "volume": 269669,
+    "holdings": 46
+  },
+  {
+    "s": "FLAU",
+    "n": "Franklin FTSE Australia ETF",
+    "assetClass": "Equity",
+    "aum": 96449006,
+    "price": 35.8126,
+    "change": 0.85,
+    "volume": 2042,
+    "holdings": 111
+  },
+  {
     "s": "ALTL",
     "n": "Pacer Lunt Large Cap Alternator ETF",
     "assetClass": "Equity",
@@ -25078,26 +25128,6 @@
     "change": 0.57,
     "volume": 1849,
     "holdings": 102
-  },
-  {
-    "s": "FLAU",
-    "n": "Franklin FTSE Australia ETF",
-    "assetClass": "Equity",
-    "aum": 96141885,
-    "price": 35.8126,
-    "change": 0.85,
-    "volume": 2042,
-    "holdings": 111
-  },
-  {
-    "s": "PTBD",
-    "n": "Pacer Trendpilot US Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 96136009,
-    "price": 19.34,
-    "change": 0.31,
-    "volume": 4619,
-    "holdings": 901
   },
   {
     "s": "CSNR",
@@ -25230,6 +25260,16 @@
     "holdings": 7
   },
   {
+    "s": "ACEP",
+    "n": "ARS Core Equity Portfolio ETF",
+    "assetClass": "Equity",
+    "aum": 94451638,
+    "price": 18.8842,
+    "change": 1.26,
+    "volume": 7555,
+    "holdings": 37
+  },
+  {
     "s": "REMG",
     "n": "Emerging Markets Equity ETF",
     "assetClass": "Equity",
@@ -25237,17 +25277,7 @@
     "price": 34.637,
     "change": 1.754,
     "volume": 7447,
-    "holdings": 382
-  },
-  {
-    "s": "EGGY",
-    "n": "NestYield Dynamic Income ETF",
-    "assetClass": "Equity",
-    "aum": 94144385,
-    "price": 35.1559,
-    "change": 0.73,
-    "volume": 26912,
-    "holdings": 33
+    "holdings": 381
   },
   {
     "s": "TRUT",
@@ -25270,14 +25300,14 @@
     "holdings": 9
   },
   {
-    "s": "YNOT",
-    "n": "Horizon Digital Frontier ETF",
+    "s": "EGGY",
+    "n": "NestYield Dynamic Income ETF",
     "assetClass": "Equity",
-    "aum": 93884062,
-    "price": 30.8829,
-    "change": 1.49,
-    "volume": 5277,
-    "holdings": 111
+    "aum": 93947695,
+    "price": 35.1559,
+    "change": 0.73,
+    "volume": 26912,
+    "holdings": 33
   },
   {
     "s": "FBY",
@@ -25290,14 +25320,24 @@
     "holdings": 16
   },
   {
-    "s": "ACEP",
-    "n": "ARS Core Equity Portfolio ETF",
+    "s": "FRGN",
+    "n": "Horizon International Equity ETF",
     "assetClass": "Equity",
-    "aum": 93554453,
-    "price": 18.8842,
+    "aum": 93629382,
+    "price": 29.4979,
     "change": 1.26,
-    "volume": 7555,
-    "holdings": 37
+    "volume": 5961,
+    "holdings": 291
+  },
+  {
+    "s": "FLMX",
+    "n": "Franklin FTSE Mexico ETF",
+    "assetClass": "Equity",
+    "aum": 93534826,
+    "price": 38.704,
+    "change": 0.69,
+    "volume": 13310,
+    "holdings": 39
   },
   {
     "s": "MILN",
@@ -25318,16 +25358,6 @@
     "change": 0.26,
     "volume": 7062,
     "holdings": 465
-  },
-  {
-    "s": "FRGN",
-    "n": "Horizon International Equity ETF",
-    "assetClass": "Equity",
-    "aum": 93071295,
-    "price": 29.4979,
-    "change": 1.26,
-    "volume": 5961,
-    "holdings": 291
   },
   {
     "s": "AGNG",
@@ -25368,16 +25398,6 @@
     "change": 0.09,
     "volume": 11465,
     "holdings": 796
-  },
-  {
-    "s": "FLMX",
-    "n": "Franklin FTSE Mexico ETF",
-    "assetClass": "Equity",
-    "aum": 92457525,
-    "price": 38.704,
-    "change": 0.69,
-    "volume": 13310,
-    "holdings": 39
   },
   {
     "s": "IBGA",
@@ -25430,16 +25450,6 @@
     "holdings": 63
   },
   {
-    "s": "HEFT",
-    "n": "Hedgeye Fourth Turning ETF",
-    "assetClass": "Alternatives",
-    "aum": 91413288,
-    "price": 25.6,
-    "change": -1.31,
-    "volume": 119543,
-    "holdings": 96
-  },
-  {
     "s": "DBEM",
     "n": "Xtrackers MSCI Emerging Markets Hedged Equity ETF",
     "assetClass": "Equity",
@@ -25468,16 +25478,6 @@
     "change": 1.55,
     "volume": 6696,
     "holdings": 692
-  },
-  {
-    "s": "JEDI",
-    "n": "Defiance Drone and Modern Warfare ETF",
-    "assetClass": "Equity",
-    "aum": 90988279,
-    "price": 29.61,
-    "change": -4.08,
-    "volume": 269669,
-    "holdings": 46
   },
   {
     "s": "BUFY",
@@ -25547,7 +25547,7 @@
     "price": 33.0782,
     "change": 1.94,
     "volume": 22780,
-    "holdings": 58
+    "holdings": 53
   },
   {
     "s": "TECS",
@@ -25690,6 +25690,16 @@
     "holdings": 83
   },
   {
+    "s": "RWLC",
+    "n": "Rayliant Wilshire NxtGen US Large Cap Equity ETF",
+    "assetClass": "Equity",
+    "aum": 88425672,
+    "price": 34.615,
+    "change": 1.24,
+    "volume": 7548,
+    "holdings": null
+  },
+  {
     "s": "GPRF",
     "n": "Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF",
     "assetClass": "Fixed Income",
@@ -25718,6 +25728,16 @@
     "change": 5.45,
     "volume": 82641,
     "holdings": 112
+  },
+  {
+    "s": "SSK",
+    "n": "REX-Osprey SOL + Staking ETF",
+    "assetClass": "Currency",
+    "aum": 87861976,
+    "price": 12.13,
+    "change": -1.14,
+    "volume": 118072,
+    "holdings": 6
   },
   {
     "s": "APOC",
@@ -25783,7 +25803,7 @@
     "s": "TAXS",
     "n": "Northern Trust Short-Term Tax-Exempt Bond ETF",
     "assetClass": "Fixed Income",
-    "aum": 87502477,
+    "aum": 87520043,
     "price": 50.405,
     "change": 0.07,
     "volume": 2094,
@@ -25808,6 +25828,16 @@
     "change": 0.33,
     "volume": 2080,
     "holdings": 7
+  },
+  {
+    "s": "VTG",
+    "n": "Vanguard Total Treasury ETF",
+    "assetClass": "Fixed Income",
+    "aum": 87296500,
+    "price": 75.97,
+    "change": 0.38,
+    "volume": 13604,
+    "holdings": 284
   },
   {
     "s": "IFGL",
@@ -25840,16 +25870,6 @@
     "holdings": 52
   },
   {
-    "s": "RWLC",
-    "n": "Rayliant Wilshire NxtGen US Large Cap Equity ETF",
-    "assetClass": "Equity",
-    "aum": 86790956,
-    "price": 34.615,
-    "change": 1.24,
-    "volume": 7548,
-    "holdings": null
-  },
-  {
     "s": "WNTR",
     "n": "YieldMax MSTR Short Option Income Strategy ETF",
     "assetClass": "Equity",
@@ -25857,7 +25877,7 @@
     "price": 24.77,
     "change": -10.9,
     "volume": 620674,
-    "holdings": 20
+    "holdings": 22
   },
   {
     "s": "TMFE",
@@ -25877,7 +25897,7 @@
     "price": 25.19,
     "change": 0.4,
     "volume": 18751,
-    "holdings": 348
+    "holdings": 353
   },
   {
     "s": "HERO",
@@ -25897,7 +25917,7 @@
     "price": 25.82,
     "change": -1.26,
     "volume": 118687,
-    "holdings": 49
+    "holdings": 51
   },
   {
     "s": "NFLY",
@@ -25918,6 +25938,16 @@
     "change": 1.14,
     "volume": 12731,
     "holdings": 15
+  },
+  {
+    "s": "HBDC",
+    "n": "Hilton BDC Corporate Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 86199251,
+    "price": 24.8,
+    "change": 0.4,
+    "volume": 2941,
+    "holdings": 142
   },
   {
     "s": "FLMB",
@@ -25970,16 +26000,6 @@
     "holdings": 6
   },
   {
-    "s": "HBDC",
-    "n": "Hilton BDC Corporate Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 85858053,
-    "price": 24.8,
-    "change": 0.4,
-    "volume": 2941,
-    "holdings": 142
-  },
-  {
     "s": "KARS",
     "n": "KraneShares Electric Vehicles & Future Mobility Index ETF",
     "assetClass": "Equity",
@@ -25990,14 +26010,14 @@
     "holdings": 86
   },
   {
-    "s": "VTG",
-    "n": "Vanguard Total Treasury ETF",
-    "assetClass": "Fixed Income",
-    "aum": 85331250,
-    "price": 75.97,
-    "change": 0.38,
-    "volume": 13604,
-    "holdings": 284
+    "s": "XRPT",
+    "n": "Volatility Shares Trust XRP 2X ETF",
+    "assetClass": "Currency",
+    "aum": 85287495,
+    "price": 48.93,
+    "change": 2.71,
+    "volume": 194101,
+    "holdings": 8
   },
   {
     "s": "CVMC",
@@ -26080,6 +26100,16 @@
     "holdings": 44
   },
   {
+    "s": "RWEM",
+    "n": "Rayliant Wilshire NxtGen Emerging Markets Equity ETF",
+    "assetClass": "Equity",
+    "aum": 84182914,
+    "price": 34.84,
+    "change": 6.97,
+    "volume": 13728,
+    "holdings": null
+  },
+  {
     "s": "GLNK",
     "n": "Grayscale Chainlink Trust ETF",
     "assetClass": "Currency",
@@ -26138,16 +26168,6 @@
     "change": 2.64,
     "volume": 4820,
     "holdings": 48
-  },
-  {
-    "s": "SSK",
-    "n": "REX-Osprey SOL + Staking ETF",
-    "assetClass": "Currency",
-    "aum": 83031793,
-    "price": 12.13,
-    "change": -1.14,
-    "volume": 118072,
-    "holdings": 6
   },
   {
     "s": "HIGH",
@@ -26210,16 +26230,6 @@
     "holdings": 12
   },
   {
-    "s": "RWEM",
-    "n": "Rayliant Wilshire NxtGen Emerging Markets Equity ETF",
-    "assetClass": "Equity",
-    "aum": 82479872,
-    "price": 34.84,
-    "change": 6.97,
-    "volume": 13728,
-    "holdings": null
-  },
-  {
     "s": "DMX",
     "n": "DoubleLine Multi-Sector Income ETF",
     "assetClass": "Fixed Income",
@@ -26277,7 +26287,7 @@
     "price": 26.4556,
     "change": 2.58,
     "volume": 1139,
-    "holdings": 271
+    "holdings": 273
   },
   {
     "s": "VAMO",
@@ -26493,11 +26503,11 @@
     "s": "PUSH",
     "n": "PGIM Ultra Short Municipal Bond ETF",
     "assetClass": "Fixed Income",
-    "aum": 79418315,
+    "aum": 79478886,
     "price": 50.48,
     "change": -0.06,
     "volume": 7255,
-    "holdings": 225
+    "holdings": 226
   },
   {
     "s": "CNBS",
@@ -26537,7 +26547,7 @@
     "price": 25.18,
     "change": 0.32,
     "volume": 24,
-    "holdings": 261
+    "holdings": 263
   },
   {
     "s": "TOAK",
@@ -26680,16 +26690,6 @@
     "holdings": 71
   },
   {
-    "s": "ETHD",
-    "n": "ProShares UltraShort Ether ETF",
-    "assetClass": "Currency",
-    "aum": 77726293,
-    "price": 45.73,
-    "change": -6.08,
-    "volume": 1049730,
-    "holdings": 5
-  },
-  {
     "s": "DHDG",
     "n": "FT Vest U.S. Equity Quarterly 2.5 to 15 Buffer ETF",
     "assetClass": "Alternatives",
@@ -26750,6 +26750,16 @@
     "holdings": 2
   },
   {
+    "s": "CGGG",
+    "n": "Capital Group U.S. Large Growth ETF",
+    "assetClass": "Equity",
+    "aum": 77284214,
+    "price": 28.6929,
+    "change": 2.04,
+    "volume": 9035,
+    "holdings": 43
+  },
+  {
     "s": "SURI",
     "n": "Simplify Propel Opportunities ETF",
     "assetClass": "Asset Allocation",
@@ -26788,6 +26798,16 @@
     "change": 3.34,
     "volume": 57988,
     "holdings": 27
+  },
+  {
+    "s": "ETHD",
+    "n": "ProShares UltraShort Ether ETF",
+    "assetClass": "Currency",
+    "aum": 76494747,
+    "price": 45.73,
+    "change": -6.08,
+    "volume": 1049730,
+    "holdings": 5
   },
   {
     "s": "PBL",
@@ -26920,6 +26940,16 @@
     "holdings": 13
   },
   {
+    "s": "OAKI",
+    "n": "Oakmark International Large Cap ETF",
+    "assetClass": "Equity",
+    "aum": 75832994,
+    "price": 26.1314,
+    "change": 2.28,
+    "volume": 523,
+    "holdings": 52
+  },
+  {
     "s": "EETH",
     "n": "ProShares Ether ETF",
     "assetClass": "Currency",
@@ -27010,16 +27040,6 @@
     "holdings": 7
   },
   {
-    "s": "VCOB",
-    "n": "Voya Core Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 74881587,
-    "price": 49.905,
-    "change": 0.37,
-    "volume": 5,
-    "holdings": 532
-  },
-  {
     "s": "PGRO",
     "n": "Putnam Focused Large Cap Growth ETF",
     "assetClass": "Equity",
@@ -27038,6 +27058,16 @@
     "change": -2.99,
     "volume": 908651,
     "holdings": 15
+  },
+  {
+    "s": "VCOB",
+    "n": "Voya Core Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 74699277,
+    "price": 49.905,
+    "change": 0.37,
+    "volume": 5,
+    "holdings": 533
   },
   {
     "s": "RFLR",
@@ -27078,16 +27108,6 @@
     "change": 1.38,
     "volume": 5202,
     "holdings": 36
-  },
-  {
-    "s": "OAKI",
-    "n": "Oakmark International Large Cap ETF",
-    "assetClass": "Equity",
-    "aum": 74285818,
-    "price": 26.1314,
-    "change": 2.28,
-    "volume": 523,
-    "holdings": 51
   },
   {
     "s": "OASC",
@@ -27290,6 +27310,16 @@
     "holdings": 228
   },
   {
+    "s": "FTCE",
+    "n": "First Trust New Constructs Core Earnings Leaders ETF",
+    "assetClass": "Equity",
+    "aum": 71052713,
+    "price": 25.3506,
+    "change": 1.2,
+    "volume": 6547,
+    "holdings": 102
+  },
+  {
     "s": "LCR",
     "n": "Leuthold Core ETF",
     "assetClass": "Asset Allocation",
@@ -27360,6 +27390,16 @@
     "holdings": 108
   },
   {
+    "s": "GPTY",
+    "n": "YieldMax AI & Tech Portfolio Option Income ETF",
+    "assetClass": "Equity",
+    "aum": 70560950,
+    "price": 41.55,
+    "change": 1.32,
+    "volume": 24542,
+    "holdings": 80
+  },
+  {
     "s": "MAGG",
     "n": "Madison Aggregate Bond ETF",
     "assetClass": "Fixed Income",
@@ -27367,7 +27407,7 @@
     "price": 20.505,
     "change": 0.27,
     "volume": 3042,
-    "holdings": 217
+    "holdings": 219
   },
   {
     "s": "LNGX",
@@ -27450,16 +27490,6 @@
     "holdings": 14
   },
   {
-    "s": "CGGG",
-    "n": "Capital Group U.S. Large Growth ETF",
-    "assetClass": "Equity",
-    "aum": 70052196,
-    "price": 28.6929,
-    "change": 2.04,
-    "volume": 9035,
-    "holdings": 43
-  },
-  {
     "s": "CATF",
     "n": "American Century California Municipal Bond ETF",
     "assetClass": "Fixed Income",
@@ -27488,6 +27518,16 @@
     "change": 1.28,
     "volume": 453,
     "holdings": 8
+  },
+  {
+    "s": "ONLN",
+    "n": "ProShares Online Retail ETF",
+    "assetClass": "Equity",
+    "aum": 69844667,
+    "price": 61.3,
+    "change": 2.47,
+    "volume": 11205,
+    "holdings": 21
   },
   {
     "s": "SPXN",
@@ -27560,16 +27600,6 @@
     "holdings": 124
   },
   {
-    "s": "XRPT",
-    "n": "Volatility Shares Trust XRP 2X ETF",
-    "assetClass": "Currency",
-    "aum": 69104610,
-    "price": 48.93,
-    "change": 2.71,
-    "volume": 194101,
-    "holdings": 8
-  },
-  {
     "s": "EIRL",
     "n": "iShares MSCI Ireland ETF",
     "assetClass": "Equity",
@@ -27597,7 +27627,7 @@
     "price": 32.4985,
     "change": 0.83,
     "volume": 12276,
-    "holdings": 269
+    "holdings": 270
   },
   {
     "s": "FINT",
@@ -27617,7 +27647,7 @@
     "price": 48.8585,
     "change": 0.74,
     "volume": 2464,
-    "holdings": 40
+    "holdings": 29
   },
   {
     "s": "FTOH",
@@ -27648,16 +27678,6 @@
     "change": 1.42,
     "volume": 847,
     "holdings": 377
-  },
-  {
-    "s": "FTCE",
-    "n": "First Trust New Constructs Core Earnings Leaders ETF",
-    "assetClass": "Equity",
-    "aum": 68346099,
-    "price": 25.3506,
-    "change": 1.2,
-    "volume": 6547,
-    "holdings": 102
   },
   {
     "s": "PQDI",
@@ -27708,16 +27728,6 @@
     "change": 2.61,
     "volume": 145737,
     "holdings": 98
-  },
-  {
-    "s": "GPTY",
-    "n": "YieldMax AI & Tech Portfolio Option Income ETF",
-    "assetClass": "Equity",
-    "aum": 68060697,
-    "price": 41.55,
-    "change": 1.32,
-    "volume": 24542,
-    "holdings": 80
   },
   {
     "s": "GAA",
@@ -27810,6 +27820,16 @@
     "holdings": 110
   },
   {
+    "s": "JMMF",
+    "n": "JPMorgan 100% U.S. Treasury Securities Money Market ETF",
+    "assetClass": "Fixed Income",
+    "aum": 67072538,
+    "price": 100.155,
+    "change": -0.01,
+    "volume": 3170,
+    "holdings": 54
+  },
+  {
     "s": "QMMY",
     "n": "FT Vest Nasdaq-100 Moderate Buffer ETF - May",
     "assetClass": "Alternatives",
@@ -27818,6 +27838,16 @@
     "change": 0.35,
     "volume": 14763,
     "holdings": 6
+  },
+  {
+    "s": "MTGP",
+    "n": "WisdomTree Mortgage Plus Bond Fund",
+    "assetClass": "Fixed Income",
+    "aum": 66928983,
+    "price": 44.625,
+    "change": 0.37,
+    "volume": 963,
+    "holdings": 182
   },
   {
     "s": "WLDR",
@@ -27830,16 +27860,6 @@
     "holdings": 117
   },
   {
-    "s": "MTGP",
-    "n": "WisdomTree Mortgage Plus Bond Fund",
-    "assetClass": "Fixed Income",
-    "aum": 66665949,
-    "price": 44.625,
-    "change": 0.37,
-    "volume": 963,
-    "holdings": 182
-  },
-  {
     "s": "NBFC",
     "n": "Neuberger Flexible Credit Income ETF",
     "assetClass": "Fixed Income",
@@ -27847,17 +27867,7 @@
     "price": 51.185,
     "change": 0.38,
     "volume": 594,
-    "holdings": 636
-  },
-  {
-    "s": "JMMF",
-    "n": "JPMorgan 100% U.S. Treasury Securities Money Market ETF",
-    "assetClass": "Fixed Income",
-    "aum": 66083571,
-    "price": 100.155,
-    "change": -0.01,
-    "volume": 3170,
-    "holdings": 54
+    "holdings": 637
   },
   {
     "s": "SXQG",
@@ -27888,6 +27898,26 @@
     "change": 0.04,
     "volume": 9985,
     "holdings": 26
+  },
+  {
+    "s": "XQQI",
+    "n": "NEOS Boosted Nasdaq-100 High Income ETF",
+    "assetClass": "Equity",
+    "aum": 65867838,
+    "price": 48.95,
+    "change": 1.16,
+    "volume": 102178,
+    "holdings": 107
+  },
+  {
+    "s": "NODE",
+    "n": "VanEck Onchain Economy ETF",
+    "assetClass": "Equity",
+    "aum": 65861748,
+    "price": 40.4175,
+    "change": 3.03,
+    "volume": 13442,
+    "holdings": 61
   },
   {
     "s": "MVPA",
@@ -28020,14 +28050,14 @@
     "holdings": 40
   },
   {
-    "s": "ONLN",
-    "n": "ProShares Online Retail ETF",
+    "s": "FMCE",
+    "n": "FM Compounders Equity ETF",
     "assetClass": "Equity",
-    "aum": 64621898,
-    "price": 61.3,
-    "change": 2.47,
-    "volume": 11205,
-    "holdings": 21
+    "aum": 64647361,
+    "price": 26.8861,
+    "change": 0.77,
+    "volume": 3194,
+    "holdings": 33
   },
   {
     "s": "NACP",
@@ -28048,6 +28078,16 @@
     "change": -2.22,
     "volume": 90854,
     "holdings": 163
+  },
+  {
+    "s": "NOWL",
+    "n": "GraniteShares 2x Long NOW Daily ETF",
+    "assetClass": "Equity",
+    "aum": 64036440,
+    "price": 4.93,
+    "change": 0.2,
+    "volume": 4076022,
+    "holdings": 5
   },
   {
     "s": "MAGX",
@@ -28110,26 +28150,6 @@
     "holdings": 8
   },
   {
-    "s": "FMCE",
-    "n": "FM Compounders Equity ETF",
-    "assetClass": "Equity",
-    "aum": 63500402,
-    "price": 26.8861,
-    "change": 0.77,
-    "volume": 3194,
-    "holdings": 33
-  },
-  {
-    "s": "NODE",
-    "n": "VanEck Onchain Economy ETF",
-    "assetClass": "Equity",
-    "aum": 63390665,
-    "price": 40.4175,
-    "change": 3.03,
-    "volume": 13442,
-    "holdings": 61
-  },
-  {
     "s": "WDTE",
     "n": "Defiance S&P 500 Weekly Distribution ETF",
     "assetClass": "Equity",
@@ -28190,16 +28210,6 @@
     "holdings": 7
   },
   {
-    "s": "OILU",
-    "n": "MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN",
-    "assetClass": "Equity",
-    "aum": 62754477,
-    "price": 39.46,
-    "change": -8.83,
-    "volume": 427758,
-    "holdings": 25
-  },
-  {
     "s": "CAMX",
     "n": "Cambiar Aggressive Value ETF",
     "assetClass": "Equity",
@@ -28238,16 +28248,6 @@
     "change": 2.29,
     "volume": 16045,
     "holdings": 51
-  },
-  {
-    "s": "XQQI",
-    "n": "NEOS Boosted Nasdaq-100 High Income ETF",
-    "assetClass": "Equity",
-    "aum": 62280213,
-    "price": 48.95,
-    "change": 1.16,
-    "volume": 102178,
-    "holdings": 107
   },
   {
     "s": "EURL",
@@ -28427,7 +28427,17 @@
     "price": 25.42,
     "change": 0.12,
     "volume": 2386,
-    "holdings": 125
+    "holdings": 127
+  },
+  {
+    "s": "PRMR",
+    "n": "PeakShares RMR Prime Equity ETF",
+    "assetClass": "Equity",
+    "aum": 60656414,
+    "price": 25.0753,
+    "change": 0.58,
+    "volume": 17707,
+    "holdings": 52
   },
   {
     "s": "DIVL",
@@ -28447,7 +28457,7 @@
     "price": 26.4214,
     "change": 0.61,
     "volume": 2369,
-    "holdings": 312
+    "holdings": 307
   },
   {
     "s": "PSCW",
@@ -28560,14 +28570,14 @@
     "holdings": 46
   },
   {
-    "s": "PRMR",
-    "n": "PeakShares RMR Prime Equity ETF",
+    "s": "WOMN",
+    "n": "Impact Shares Womens Empowerment ETF",
     "assetClass": "Equity",
-    "aum": 59713608,
-    "price": 25.0753,
-    "change": 0.58,
-    "volume": 17707,
-    "holdings": 52
+    "aum": 59713678,
+    "price": 41.9302,
+    "change": 1.26,
+    "volume": 493,
+    "holdings": 206
   },
   {
     "s": "JUNW",
@@ -28590,6 +28600,16 @@
     "holdings": 13
   },
   {
+    "s": "OILU",
+    "n": "MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN",
+    "assetClass": "Equity",
+    "aum": 59509949,
+    "price": 39.46,
+    "change": -8.83,
+    "volume": 427758,
+    "holdings": 25
+  },
+  {
     "s": "AMZZ",
     "n": "GraniteShares 2x Long AMZN Daily ETF",
     "assetClass": "Equity",
@@ -28598,6 +28618,16 @@
     "change": 1.21,
     "volume": 134412,
     "holdings": 5
+  },
+  {
+    "s": "WCAP",
+    "n": "WarCap Unconstrained Equity ETF",
+    "assetClass": "Equity",
+    "aum": 59135235,
+    "price": 8.925,
+    "change": 0.51,
+    "volume": 33580,
+    "holdings": 26
   },
   {
     "s": "MARO",
@@ -28640,6 +28670,16 @@
     "holdings": 16
   },
   {
+    "s": "SMOX",
+    "n": "Horizon Small/Mid Cap Core Equity ETF",
+    "assetClass": "Equity",
+    "aum": 58742918,
+    "price": 28.7913,
+    "change": 2.02,
+    "volume": 3198,
+    "holdings": 291
+  },
+  {
     "s": "TWM",
     "n": "ProShares UltraShort Russell2000",
     "assetClass": "Equity",
@@ -28660,16 +28700,6 @@
     "holdings": 13
   },
   {
-    "s": "WCAP",
-    "n": "WarCap Unconstrained Equity ETF",
-    "assetClass": "Equity",
-    "aum": 58556323,
-    "price": 8.925,
-    "change": 0.51,
-    "volume": 33580,
-    "holdings": 26
-  },
-  {
     "s": "QSIG",
     "n": "WisdomTree U.S. Short Term Corporate Bond Fund",
     "assetClass": "Fixed Income",
@@ -28688,6 +28718,16 @@
     "change": 0.17,
     "volume": 70,
     "holdings": 5
+  },
+  {
+    "s": "SEMG",
+    "n": "Suncoast Select Growth ETF",
+    "assetClass": "Equity",
+    "aum": 58365870,
+    "price": 26.1673,
+    "change": 1.23,
+    "volume": 10889,
+    "holdings": 26
   },
   {
     "s": "FGSM",
@@ -28720,16 +28760,6 @@
     "holdings": 75
   },
   {
-    "s": "WOMN",
-    "n": "Impact Shares Womens Empowerment ETF",
-    "assetClass": "Equity",
-    "aum": 58078161,
-    "price": 41.9302,
-    "change": 1.26,
-    "volume": 493,
-    "holdings": 206
-  },
-  {
     "s": "OCTT",
     "n": "AllianzIM U.S. Equity Buffer10 Oct ETF",
     "assetClass": "Alternatives",
@@ -28760,14 +28790,14 @@
     "holdings": 4
   },
   {
-    "s": "SMOX",
-    "n": "Horizon Small/Mid Cap Core Equity ETF",
-    "assetClass": "Equity",
-    "aum": 57834717,
-    "price": 28.7913,
-    "change": 2.02,
-    "volume": 3198,
-    "holdings": 291
+    "s": "TAXT",
+    "n": "Northern Trust Tax-Exempt Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 57798284,
+    "price": 51.675,
+    "change": 0.26,
+    "volume": 5,
+    "holdings": 810
   },
   {
     "s": "FSCS",
@@ -28800,16 +28830,6 @@
     "holdings": 6
   },
   {
-    "s": "TAXT",
-    "n": "Northern Trust Tax-Exempt Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 57714407,
-    "price": 51.675,
-    "change": 0.26,
-    "volume": 5,
-    "holdings": 810
-  },
-  {
     "s": "NJUN",
     "n": "Innovator Growth-100 Power Buffer ETF - June",
     "assetClass": "Alternatives",
@@ -28828,16 +28848,6 @@
     "change": 1.3,
     "volume": 4889,
     "holdings": 100
-  },
-  {
-    "s": "SEMG",
-    "n": "Suncoast Select Growth ETF",
-    "assetClass": "Equity",
-    "aum": 57465482,
-    "price": 26.1673,
-    "change": 1.23,
-    "volume": 10889,
-    "holdings": 26
   },
   {
     "s": "DEEF",
@@ -28897,7 +28907,7 @@
     "price": 42.9,
     "change": 2.22,
     "volume": 13096,
-    "holdings": 12
+    "holdings": 11
   },
   {
     "s": "WSGE",
@@ -29057,7 +29067,7 @@
     "price": 53.1462,
     "change": 1.33,
     "volume": 4055,
-    "holdings": 62
+    "holdings": 63
   },
   {
     "s": "NULC",
@@ -29127,7 +29137,7 @@
     "price": 20.495,
     "change": 0.22,
     "volume": 1403,
-    "holdings": 102
+    "holdings": 103
   },
   {
     "s": "SPCT",
@@ -29383,7 +29393,7 @@
     "s": "DYNB",
     "n": "Hartford Dynamic Bond ETF",
     "assetClass": "Fixed Income",
-    "aum": 53517735,
+    "aum": 53633946,
     "price": 39.745,
     "change": 0.39,
     "volume": 449,
@@ -29500,6 +29510,16 @@
     "holdings": 11
   },
   {
+    "s": "FCTR",
+    "n": "First Trust Lunt U.S. Factor Rotation ETF",
+    "assetClass": "Equity",
+    "aum": 52330343,
+    "price": 37.3637,
+    "change": 0.77,
+    "volume": 2004,
+    "holdings": 172
+  },
+  {
     "s": "IRTR",
     "n": "iShares LifePath Retirement ETF",
     "assetClass": "Asset Allocation",
@@ -29558,6 +29578,16 @@
     "change": 2.21,
     "volume": 6999,
     "holdings": 440
+  },
+  {
+    "s": "XXV",
+    "n": "Simplify Ancorato Target 25 Distribution ETF",
+    "assetClass": "Asset Allocation",
+    "aum": 52120596,
+    "price": 24.0508,
+    "change": 0.34,
+    "volume": 7256,
+    "holdings": 45
   },
   {
     "s": "CLOC",
@@ -29653,7 +29683,7 @@
     "s": "ARCM",
     "n": "Arrow Reserve Capital Management ETF",
     "assetClass": "Fixed Income",
-    "aum": 51122450,
+    "aum": 51151382,
     "price": 100.315,
     "change": 0.04,
     "volume": 13,
@@ -29668,16 +29698,6 @@
     "change": -14.31,
     "volume": 405727,
     "holdings": 10
-  },
-  {
-    "s": "XXV",
-    "n": "Simplify Ancorato Target 25 Distribution ETF",
-    "assetClass": "Asset Allocation",
-    "aum": 51046422,
-    "price": 24.0508,
-    "change": 0.34,
-    "volume": 7256,
-    "holdings": 45
   },
   {
     "s": "EDGI",
@@ -29708,16 +29728,6 @@
     "change": 1.22,
     "volume": 26079,
     "holdings": 185
-  },
-  {
-    "s": "FCTR",
-    "n": "First Trust Lunt U.S. Factor Rotation ETF",
-    "assetClass": "Equity",
-    "aum": 50895528,
-    "price": 37.3637,
-    "change": 0.77,
-    "volume": 2004,
-    "holdings": 172
   },
   {
     "s": "XIJN",
@@ -29767,7 +29777,7 @@
     "price": 25.335,
     "change": 0.78,
     "volume": 290,
-    "holdings": 76
+    "holdings": 75
   },
   {
     "s": "DSTX",
@@ -29787,7 +29797,7 @@
     "price": 29.7926,
     "change": 1.47,
     "volume": 7256,
-    "holdings": 31
+    "holdings": 30
   },
   {
     "s": "GLOW",
@@ -30040,6 +30050,16 @@
     "holdings": 43
   },
   {
+    "s": "GRNI",
+    "n": "Fundstrat Granny Shots US Large Cap & Income ETF",
+    "assetClass": "Equity",
+    "aum": 48554077,
+    "price": 20.63,
+    "change": 1.13,
+    "volume": 48195,
+    "holdings": 147
+  },
+  {
     "s": "INQQ",
     "n": "The India Internet ETF",
     "assetClass": "Equity",
@@ -30180,16 +30200,6 @@
     "holdings": 3
   },
   {
-    "s": "GRNI",
-    "n": "Fundstrat Granny Shots US Large Cap & Income ETF",
-    "assetClass": "Equity",
-    "aum": 47414201,
-    "price": 20.63,
-    "change": 1.13,
-    "volume": 48195,
-    "holdings": 147
-  },
-  {
     "s": "MMSC",
     "n": "First Trust Multi-Manager Small Cap Opportunities ETF",
     "assetClass": "Equity",
@@ -30268,16 +30278,6 @@
     "change": 1.5,
     "volume": 6272,
     "holdings": 40
-  },
-  {
-    "s": "BDRY",
-    "n": "Breakwave Dry Bulk Shipping ETF",
-    "assetClass": "Commodity",
-    "aum": 47004763,
-    "price": 11.44,
-    "change": 2.79,
-    "volume": 604474,
-    "holdings": 21
   },
   {
     "s": "IFED",
@@ -30510,6 +30510,26 @@
     "holdings": 7
   },
   {
+    "s": "XYZY",
+    "n": "YieldMax XYZ Option Income Strategy ETF",
+    "assetClass": "Equity",
+    "aum": 45216876,
+    "price": 28.77,
+    "change": 3.04,
+    "volume": 19151,
+    "holdings": 18
+  },
+  {
+    "s": "URSP",
+    "n": "ProShares Ultra S&P 500 Equal Weight",
+    "assetClass": "Equity",
+    "aum": 45204114,
+    "price": 45.15,
+    "change": 2.451,
+    "volume": 14119,
+    "holdings": 507
+  },
+  {
     "s": "VGVT",
     "n": "Vanguard Government Securities Active ETF",
     "assetClass": "Fixed Income",
@@ -30618,6 +30638,16 @@
     "change": 0.96,
     "volume": 64277,
     "holdings": 3
+  },
+  {
+    "s": "KEMQ",
+    "n": "KraneShares Emerging Markets Consumer Technology Index ETF",
+    "assetClass": "Equity",
+    "aum": 44578896,
+    "price": 25.1095,
+    "change": 1.91,
+    "volume": 6376,
+    "holdings": 64
   },
   {
     "s": "TCHI",
@@ -30750,16 +30780,6 @@
     "holdings": 4
   },
   {
-    "s": "XYZY",
-    "n": "YieldMax XYZ Option Income Strategy ETF",
-    "assetClass": "Equity",
-    "aum": 44122730,
-    "price": 28.77,
-    "change": 3.04,
-    "volume": 19151,
-    "holdings": 18
-  },
-  {
     "s": "ALTY",
     "n": "Global X Alternative Income ETF",
     "assetClass": "Asset Allocation",
@@ -30810,16 +30830,6 @@
     "holdings": 872
   },
   {
-    "s": "URSP",
-    "n": "ProShares Ultra S&P 500 Equal Weight",
-    "assetClass": "Equity",
-    "aum": 43734784,
-    "price": 45.15,
-    "change": 2.451,
-    "volume": 14119,
-    "holdings": 507
-  },
-  {
     "s": "STBF",
     "n": "Performance Trust Short Term Bond ETF",
     "assetClass": "Fixed Income",
@@ -30838,6 +30848,16 @@
     "change": 0.58,
     "volume": 7001,
     "holdings": 35
+  },
+  {
+    "s": "CSSD",
+    "n": "Cohen & Steers Short Duration Preferred and Income Active ETF",
+    "assetClass": "Fixed Income",
+    "aum": 43443540,
+    "price": 25.26,
+    "change": 0.24,
+    "volume": 7078,
+    "holdings": 154
   },
   {
     "s": "FLGR",
@@ -30860,14 +30880,14 @@
     "holdings": 78
   },
   {
-    "s": "CSSD",
-    "n": "Cohen & Steers Short Duration Preferred and Income Active ETF",
-    "assetClass": "Fixed Income",
-    "aum": 43319874,
-    "price": 25.26,
-    "change": 0.24,
-    "volume": 7078,
-    "holdings": 154
+    "s": "VRTL",
+    "n": "GraniteShares 2x Long VRT Daily ETF",
+    "assetClass": "Equity",
+    "aum": 43340376,
+    "price": 148.97,
+    "change": 8.26,
+    "volume": 66253,
+    "holdings": 5
   },
   {
     "s": "FEIG",
@@ -30898,6 +30918,16 @@
     "change": -6.07,
     "volume": 21074748,
     "holdings": 17
+  },
+  {
+    "s": "BDRY",
+    "n": "Breakwave Dry Bulk Shipping ETF",
+    "assetClass": "Commodity",
+    "aum": 43098092,
+    "price": 11.44,
+    "change": 2.79,
+    "volume": 604474,
+    "holdings": 21
   },
   {
     "s": "SHAG",
@@ -31010,6 +31040,16 @@
     "holdings": 4
   },
   {
+    "s": "PAWZ",
+    "n": "ProShares Pet Care ETF",
+    "assetClass": "Equity",
+    "aum": 42385620,
+    "price": 54.6234,
+    "change": 2.62,
+    "volume": 3762,
+    "holdings": 27
+  },
+  {
     "s": "KMID",
     "n": "Virtus KAR Mid-Cap ETF",
     "assetClass": "Equity",
@@ -31048,16 +31088,6 @@
     "change": 0.7,
     "volume": 3888,
     "holdings": 51
-  },
-  {
-    "s": "KEMQ",
-    "n": "KraneShares Emerging Markets Consumer Technology Index ETF",
-    "assetClass": "Equity",
-    "aum": 41903684,
-    "price": 25.1095,
-    "change": 1.91,
-    "volume": 6376,
-    "holdings": 64
   },
   {
     "s": "AVGG",
@@ -31160,16 +31190,6 @@
     "holdings": 8
   },
   {
-    "s": "NOWL",
-    "n": "GraniteShares 2x Long NOW Daily ETF",
-    "assetClass": "Equity",
-    "aum": 41123332,
-    "price": 4.93,
-    "change": 0.2,
-    "volume": 4076022,
-    "holdings": 5
-  },
-  {
     "s": "CPSJ",
     "n": "Calamos S&P 500 Structured Alt Protection ETF July",
     "assetClass": "Alternatives",
@@ -31208,16 +31228,6 @@
     "change": 0.86,
     "volume": 15081,
     "holdings": 30
-  },
-  {
-    "s": "PAWZ",
-    "n": "ProShares Pet Care ETF",
-    "assetClass": "Equity",
-    "aum": 40930889,
-    "price": 54.6234,
-    "change": 2.62,
-    "volume": 3762,
-    "holdings": 27
   },
   {
     "s": "EFAS",
@@ -31260,6 +31270,16 @@
     "holdings": 38
   },
   {
+    "s": "BSMZ",
+    "n": "Invesco BulletShares 2035 Municipal Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 40767029,
+    "price": 25.56,
+    "change": 0.39,
+    "volume": 10497,
+    "holdings": 0
+  },
+  {
     "s": "FCBD",
     "n": "Frontier Asset Core Bond ETF",
     "assetClass": "Fixed Income",
@@ -31278,16 +31298,6 @@
     "change": 0.23,
     "volume": 1075,
     "holdings": 461
-  },
-  {
-    "s": "BSMZ",
-    "n": "Invesco BulletShares 2035 Municipal Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 40677404,
-    "price": 25.56,
-    "change": 0.39,
-    "volume": 10497,
-    "holdings": 0
   },
   {
     "s": "NVDG",
@@ -31360,14 +31370,14 @@
     "holdings": 4
   },
   {
-    "s": "VRTL",
-    "n": "GraniteShares 2x Long VRT Daily ETF",
+    "s": "DAK",
+    "n": "Dakota Active Equity ETF",
     "assetClass": "Equity",
-    "aum": 40356171,
-    "price": 148.97,
-    "change": 8.26,
-    "volume": 66253,
-    "holdings": 5
+    "aum": 40377110,
+    "price": 27.5558,
+    "change": 1.05,
+    "volume": 522,
+    "holdings": 172
   },
   {
     "s": "AIVC",
@@ -31470,16 +31480,6 @@
     "holdings": 179
   },
   {
-    "s": "DAK",
-    "n": "Dakota Active Equity ETF",
-    "assetClass": "Equity",
-    "aum": 39578628,
-    "price": 27.5558,
-    "change": 1.05,
-    "volume": 522,
-    "holdings": 172
-  },
-  {
     "s": "SLDR",
     "n": "Global X Short-Term Treasury Ladder ETF",
     "assetClass": "Fixed Income",
@@ -31548,6 +31548,16 @@
     "change": 0,
     "volume": 7,
     "holdings": 261
+  },
+  {
+    "s": "RIFR",
+    "n": "Russell Investments Global Infrastructure ETF",
+    "assetClass": "Equity",
+    "aum": 39146214,
+    "price": 28.4762,
+    "change": 0.13,
+    "volume": 3735,
+    "holdings": 66
   },
   {
     "s": "FIAT",
@@ -31640,6 +31650,16 @@
     "holdings": 7
   },
   {
+    "s": "HIYY",
+    "n": "YieldMax HIMS Option Income Strategy ETF",
+    "assetClass": "Equity",
+    "aum": 38769455,
+    "price": 17.64,
+    "change": 4.26,
+    "volume": 58953,
+    "holdings": 13
+  },
+  {
     "s": "MYCJ",
     "n": "State Street My2030 Corporate Bond ETF",
     "assetClass": "Fixed Income",
@@ -31647,7 +31667,7 @@
     "price": 24.92,
     "change": 0.24,
     "volume": 8076,
-    "holdings": 191
+    "holdings": 190
   },
   {
     "s": "SFYF",
@@ -31728,16 +31748,6 @@
     "change": 1.53,
     "volume": 7676,
     "holdings": 15
-  },
-  {
-    "s": "RIFR",
-    "n": "Russell Investments Global Infrastructure ETF",
-    "assetClass": "Equity",
-    "aum": 38159627,
-    "price": 28.4762,
-    "change": 0.13,
-    "volume": 3735,
-    "holdings": 66
   },
   {
     "s": "DRES",
@@ -31940,16 +31950,6 @@
     "holdings": 9
   },
   {
-    "s": "CRCO",
-    "n": "YieldMax CRCL Option Income Strategy ETF",
-    "assetClass": "Equity",
-    "aum": 36868245,
-    "price": 23.57,
-    "change": -1.38,
-    "volume": 63210,
-    "holdings": 21
-  },
-  {
     "s": "DURA",
     "n": "VanEck Durable High Dividend ETF",
     "assetClass": "Equity",
@@ -31960,6 +31960,16 @@
     "holdings": 71
   },
   {
+    "s": "CRCO",
+    "n": "YieldMax CRCL Option Income Strategy ETF",
+    "assetClass": "Equity",
+    "aum": 36806669,
+    "price": 23.57,
+    "change": -1.38,
+    "volume": 63210,
+    "holdings": 21
+  },
+  {
     "s": "EMET",
     "n": "VanEck Copper and Green Metals ETF",
     "assetClass": "Equity",
@@ -31968,6 +31978,16 @@
     "change": 1.57,
     "volume": 6135,
     "holdings": 60
+  },
+  {
+    "s": "OAKG",
+    "n": "Oakmark Global Large Cap ETF",
+    "assetClass": "Equity",
+    "aum": 36629574,
+    "price": 25.8268,
+    "change": 1.6,
+    "volume": 100,
+    "holdings": 54
   },
   {
     "s": "NIXT",
@@ -32103,7 +32123,7 @@
     "s": "CSIO",
     "n": "Cohen & Steers Infrastructure Opportunities Active ETF",
     "assetClass": "Equity",
-    "aum": 35985879,
+    "aum": 35958821,
     "price": 28.2956,
     "change": 0.41,
     "volume": 12383,
@@ -32118,16 +32138,6 @@
     "change": 1.98,
     "volume": 7345,
     "holdings": 494
-  },
-  {
-    "s": "OAKG",
-    "n": "Oakmark Global Large Cap ETF",
-    "assetClass": "Equity",
-    "aum": 35913032,
-    "price": 25.8268,
-    "change": 1.6,
-    "volume": 100,
-    "holdings": 53
   },
   {
     "s": "WISE",
@@ -32168,6 +32178,16 @@
     "change": 1.31,
     "volume": 2285,
     "holdings": 446
+  },
+  {
+    "s": "BLCN",
+    "n": "Siren NexGen Economy ETF",
+    "assetClass": "Equity",
+    "aum": 35753796,
+    "price": 24.14,
+    "change": 1.34,
+    "volume": 32999,
+    "holdings": 40
   },
   {
     "s": "FBDC",
@@ -32217,7 +32237,7 @@
     "price": 28.2488,
     "change": 0.67,
     "volume": 1079,
-    "holdings": 41
+    "holdings": 44
   },
   {
     "s": "GSUI",
@@ -32228,16 +32248,6 @@
     "change": 1.13,
     "volume": 16545,
     "holdings": 1
-  },
-  {
-    "s": "GMOD",
-    "n": "GMO Dynamic Allocation ETF",
-    "assetClass": "Asset Allocation",
-    "aum": 35239687,
-    "price": 27.1477,
-    "change": 1,
-    "volume": 5596,
-    "holdings": 19
   },
   {
     "s": "GFGF",
@@ -32318,6 +32328,16 @@
     "change": 0.53,
     "volume": 2113,
     "holdings": 7
+  },
+  {
+    "s": "RSMV",
+    "n": "Relative Strength Managed Volatility Strategy ETF 1Shs",
+    "assetClass": "Equity",
+    "aum": 34790893,
+    "price": 27.163,
+    "change": 0.27,
+    "volume": 3938,
+    "holdings": 23
   },
   {
     "s": "SSXU",
@@ -32408,6 +32428,16 @@
     "change": 0.42,
     "volume": 7955,
     "holdings": 7
+  },
+  {
+    "s": "GMOD",
+    "n": "GMO Dynamic Allocation ETF",
+    "assetClass": "Asset Allocation",
+    "aum": 34460844,
+    "price": 27.1477,
+    "change": 1,
+    "volume": 5596,
+    "holdings": 19
   },
   {
     "s": "CVRD",
@@ -32590,14 +32620,14 @@
     "holdings": 10
   },
   {
-    "s": "BLCN",
-    "n": "Siren NexGen Economy ETF",
-    "assetClass": "Equity",
-    "aum": 33377893,
-    "price": 24.14,
-    "change": 1.34,
-    "volume": 32999,
-    "holdings": 40
+    "s": "FOPC",
+    "n": "Frontier Asset Opportunistic Credit ETF",
+    "assetClass": "Fixed Income",
+    "aum": 33333794,
+    "price": 25.645,
+    "change": 0.33,
+    "volume": 3013,
+    "holdings": 9
   },
   {
     "s": "TXS",
@@ -32608,16 +32638,6 @@
     "change": 0.74,
     "volume": 1632,
     "holdings": 222
-  },
-  {
-    "s": "FOPC",
-    "n": "Frontier Asset Opportunistic Credit ETF",
-    "assetClass": "Fixed Income",
-    "aum": 33259939,
-    "price": 25.645,
-    "change": 0.33,
-    "volume": 3013,
-    "holdings": 9
   },
   {
     "s": "DRV",
@@ -32640,6 +32660,16 @@
     "holdings": 7
   },
   {
+    "s": "ZIG",
+    "n": "Acquirers Fund",
+    "assetClass": "Equity",
+    "aum": 33045157,
+    "price": 40.1007,
+    "change": 0.73,
+    "volume": 2504,
+    "holdings": 34
+  },
+  {
     "s": "CPSF",
     "n": "Calamos S&P 500 Structured Alt Protection ETF - February",
     "assetClass": "Alternatives",
@@ -32658,16 +32688,6 @@
     "change": 0.61,
     "volume": 18242,
     "holdings": 13
-  },
-  {
-    "s": "ZIG",
-    "n": "Acquirers Fund",
-    "assetClass": "Equity",
-    "aum": 32912841,
-    "price": 40.1007,
-    "change": 0.73,
-    "volume": 2504,
-    "holdings": 34
   },
   {
     "s": "PSCC",
@@ -32740,16 +32760,6 @@
     "holdings": 5
   },
   {
-    "s": "ADBG",
-    "n": "Leverage Shares 2X Long ADBE Daily ETF",
-    "assetClass": "Equity",
-    "aum": 32674532,
-    "price": 4.58,
-    "change": -2.97,
-    "volume": 4285173,
-    "holdings": 7
-  },
-  {
     "s": "BTCL",
     "n": "T-Rex 2X Long Bitcoin Daily Target ETF",
     "assetClass": "Currency",
@@ -32770,6 +32780,16 @@
     "holdings": 7
   },
   {
+    "s": "ADBG",
+    "n": "Leverage Shares 2X Long ADBE Daily ETF",
+    "assetClass": "Equity",
+    "aum": 32561658,
+    "price": 4.58,
+    "change": -2.97,
+    "volume": 4285173,
+    "holdings": 7
+  },
+  {
     "s": "JPO",
     "n": "YieldMax JP Option Income Strategy ETF",
     "assetClass": "Equity",
@@ -32780,6 +32800,16 @@
     "holdings": null
   },
   {
+    "s": "RAAA",
+    "n": "Reckoner Yield Enhanced AAA CLO ETF",
+    "assetClass": "Fixed Income",
+    "aum": 32527554,
+    "price": 25.04,
+    "change": 0.08,
+    "volume": 3586,
+    "holdings": 53
+  },
+  {
     "s": "EZRO",
     "n": "AlphaDroid Defensive Sector Rotation ETF",
     "assetClass": "Asset Allocation",
@@ -32788,16 +32818,6 @@
     "change": -0.92,
     "volume": 6531,
     "holdings": 6
-  },
-  {
-    "s": "RAAA",
-    "n": "Reckoner Yield Enhanced AAA CLO ETF",
-    "assetClass": "Fixed Income",
-    "aum": 32468317,
-    "price": 25.04,
-    "change": 0.08,
-    "volume": 3586,
-    "holdings": 53
   },
   {
     "s": "QDIV",
@@ -32920,6 +32940,16 @@
     "holdings": 31
   },
   {
+    "s": "WCME",
+    "n": "First Trust WCM Developing World Equity ETF",
+    "assetClass": "Equity",
+    "aum": 31934256,
+    "price": 18.5931,
+    "change": 1.1,
+    "volume": 10220,
+    "holdings": 39
+  },
+  {
     "s": "QQUP",
     "n": "Proshares Ultra QQQ Mega ETF",
     "assetClass": "Equity",
@@ -32960,6 +32990,16 @@
     "holdings": 6
   },
   {
+    "s": "THEQ",
+    "n": "T. Rowe Price Hedged Equity ETF",
+    "assetClass": "Equity",
+    "aum": 31747752,
+    "price": 28.8625,
+    "change": 0.85,
+    "volume": 1974,
+    "holdings": 123
+  },
+  {
     "s": "PSET",
     "n": "Principal Quality ETF",
     "assetClass": "Equity",
@@ -32968,16 +33008,6 @@
     "change": 1.54,
     "volume": 1688,
     "holdings": 73
-  },
-  {
-    "s": "WCME",
-    "n": "First Trust WCM Developing World Equity ETF",
-    "assetClass": "Equity",
-    "aum": 31713811,
-    "price": 18.5931,
-    "change": 1.1,
-    "volume": 10220,
-    "holdings": 39
   },
   {
     "s": "HFND",
@@ -33040,6 +33070,16 @@
     "holdings": 6
   },
   {
+    "s": "HEQQ",
+    "n": "JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF",
+    "assetClass": "Equity",
+    "aum": 31327678,
+    "price": 59.647,
+    "change": 0.43,
+    "volume": 179,
+    "holdings": 105
+  },
+  {
     "s": "RETL",
     "n": "Direxion Daily Retail Bull 3X ETF",
     "assetClass": "Equity",
@@ -33058,16 +33098,6 @@
     "change": 0.04,
     "volume": 106532,
     "holdings": 6
-  },
-  {
-    "s": "THEQ",
-    "n": "T. Rowe Price Hedged Equity ETF",
-    "assetClass": "Equity",
-    "aum": 31254929,
-    "price": 28.8625,
-    "change": 0.85,
-    "volume": 1974,
-    "holdings": 123
   },
   {
     "s": "COWS",
@@ -33118,16 +33148,6 @@
     "change": 1.32,
     "volume": 13882,
     "holdings": 37
-  },
-  {
-    "s": "HEQQ",
-    "n": "JPMorgan Nasdaq Hedged Equity Laddered Overlay ETF",
-    "assetClass": "Equity",
-    "aum": 31134375,
-    "price": 59.647,
-    "change": 0.43,
-    "volume": 179,
-    "holdings": 105
   },
   {
     "s": "CPRO",
@@ -33197,7 +33217,7 @@
     "price": 20.6305,
     "change": 0.59,
     "volume": 6888,
-    "holdings": 30
+    "holdings": 31
   },
   {
     "s": "IIGD",
@@ -33228,16 +33248,6 @@
     "change": 2.19,
     "volume": 2513,
     "holdings": 81
-  },
-  {
-    "s": "HIYY",
-    "n": "YieldMax HIMS Option Income Strategy ETF",
-    "assetClass": "Equity",
-    "aum": 30818726,
-    "price": 17.64,
-    "change": 4.26,
-    "volume": 58953,
-    "holdings": 13
   },
   {
     "s": "UMDD",
@@ -33288,6 +33298,16 @@
     "change": 0.16,
     "volume": 1407,
     "holdings": 4
+  },
+  {
+    "s": "TAXM",
+    "n": "BondBloxx IR+M Tax-Aware ETF for Massachusetts Residents",
+    "assetClass": "Fixed Income",
+    "aum": 30642312,
+    "price": 50.3423,
+    "change": 0.32,
+    "volume": 50,
+    "holdings": 147
   },
   {
     "s": "CCEF",
@@ -33348,16 +33368,6 @@
     "change": 1.14,
     "volume": 3943,
     "holdings": 450
-  },
-  {
-    "s": "TAXM",
-    "n": "BondBloxx IR+M Tax-Aware ETF for Massachusetts Residents",
-    "assetClass": "Fixed Income",
-    "aum": 30574716,
-    "price": 50.3423,
-    "change": 0.32,
-    "volume": 50,
-    "holdings": 147
   },
   {
     "s": "EBIZ",
@@ -33527,7 +33537,7 @@
     "price": 25.116,
     "change": 0.02,
     "volume": 1280,
-    "holdings": 77
+    "holdings": 79
   },
   {
     "s": "OTGL",
@@ -33637,7 +33647,7 @@
     "price": 10.02,
     "change": 0,
     "volume": 12,
-    "holdings": 114
+    "holdings": 113
   },
   {
     "s": "JNEU",
@@ -33680,6 +33690,16 @@
     "holdings": 149
   },
   {
+    "s": "PLTG",
+    "n": "Leverage Shares 2X Long PLTR Daily ETF",
+    "assetClass": "Equity",
+    "aum": 29045507,
+    "price": 15.52,
+    "change": 4.65,
+    "volume": 301670,
+    "holdings": 7
+  },
+  {
     "s": "BITS",
     "n": "Global X Blockchain & Bitcoin Strategy ETF",
     "assetClass": "Asset Allocation",
@@ -33688,6 +33708,16 @@
     "change": 4.12,
     "volume": 7431,
     "holdings": 4
+  },
+  {
+    "s": "TMSF",
+    "n": "T. Rowe Price Multi-Sector Income ETF",
+    "assetClass": "Fixed Income",
+    "aum": 28969828,
+    "price": 50.32,
+    "change": 0.28,
+    "volume": 405,
+    "holdings": 236
   },
   {
     "s": "FTXH",
@@ -33700,14 +33730,14 @@
     "holdings": 51
   },
   {
-    "s": "TMSF",
-    "n": "T. Rowe Price Multi-Sector Income ETF",
-    "assetClass": "Fixed Income",
-    "aum": 28825765,
-    "price": 50.32,
-    "change": 0.28,
-    "volume": 405,
-    "holdings": 234
+    "s": "IEDI",
+    "n": "iShares U.S. Consumer Focused ETF",
+    "assetClass": "Equity",
+    "aum": 28830152,
+    "price": 57.6075,
+    "change": 2.32,
+    "volume": 1870,
+    "holdings": 187
   },
   {
     "s": "FAAA",
@@ -33720,14 +33750,14 @@
     "holdings": 100
   },
   {
-    "s": "RSMV",
-    "n": "Relative Strength Managed Volatility Strategy ETF 1Shs",
+    "s": "HYP",
+    "n": "Golden Eagle Dynamic Hypergrowth ETF",
     "assetClass": "Equity",
-    "aum": 28653308,
-    "price": 27.163,
-    "change": 0.27,
-    "volume": 3938,
-    "holdings": 23
+    "aum": 28689963,
+    "price": 26.8153,
+    "change": -0.09,
+    "volume": 14132,
+    "holdings": 60
   },
   {
     "s": "GOLS",
@@ -33767,7 +33797,7 @@
     "price": 44.0893,
     "change": 2.56,
     "volume": 1815,
-    "holdings": 12
+    "holdings": 15
   },
   {
     "s": "MLPD",
@@ -33790,20 +33820,10 @@
     "holdings": 64
   },
   {
-    "s": "HYP",
-    "n": "Golden Eagle Dynamic Hypergrowth ETF",
-    "assetClass": "Equity",
-    "aum": 28313119,
-    "price": 26.8153,
-    "change": -0.09,
-    "volume": 14132,
-    "holdings": 60
-  },
-  {
     "s": "TXXI",
     "n": "BondBloxx IR+M Tax-Aware Intermediate Duration ETF",
     "assetClass": "Fixed Income",
-    "aum": 28281512,
+    "aum": 28345075,
     "price": 50.705,
     "change": 0.31,
     "volume": 4240,
@@ -33820,6 +33840,16 @@
     "holdings": 67
   },
   {
+    "s": "RJMI",
+    "n": "RJ Eagle Municipal Income ETF",
+    "assetClass": "Fixed Income",
+    "aum": 28166319,
+    "price": 25.625,
+    "change": 0.29,
+    "volume": 10791,
+    "holdings": 104
+  },
+  {
     "s": "SUIS",
     "n": "Canary Staked SUIS ETF",
     "assetClass": "Currency",
@@ -33828,6 +33858,16 @@
     "change": 1.28,
     "volume": 1417,
     "holdings": 3
+  },
+  {
+    "s": "GTPE",
+    "n": "Goldman Sachs MSCI World Private Equity Return Tracker ETF",
+    "assetClass": "Equity",
+    "aum": 28157630,
+    "price": 56.3098,
+    "change": 1.51,
+    "volume": 976,
+    "holdings": 1480
   },
   {
     "s": "PBNV",
@@ -33848,16 +33888,6 @@
     "change": 1.8,
     "volume": 63727,
     "holdings": 31
-  },
-  {
-    "s": "RJMI",
-    "n": "RJ Eagle Municipal Income ETF",
-    "assetClass": "Fixed Income",
-    "aum": 28109046,
-    "price": 25.625,
-    "change": 0.29,
-    "volume": 10791,
-    "holdings": 105
   },
   {
     "s": "PJIO",
@@ -33888,16 +33918,6 @@
     "change": 1.3,
     "volume": 4844,
     "holdings": 39
-  },
-  {
-    "s": "IEDI",
-    "n": "iShares U.S. Consumer Focused ETF",
-    "assetClass": "Equity",
-    "aum": 27935510,
-    "price": 57.6075,
-    "change": 2.32,
-    "volume": 1870,
-    "holdings": 187
   },
   {
     "s": "MMMA",
@@ -33997,7 +34017,7 @@
     "price": 63.0395,
     "change": 0.57,
     "volume": 981,
-    "holdings": 42
+    "holdings": 43
   },
   {
     "s": "QLDY",
@@ -34030,16 +34050,6 @@
     "holdings": 5
   },
   {
-    "s": "GTPE",
-    "n": "Goldman Sachs MSCI World Private Equity Return Tracker ETF",
-    "assetClass": "Equity",
-    "aum": 27440944,
-    "price": 56.3098,
-    "change": 1.51,
-    "volume": 976,
-    "holdings": 1491
-  },
-  {
     "s": "NOVM",
     "n": "FT Vest U.S. Equity Max Buffer ETF - November",
     "assetClass": "Alternatives",
@@ -34067,7 +34077,17 @@
     "price": 31.0276,
     "change": 1.3,
     "volume": 1109,
-    "holdings": 376
+    "holdings": 375
+  },
+  {
+    "s": "RCLO",
+    "n": "Reckoner BBB-B CLO ETF",
+    "assetClass": "Fixed Income",
+    "aum": 27383006,
+    "price": 24.885,
+    "change": 0.5,
+    "volume": 3488,
+    "holdings": 26
   },
   {
     "s": "MBND",
@@ -34098,16 +34118,6 @@
     "change": 0.3,
     "volume": 5771,
     "holdings": 7
-  },
-  {
-    "s": "RCLO",
-    "n": "Reckoner BBB-B CLO ETF",
-    "assetClass": "Fixed Income",
-    "aum": 27208421,
-    "price": 24.885,
-    "change": 0.5,
-    "volume": 3488,
-    "holdings": 25
   },
   {
     "s": "SAMM",
@@ -34450,16 +34460,6 @@
     "holdings": 5
   },
   {
-    "s": "PLTG",
-    "n": "Leverage Shares 2X Long PLTR Daily ETF",
-    "assetClass": "Equity",
-    "aum": 25473212,
-    "price": 15.52,
-    "change": 4.65,
-    "volume": 301670,
-    "holdings": 7
-  },
-  {
     "s": "EGUS",
     "n": "iShares ESG Aware MSCI USA Growth ETF",
     "assetClass": "Equity",
@@ -34557,7 +34557,7 @@
     "price": 50.22,
     "change": 0.3,
     "volume": 770,
-    "holdings": 44
+    "holdings": 47
   },
   {
     "s": "MARB",
@@ -34640,14 +34640,14 @@
     "holdings": 110
   },
   {
-    "s": "GLIX",
-    "n": "Lazard Listed Infrastructure ETF",
+    "s": "TAX",
+    "n": "Cambria Tax Aware ETF",
     "assetClass": "Equity",
-    "aum": 24715020,
-    "price": 27.3645,
-    "change": 0.42,
-    "volume": 9583,
-    "holdings": 29
+    "aum": 24727925,
+    "price": 29.7517,
+    "change": 2.2,
+    "volume": 72,
+    "holdings": 102
   },
   {
     "s": "ALIL",
@@ -34670,6 +34670,16 @@
     "holdings": 6
   },
   {
+    "s": "GLIX",
+    "n": "Lazard Listed Infrastructure ETF",
+    "assetClass": "Equity",
+    "aum": 24626313,
+    "price": 27.3645,
+    "change": 0.42,
+    "volume": 9583,
+    "holdings": 29
+  },
+  {
     "s": "RAYJ",
     "n": "Rayliant SMDAM Japan Equity ETF",
     "assetClass": "Equity",
@@ -34678,6 +34688,26 @@
     "change": 0.94,
     "volume": 2418,
     "holdings": 33
+  },
+  {
+    "s": "JAPN",
+    "n": "Horizon Kinetics Japan Owner Operator ETF",
+    "assetClass": "Equity",
+    "aum": 24589712,
+    "price": 24.14,
+    "change": 1.56,
+    "volume": 3130,
+    "holdings": 34
+  },
+  {
+    "s": "XBCI",
+    "n": "NEOS Boosted Bitcoin High Income ETF",
+    "assetClass": "Currency",
+    "aum": 24586556,
+    "price": 46.5584,
+    "change": 3.07,
+    "volume": 59886,
+    "holdings": 11
   },
   {
     "s": "SAEF",
@@ -34740,26 +34770,6 @@
     "holdings": 172
   },
   {
-    "s": "TAX",
-    "n": "Cambria Tax Aware ETF",
-    "assetClass": "Equity",
-    "aum": 24158641,
-    "price": 29.7517,
-    "change": 2.2,
-    "volume": 72,
-    "holdings": 102
-  },
-  {
-    "s": "JAPN",
-    "n": "Horizon Kinetics Japan Owner Operator ETF",
-    "assetClass": "Equity",
-    "aum": 24065653,
-    "price": 24.14,
-    "change": 1.56,
-    "volume": 3130,
-    "holdings": 34
-  },
-  {
     "s": "SAA",
     "n": "ProShares Ultra SmallCap600",
     "assetClass": "Equity",
@@ -34797,7 +34807,7 @@
     "price": 22.62,
     "change": -1.35,
     "volume": 25285,
-    "holdings": 80
+    "holdings": 81
   },
   {
     "s": "PQJA",
@@ -34877,7 +34887,7 @@
     "price": 40.0369,
     "change": 1.64,
     "volume": 15396,
-    "holdings": 109
+    "holdings": 106
   },
   {
     "s": "CANQ",
@@ -34910,16 +34920,6 @@
     "holdings": 11
   },
   {
-    "s": "XBCI",
-    "n": "NEOS Boosted Bitcoin High Income ETF",
-    "assetClass": "Currency",
-    "aum": 23510854,
-    "price": 46.5584,
-    "change": 3.07,
-    "volume": 59886,
-    "holdings": 12
-  },
-  {
     "s": "NRSH",
     "n": "Aztlan North America Nearshoring Stock Selection ETF",
     "assetClass": "Equity",
@@ -34927,7 +34927,7 @@
     "price": 28.58,
     "change": 2.95,
     "volume": 110524,
-    "holdings": 32
+    "holdings": 34
   },
   {
     "s": "YFFI",
@@ -35070,6 +35070,16 @@
     "holdings": 7
   },
   {
+    "s": "FTKI",
+    "n": "First Trust Small Cap BuyWrite Income ETF",
+    "assetClass": "Equity",
+    "aum": 22858168,
+    "price": 19.8876,
+    "change": 0.34,
+    "volume": 15538,
+    "holdings": 192
+  },
+  {
     "s": "MCH",
     "n": "Matthews China Active ETF",
     "assetClass": "Equity",
@@ -35097,7 +35107,7 @@
     "price": 12.4955,
     "change": 2.09,
     "volume": 1776,
-    "holdings": 46
+    "holdings": 45
   },
   {
     "s": "OILD",
@@ -35120,14 +35130,14 @@
     "holdings": 63
   },
   {
-    "s": "FTKI",
-    "n": "First Trust Small Cap BuyWrite Income ETF",
-    "assetClass": "Equity",
-    "aum": 22667486,
-    "price": 19.8876,
-    "change": 0.34,
-    "volume": 15538,
-    "holdings": 192
+    "s": "TMNL",
+    "n": "T. Rowe Price Long Municipal Income ETF",
+    "assetClass": "Fixed Income",
+    "aum": 22639427,
+    "price": 50.4253,
+    "change": 0.31,
+    "volume": 0,
+    "holdings": 110
   },
   {
     "s": "PSCD",
@@ -35148,16 +35158,6 @@
     "change": 2.39,
     "volume": 4715,
     "holdings": 64
-  },
-  {
-    "s": "TMNL",
-    "n": "T. Rowe Price Long Municipal Income ETF",
-    "assetClass": "Fixed Income",
-    "aum": 22589403,
-    "price": 50.4253,
-    "change": 0.31,
-    "volume": 0,
-    "holdings": 110
   },
   {
     "s": "IVSS",
@@ -35208,6 +35208,16 @@
     "change": 1.77,
     "volume": 1611,
     "holdings": 107
+  },
+  {
+    "s": "OWNB",
+    "n": "Bitwise Bitcoin Standard Corporations ETF",
+    "assetClass": "Equity",
+    "aum": 22181167,
+    "price": 21.3865,
+    "change": 6.4,
+    "volume": 22820,
+    "holdings": 35
   },
   {
     "s": "GPT",
@@ -35280,6 +35290,16 @@
     "holdings": 7
   },
   {
+    "s": "TGLB",
+    "n": "T. Rowe Price Global Equity ETF",
+    "assetClass": "Equity",
+    "aum": 21967175,
+    "price": 27.5651,
+    "change": 1.01,
+    "volume": 254,
+    "holdings": 54
+  },
+  {
     "s": "MJSC",
     "n": "MUFG Japan Small Cap Active ETF",
     "assetClass": "Equity",
@@ -35298,6 +35318,16 @@
     "change": -1.61,
     "volume": 155714,
     "holdings": 10
+  },
+  {
+    "s": "SDTY",
+    "n": "YieldMax S&P 500 0DTE Covered Call Strategy ETF",
+    "assetClass": "Equity",
+    "aum": 21940116,
+    "price": 41.8807,
+    "change": 1.46,
+    "volume": 14531,
+    "holdings": 7
   },
   {
     "s": "PSIL",
@@ -35330,16 +35360,6 @@
     "holdings": 0
   },
   {
-    "s": "SDTY",
-    "n": "YieldMax S&P 500 0DTE Covered Call Strategy ETF",
-    "assetClass": "Equity",
-    "aum": 21663206,
-    "price": 41.8807,
-    "change": 1.46,
-    "volume": 14531,
-    "holdings": 7
-  },
-  {
     "s": "HFMF",
     "n": "Unlimited HFMF Managed Futures ETF",
     "assetClass": "Alternatives",
@@ -35350,16 +35370,6 @@
     "holdings": 19
   },
   {
-    "s": "SLTY",
-    "n": "YieldMax Ultra Short Option Income Strategy ETF",
-    "assetClass": "Equity",
-    "aum": 21628336,
-    "price": 26.78,
-    "change": -1.03,
-    "volume": 54910,
-    "holdings": 132
-  },
-  {
     "s": "CAFG",
     "n": "Pacer US Small Cap Cash Cows Growth Leaders ETF",
     "assetClass": "Equity",
@@ -35368,6 +35378,16 @@
     "change": 1.57,
     "volume": 665,
     "holdings": 103
+  },
+  {
+    "s": "TMED",
+    "n": "T. Rowe Price Health Care ETF",
+    "assetClass": "Equity",
+    "aum": 21539326,
+    "price": 30.7649,
+    "change": 1.94,
+    "volume": 168,
+    "holdings": 105
   },
   {
     "s": "GDOC",
@@ -35388,16 +35408,6 @@
     "change": -0.02,
     "volume": 4737,
     "holdings": 202
-  },
-  {
-    "s": "TGLB",
-    "n": "T. Rowe Price Global Equity ETF",
-    "assetClass": "Equity",
-    "aum": 21431974,
-    "price": 27.5651,
-    "change": 1.01,
-    "volume": 254,
-    "holdings": 54
   },
   {
     "s": "VEMY",
@@ -35557,7 +35567,7 @@
     "price": 27.8185,
     "change": 1.01,
     "volume": 43,
-    "holdings": 499
+    "holdings": 498
   },
   {
     "s": "QETH",
@@ -35568,6 +35578,16 @@
     "change": 3.11,
     "volume": 27380,
     "holdings": 1
+  },
+  {
+    "s": "SLTY",
+    "n": "YieldMax Ultra Short Option Income Strategy ETF",
+    "assetClass": "Equity",
+    "aum": 20788271,
+    "price": 26.78,
+    "change": -1.03,
+    "volume": 54910,
+    "holdings": 132
   },
   {
     "s": "XTOC",
@@ -35610,6 +35630,16 @@
     "holdings": 8
   },
   {
+    "s": "YLDW",
+    "n": "Westwood Enhanced Income Opportunity ETF",
+    "assetClass": "Asset Allocation",
+    "aum": 20422515,
+    "price": 25.5409,
+    "change": 0.63,
+    "volume": 15974,
+    "holdings": 138
+  },
+  {
     "s": "FORH",
     "n": "Formidable ETF",
     "assetClass": "Asset Allocation",
@@ -35637,7 +35667,7 @@
     "price": 20.7124,
     "change": 1.28,
     "volume": 2200,
-    "holdings": 43
+    "holdings": 41
   },
   {
     "s": "NOVZ",
@@ -35658,6 +35688,16 @@
     "change": 1.31,
     "volume": 558,
     "holdings": 407
+  },
+  {
+    "s": "TPLS",
+    "n": "Thornburg Core Plus Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 20320577,
+    "price": 25.415,
+    "change": 0.41,
+    "volume": 161,
+    "holdings": 303
   },
   {
     "s": "DRAI",
@@ -35690,26 +35730,6 @@
     "holdings": 9
   },
   {
-    "s": "TPLS",
-    "n": "Thornburg Core Plus Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 20271718,
-    "price": 25.415,
-    "change": 0.41,
-    "volume": 161,
-    "holdings": 303
-  },
-  {
-    "s": "DRKY",
-    "n": "VistaShares Target 15 DRUKMacro Distribution ETF",
-    "assetClass": "Equity",
-    "aum": 20263499,
-    "price": 20.6832,
-    "change": 2.14,
-    "volume": 9579,
-    "holdings": 66
-  },
-  {
     "s": "NVDS",
     "n": "Tradr 1.5X Short NVDA Daily ETF",
     "assetClass": "Equity",
@@ -35718,16 +35738,6 @@
     "change": -2.34,
     "volume": 243963,
     "holdings": 5
-  },
-  {
-    "s": "YLDW",
-    "n": "Westwood Enhanced Income Opportunity ETF",
-    "assetClass": "Asset Allocation",
-    "aum": 20223746,
-    "price": 25.5409,
-    "change": 0.63,
-    "volume": 15974,
-    "holdings": 138
   },
   {
     "s": "APRP",
@@ -35740,14 +35750,14 @@
     "holdings": 7
   },
   {
-    "s": "OWNB",
-    "n": "Bitwise Bitcoin Standard Corporations ETF",
+    "s": "DRKY",
+    "n": "VistaShares Target 15 DRUKMacro Distribution ETF",
     "assetClass": "Equity",
-    "aum": 20139342,
-    "price": 21.3865,
-    "change": 6.4,
-    "volume": 22820,
-    "holdings": 35
+    "aum": 20185029,
+    "price": 20.6832,
+    "change": 2.14,
+    "volume": 9579,
+    "holdings": 66
   },
   {
     "s": "HAIL",
@@ -35780,6 +35790,16 @@
     "holdings": 26
   },
   {
+    "s": "CVNY",
+    "n": "YieldMax CVNA Option Income Strategy ETF",
+    "assetClass": "Equity",
+    "aum": 19877028,
+    "price": 28.4441,
+    "change": 6.17,
+    "volume": 40383,
+    "holdings": 18
+  },
+  {
     "s": "TSMG",
     "n": "Leverage Shares 2X Long TSM Daily ETF",
     "assetClass": "Equity",
@@ -35788,16 +35808,6 @@
     "change": 4.09,
     "volume": 165119,
     "holdings": 7
-  },
-  {
-    "s": "TMED",
-    "n": "T. Rowe Price Health Care ETF",
-    "assetClass": "Equity",
-    "aum": 19816312,
-    "price": 30.7649,
-    "change": 1.94,
-    "volume": 168,
-    "holdings": 105
   },
   {
     "s": "OCTH",
@@ -35900,6 +35910,16 @@
     "holdings": 7
   },
   {
+    "s": "FTBI",
+    "n": "First Trust Balanced Income ETF",
+    "assetClass": "Asset Allocation",
+    "aum": 19532006,
+    "price": 21.69,
+    "change": 0.56,
+    "volume": 560,
+    "holdings": 15
+  },
+  {
     "s": "SROI",
     "n": "Calamos Antetokounmpo Global Sustainable Equities ETF",
     "assetClass": "Equity",
@@ -35918,16 +35938,6 @@
     "change": 0.24,
     "volume": 1501,
     "holdings": 171
-  },
-  {
-    "s": "FTBI",
-    "n": "First Trust Balanced Income ETF",
-    "assetClass": "Asset Allocation",
-    "aum": 19357233,
-    "price": 21.69,
-    "change": 0.56,
-    "volume": 560,
-    "holdings": 15
   },
   {
     "s": "JHAI",
@@ -35977,7 +35987,7 @@
     "price": 28.97,
     "change": 1.72,
     "volume": 32676,
-    "holdings": 11
+    "holdings": 10
   },
   {
     "s": "WTIP",
@@ -36030,24 +36040,14 @@
     "holdings": 35
   },
   {
-    "s": "CVNY",
-    "n": "YieldMax CVNA Option Income Strategy ETF",
-    "assetClass": "Equity",
-    "aum": 18972371,
-    "price": 28.4441,
-    "change": 6.17,
-    "volume": 40383,
-    "holdings": 18
-  },
-  {
-    "s": "YSPY",
-    "n": "GraniteShares YieldBOOST SPY ETF",
-    "assetClass": "Equity",
-    "aum": 18858243,
-    "price": 15.105,
-    "change": -0.76,
-    "volume": 18979,
-    "holdings": 10
+    "s": "HFEQ",
+    "n": "Unlimited HFEQ Equity Long/Short ETF",
+    "assetClass": "Alternatives",
+    "aum": 18837530,
+    "price": 22.7816,
+    "change": 1.25,
+    "volume": 3963,
+    "holdings": 25
   },
   {
     "s": "CBON",
@@ -36080,6 +36080,16 @@
     "holdings": 22
   },
   {
+    "s": "GMOC",
+    "n": "GMO Ultra-Short Income ETF",
+    "assetClass": "Fixed Income",
+    "aum": 18793745,
+    "price": 50.12,
+    "change": 0,
+    "volume": 50403,
+    "holdings": 46
+  },
+  {
     "s": "SKF",
     "n": "ProShares UltraShort Financials",
     "assetClass": "Equity",
@@ -36088,6 +36098,16 @@
     "change": -1.48,
     "volume": 42443,
     "holdings": 9
+  },
+  {
+    "s": "YSPY",
+    "n": "GraniteShares YieldBOOST SPY ETF",
+    "assetClass": "Equity",
+    "aum": 18741019,
+    "price": 15.105,
+    "change": -0.76,
+    "volume": 18979,
+    "holdings": 10
   },
   {
     "s": "PCLO",
@@ -36180,16 +36200,6 @@
     "holdings": 11
   },
   {
-    "s": "HFEQ",
-    "n": "Unlimited HFEQ Equity Long/Short ETF",
-    "assetClass": "Alternatives",
-    "aum": 18567365,
-    "price": 22.7816,
-    "change": 1.25,
-    "volume": 3963,
-    "holdings": 25
-  },
-  {
     "s": "NEWZ",
     "n": "StockSnips AI-Powered Sentiment US All Cap ETF",
     "assetClass": "Equity",
@@ -36218,6 +36228,36 @@
     "change": 0.55,
     "volume": 132,
     "holdings": 7
+  },
+  {
+    "s": "HOOX",
+    "n": "Defiance Daily Target 2X Long HOOD ETF",
+    "assetClass": "Equity",
+    "aum": 18395188,
+    "price": 32.301,
+    "change": 8.47,
+    "volume": 425405,
+    "holdings": 11
+  },
+  {
+    "s": "RW",
+    "n": "Rainwater Equity ETF",
+    "assetClass": "Equity",
+    "aum": 18381717,
+    "price": 24.8363,
+    "change": 2.5,
+    "volume": 2692,
+    "holdings": 38
+  },
+  {
+    "s": "IMST",
+    "n": "Bitwise MSTR Option Income Strategy ETF",
+    "assetClass": "Equity",
+    "aum": 18351863,
+    "price": 11.53,
+    "change": 1.77,
+    "volume": 19628,
+    "holdings": 6
   },
   {
     "s": "MIG",
@@ -36270,14 +36310,14 @@
     "holdings": 5
   },
   {
-    "s": "RW",
-    "n": "Rainwater Equity ETF",
-    "assetClass": "Equity",
-    "aum": 18173578,
-    "price": 24.8363,
-    "change": 2.5,
-    "volume": 2692,
-    "holdings": 37
+    "s": "USAF",
+    "n": "Atlas America Fund",
+    "assetClass": "Asset Allocation",
+    "aum": 18186264,
+    "price": 27.5813,
+    "change": 0.04,
+    "volume": 1832,
+    "holdings": 75
   },
   {
     "s": "CRSH",
@@ -36288,16 +36328,6 @@
     "change": -2.41,
     "volume": 48528,
     "holdings": 14
-  },
-  {
-    "s": "USAF",
-    "n": "Atlas America Fund",
-    "assetClass": "Asset Allocation",
-    "aum": 18166258,
-    "price": 27.5813,
-    "change": 0.04,
-    "volume": 1832,
-    "holdings": 75
   },
   {
     "s": "SRS",
@@ -36330,6 +36360,16 @@
     "holdings": 7
   },
   {
+    "s": "MUNX",
+    "n": "AMG GW&K Muni Income ETF",
+    "assetClass": "Fixed Income",
+    "aum": 18023493,
+    "price": 25.0859,
+    "change": 0.38,
+    "volume": null,
+    "holdings": 71
+  },
+  {
     "s": "EMPB",
     "n": "Efficient Market Portfolio Plus ETF Trust Units",
     "assetClass": "Asset Allocation",
@@ -36358,16 +36398,6 @@
     "change": 1.54,
     "volume": 2763,
     "holdings": 104
-  },
-  {
-    "s": "MUNX",
-    "n": "AMG GW&K Muni Income ETF",
-    "assetClass": "Fixed Income",
-    "aum": 17988082,
-    "price": 25.0859,
-    "change": 0.38,
-    "volume": null,
-    "holdings": 71
   },
   {
     "s": "MEDX",
@@ -36530,16 +36560,6 @@
     "holdings": 7
   },
   {
-    "s": "IMST",
-    "n": "Bitwise MSTR Option Income Strategy ETF",
-    "assetClass": "Equity",
-    "aum": 17502244,
-    "price": 11.53,
-    "change": 1.77,
-    "volume": 19628,
-    "holdings": 6
-  },
-  {
     "s": "MARZ",
     "n": "TrueShares Structured Outcome (March) ETF",
     "assetClass": "Alternatives",
@@ -36567,7 +36587,7 @@
     "price": 38.237,
     "change": 1.02,
     "volume": 4,
-    "holdings": 7
+    "holdings": 8
   },
   {
     "s": "XHYD",
@@ -36590,16 +36610,6 @@
     "holdings": 163
   },
   {
-    "s": "XBTY",
-    "n": "GraniteShares YieldBOOST Bitcoin ETF",
-    "assetClass": "Currency",
-    "aum": 17199885,
-    "price": 7.16,
-    "change": -0.56,
-    "volume": 32065,
-    "holdings": 11
-  },
-  {
     "s": "RNEM",
     "n": "First Trust Emerging Markets Equity Select ETF",
     "assetClass": "Equity",
@@ -36618,6 +36628,16 @@
     "change": -2.55,
     "volume": 10055423,
     "holdings": 13
+  },
+  {
+    "s": "XBTY",
+    "n": "GraniteShares YieldBOOST Bitcoin ETF",
+    "assetClass": "Currency",
+    "aum": 17152716,
+    "price": 7.16,
+    "change": -0.56,
+    "volume": 32065,
+    "holdings": 11
   },
   {
     "s": "XHYT",
@@ -36668,6 +36688,16 @@
     "change": 0.17,
     "volume": 100,
     "holdings": 7
+  },
+  {
+    "s": "BTCC",
+    "n": "Grayscale Bitcoin Covered Call ETF",
+    "assetClass": "Currency",
+    "aum": 16870361,
+    "price": 17.0011,
+    "change": 1.68,
+    "volume": 11109,
+    "holdings": 10
   },
   {
     "s": "BCHI",
@@ -36727,7 +36757,7 @@
     "price": 23.9702,
     "change": 0.38,
     "volume": 1332,
-    "holdings": 35
+    "holdings": 30
   },
   {
     "s": "KJUN",
@@ -36738,16 +36768,6 @@
     "change": 0.26,
     "volume": 10,
     "holdings": 6
-  },
-  {
-    "s": "TNXT",
-    "n": "T. Rowe Price Innovation Leaders ETF",
-    "assetClass": "Equity",
-    "aum": 16624875,
-    "price": 25.3816,
-    "change": 1.61,
-    "volume": 2153,
-    "holdings": 240
   },
   {
     "s": "QNXT",
@@ -36770,6 +36790,16 @@
     "holdings": 4
   },
   {
+    "s": "TNXT",
+    "n": "T. Rowe Price Innovation Leaders ETF",
+    "assetClass": "Equity",
+    "aum": 16501752,
+    "price": 25.3816,
+    "change": 1.61,
+    "volume": 2153,
+    "holdings": 240
+  },
+  {
     "s": "BTF",
     "n": "CoinShares Bitcoin and Ether ETF",
     "assetClass": "Currency",
@@ -36780,16 +36810,6 @@
     "holdings": 8
   },
   {
-    "s": "EZMO",
-    "n": "AlphaDroid Broad Markets Momentum ETF",
-    "assetClass": "Asset Allocation",
-    "aum": 16456189,
-    "price": 26.7393,
-    "change": -0.52,
-    "volume": 3768,
-    "holdings": 5
-  },
-  {
     "s": "WABF",
     "n": "Western Asset Bond ETF",
     "assetClass": "Fixed Income",
@@ -36797,7 +36817,7 @@
     "price": 25.3468,
     "change": 0.22,
     "volume": 2009,
-    "holdings": 467
+    "holdings": 470
   },
   {
     "s": "NERD",
@@ -36808,16 +36828,6 @@
     "change": 1.38,
     "volume": 726,
     "holdings": 43
-  },
-  {
-    "s": "BTCC",
-    "n": "Grayscale Bitcoin Covered Call ETF",
-    "assetClass": "Currency",
-    "aum": 16441757,
-    "price": 17.0011,
-    "change": 1.68,
-    "volume": 11109,
-    "holdings": 10
   },
   {
     "s": "TSEP",
@@ -36838,6 +36848,16 @@
     "change": -0.46,
     "volume": 33577,
     "holdings": 8
+  },
+  {
+    "s": "EZMO",
+    "n": "AlphaDroid Broad Markets Momentum ETF",
+    "assetClass": "Asset Allocation",
+    "aum": 16301197,
+    "price": 26.7393,
+    "change": -0.52,
+    "volume": 3768,
+    "holdings": 5
   },
   {
     "s": "XTJA",
@@ -36970,6 +36990,16 @@
     "holdings": 7
   },
   {
+    "s": "TSUI",
+    "n": "21Shares Sui ETF",
+    "assetClass": "Currency",
+    "aum": 16062710,
+    "price": 20.3377,
+    "change": 1.13,
+    "volume": 10740,
+    "holdings": 1
+  },
+  {
     "s": "TEXN",
     "n": "iShares Texas Equity ETF",
     "assetClass": "Equity",
@@ -36998,6 +37028,16 @@
     "change": 1.7,
     "volume": 4394,
     "holdings": 180
+  },
+  {
+    "s": "VSOL",
+    "n": "VanEck Solana ETF",
+    "assetClass": "Currency",
+    "aum": 15947319,
+    "price": 11.8187,
+    "change": -0.85,
+    "volume": 16948,
+    "holdings": 1
   },
   {
     "s": "KHYB",
@@ -37050,16 +37090,6 @@
     "holdings": null
   },
   {
-    "s": "HOOX",
-    "n": "Defiance Daily Target 2X Long HOOD ETF",
-    "assetClass": "Equity",
-    "aum": 15594136,
-    "price": 32.301,
-    "change": 8.47,
-    "volume": 425405,
-    "holdings": 11
-  },
-  {
     "s": "PQJL",
     "n": "PGIM Nasdaq-100 Buffer 12 ETF - July",
     "assetClass": "Alternatives",
@@ -37077,7 +37107,7 @@
     "price": 34.5544,
     "change": 1.24,
     "volume": 2,
-    "holdings": 8
+    "holdings": 7
   },
   {
     "s": "ION",
@@ -37150,16 +37180,6 @@
     "holdings": 28
   },
   {
-    "s": "NUGY",
-    "n": "GraniteShares YieldBOOST Gold Miners ETF",
-    "assetClass": "Equity",
-    "aum": 15273161,
-    "price": 18.0828,
-    "change": 0.18,
-    "volume": 37300,
-    "holdings": 11
-  },
-  {
     "s": "SETH",
     "n": "ProShares Short Ether ETF",
     "assetClass": "Currency",
@@ -37188,6 +37208,16 @@
     "change": 0.45,
     "volume": 2827,
     "holdings": 40
+  },
+  {
+    "s": "MULT",
+    "n": "Franklin Multisector Income ETF",
+    "assetClass": "Fixed Income",
+    "aum": 15200120,
+    "price": 25.39,
+    "change": 0.36,
+    "volume": 0,
+    "holdings": 330
   },
   {
     "s": "JCHI",
@@ -37220,14 +37250,14 @@
     "holdings": 7
   },
   {
-    "s": "MULT",
-    "n": "Franklin Multisector Income ETF",
-    "assetClass": "Fixed Income",
-    "aum": 15174626,
-    "price": 25.39,
-    "change": 0.36,
-    "volume": 0,
-    "holdings": 330
+    "s": "NUGY",
+    "n": "GraniteShares YieldBOOST Gold Miners ETF",
+    "assetClass": "Equity",
+    "aum": 15166759,
+    "price": 18.0828,
+    "change": 0.18,
+    "volume": 37300,
+    "holdings": 11
   },
   {
     "s": "LCDS",
@@ -37288,6 +37318,26 @@
     "change": 5.46,
     "volume": 48769,
     "holdings": 54
+  },
+  {
+    "s": "PCLN",
+    "n": "Pictet Cleaner Planet ETF",
+    "assetClass": "Equity",
+    "aum": 15030952,
+    "price": 28.5928,
+    "change": 2.19,
+    "volume": 11,
+    "holdings": 71
+  },
+  {
+    "s": "UUUG",
+    "n": "Leverage Shares 2X Long UUUU Daily ETF",
+    "assetClass": "Equity",
+    "aum": 15017800,
+    "price": 12.5608,
+    "change": -4.7,
+    "volume": 507143,
+    "holdings": 8
   },
   {
     "s": "FPRO",
@@ -37360,26 +37410,6 @@
     "holdings": 16
   },
   {
-    "s": "PCLN",
-    "n": "Pictet Cleaner Planet ETF",
-    "assetClass": "Equity",
-    "aum": 14741902,
-    "price": 28.5928,
-    "change": 2.19,
-    "volume": 11,
-    "holdings": 71
-  },
-  {
-    "s": "VSOL",
-    "n": "VanEck Solana ETF",
-    "assetClass": "Currency",
-    "aum": 14740635,
-    "price": 11.8187,
-    "change": -0.85,
-    "volume": 16948,
-    "holdings": 1
-  },
-  {
     "s": "EEV",
     "n": "ProShares UltraShort MSCI Emerging Markets",
     "assetClass": "Equity",
@@ -37420,16 +37450,6 @@
     "holdings": 205
   },
   {
-    "s": "TSUI",
-    "n": "21Shares Sui ETF",
-    "assetClass": "Currency",
-    "aum": 14536739,
-    "price": 20.3377,
-    "change": 1.13,
-    "volume": 10740,
-    "holdings": 1
-  },
-  {
     "s": "ETFT",
     "n": "Fundsmith Equity ETF",
     "assetClass": "Equity",
@@ -37438,16 +37458,6 @@
     "change": 2.2,
     "volume": 4009,
     "holdings": 33
-  },
-  {
-    "s": "GMOC",
-    "n": "GMO Ultra-Short Income ETF",
-    "assetClass": "Fixed Income",
-    "aum": 14398771,
-    "price": 50.12,
-    "change": 0,
-    "volume": 50403,
-    "holdings": 46
   },
   {
     "s": "FEBZ",
@@ -37510,16 +37520,6 @@
     "holdings": 28
   },
   {
-    "s": "UUUG",
-    "n": "Leverage Shares 2X Long UUUU Daily ETF",
-    "assetClass": "Equity",
-    "aum": 14112336,
-    "price": 12.5608,
-    "change": -4.7,
-    "volume": 507143,
-    "holdings": 8
-  },
-  {
     "s": "LTTI",
     "n": "FT Vest 20+ Year Treasury & Target Income ETF",
     "assetClass": "Alternatives",
@@ -37528,16 +37528,6 @@
     "change": 0.68,
     "volume": 5349,
     "holdings": 5
-  },
-  {
-    "s": "BEG",
-    "n": "Leverage Shares 2x Long BE Daily ETF",
-    "assetClass": "Equity",
-    "aum": 14040019,
-    "price": 52.2901,
-    "change": -1.99,
-    "volume": 65885,
-    "holdings": 8
   },
   {
     "s": "JUNZ",
@@ -37580,10 +37570,20 @@
     "holdings": 53
   },
   {
+    "s": "WMSB",
+    "n": "Weitz Multisector Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 13897210,
+    "price": 25.2746,
+    "change": 0.26,
+    "volume": 10004,
+    "holdings": 74
+  },
+  {
     "s": "WDGF",
     "n": "WisdomTree Global Defense Fund",
     "assetClass": "Equity",
-    "aum": 13897337,
+    "aum": 13883116,
     "price": 34.8472,
     "change": 0.63,
     "volume": 15075,
@@ -37600,14 +37600,14 @@
     "holdings": 4
   },
   {
-    "s": "WMSB",
-    "n": "Weitz Multisector Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 13846317,
-    "price": 25.2746,
-    "change": 0.26,
-    "volume": 10004,
-    "holdings": 75
+    "s": "RJVI",
+    "n": "RJ Eagle Vertical Income ETF",
+    "assetClass": "Asset Allocation",
+    "aum": 13844931,
+    "price": 25.205,
+    "change": 0.62,
+    "volume": 1220,
+    "holdings": 80
   },
   {
     "s": "TSL",
@@ -37680,16 +37680,6 @@
     "holdings": 411
   },
   {
-    "s": "TOKE",
-    "n": "Cambria Cannabis ETF",
-    "assetClass": "Equity",
-    "aum": 13587665,
-    "price": 5.24,
-    "change": 0.96,
-    "volume": 61025,
-    "holdings": 26
-  },
-  {
     "s": "EZJ",
     "n": "ProShares Ultra MSCI Japan",
     "assetClass": "Equity",
@@ -37720,6 +37710,16 @@
     "holdings": 48
   },
   {
+    "s": "TOKE",
+    "n": "Cambria Cannabis ETF",
+    "assetClass": "Equity",
+    "aum": 13538007,
+    "price": 5.24,
+    "change": 0.96,
+    "volume": 61025,
+    "holdings": 26
+  },
+  {
     "s": "VNSE",
     "n": "Natixis Vaughan Nelson Select ETF",
     "assetClass": "Equity",
@@ -37728,6 +37728,16 @@
     "change": 1.54,
     "volume": 1,
     "holdings": 27
+  },
+  {
+    "s": "SZNE",
+    "n": "Pacer CFRA-Stovall Equal Weight Seasonal Rotation ETF",
+    "assetClass": "Equity",
+    "aum": 13422079,
+    "price": 38.3434,
+    "change": 1.55,
+    "volume": 332,
+    "holdings": 230
   },
   {
     "s": "EUM",
@@ -37830,16 +37840,6 @@
     "holdings": 52
   },
   {
-    "s": "SZNE",
-    "n": "Pacer CFRA-Stovall Equal Weight Seasonal Rotation ETF",
-    "assetClass": "Equity",
-    "aum": 13122102,
-    "price": 38.3434,
-    "change": 1.55,
-    "volume": 332,
-    "holdings": 230
-  },
-  {
     "s": "SATG",
     "n": "Leverage Shares 2X Long SATS Daily ETF",
     "assetClass": "Equity",
@@ -37917,7 +37917,7 @@
     "price": 24.98,
     "change": 0.52,
     "volume": 56565,
-    "holdings": 8
+    "holdings": 7
   },
   {
     "s": "EVLU",
@@ -37947,17 +37947,7 @@
     "price": 25.7548,
     "change": 0.14,
     "volume": 1103,
-    "holdings": 313
-  },
-  {
-    "s": "TSNF",
-    "n": "Truth Social American Next Frontiers ETF",
-    "assetClass": "Equity",
-    "aum": 12847125,
-    "price": 28.21,
-    "change": 2.17,
-    "volume": 27560,
-    "holdings": 130
+    "holdings": 315
   },
   {
     "s": "SPYQ",
@@ -37983,11 +37973,21 @@
     "s": "AVGB",
     "n": "Avantis Credit ETF",
     "assetClass": "Fixed Income",
-    "aum": 12778419,
+    "aum": 12809320,
     "price": 51.255,
     "change": 0.43,
     "volume": 2686,
     "holdings": 115
+  },
+  {
+    "s": "BAIG",
+    "n": "Leverage Shares 2X Long BBAI Daily ETF",
+    "assetClass": "Equity",
+    "aum": 12700472,
+    "price": 3.38,
+    "change": 5.62,
+    "volume": 1171689,
+    "holdings": 8
   },
   {
     "s": "PILL",
@@ -38050,16 +38050,6 @@
     "holdings": 3
   },
   {
-    "s": "RJVI",
-    "n": "RJ Eagle Vertical Income ETF",
-    "assetClass": "Asset Allocation",
-    "aum": 12554866,
-    "price": 25.205,
-    "change": 0.62,
-    "volume": 1220,
-    "holdings": 79
-  },
-  {
     "s": "QQHG",
     "n": "Invesco QQQ Hedged Advantage ETF",
     "assetClass": "Equity",
@@ -38097,7 +38087,7 @@
     "price": 24.63,
     "change": 0.24,
     "volume": null,
-    "holdings": 62
+    "holdings": 58
   },
   {
     "s": "TYLG",
@@ -38138,6 +38128,16 @@
     "change": -1.55,
     "volume": 12725,
     "holdings": 7
+  },
+  {
+    "s": "VAVX",
+    "n": "Vaneck Avalanche ETF",
+    "assetClass": "Currency",
+    "aum": 12218302,
+    "price": 20.3763,
+    "change": -0.6,
+    "volume": 8875,
+    "holdings": 1
   },
   {
     "s": "EEMO",
@@ -38188,6 +38188,16 @@
     "change": 1.36,
     "volume": 10119,
     "holdings": 453
+  },
+  {
+    "s": "TDOT",
+    "n": "21shares Polkadot ETF Shares of Beneficial Interest",
+    "assetClass": "Currency",
+    "aum": 11965281,
+    "price": 16.1297,
+    "change": -1.29,
+    "volume": 2627,
+    "holdings": 1
   },
   {
     "s": "SOUX",
@@ -38247,7 +38257,7 @@
     "price": 30.1513,
     "change": 1.62,
     "volume": null,
-    "holdings": 486
+    "holdings": 491
   },
   {
     "s": "BRAZ",
@@ -38268,16 +38278,6 @@
     "change": 2.49,
     "volume": 145,
     "holdings": 29
-  },
-  {
-    "s": "VAVX",
-    "n": "Vaneck Avalanche ETF",
-    "assetClass": "Currency",
-    "aum": 11609899,
-    "price": 20.3763,
-    "change": -0.6,
-    "volume": 8875,
-    "holdings": 1
   },
   {
     "s": "FEAT",
@@ -38308,6 +38308,16 @@
     "change": 5.01,
     "volume": 6990,
     "holdings": 27
+  },
+  {
+    "s": "TSNF",
+    "n": "Truth Social American Next Frontiers ETF",
+    "assetClass": "Equity",
+    "aum": 11577497,
+    "price": 28.21,
+    "change": 2.17,
+    "volume": 27560,
+    "holdings": 130
   },
   {
     "s": "PWER",
@@ -38400,6 +38410,16 @@
     "holdings": 7
   },
   {
+    "s": "GGTL",
+    "n": "Gabelli Global Technology Leaders ETF",
+    "assetClass": "Equity",
+    "aum": 11300359,
+    "price": 34.3597,
+    "change": 0.88,
+    "volume": 230,
+    "holdings": 53
+  },
+  {
     "s": "EQLT",
     "n": "iShares MSCI Emerging Markets Quality Factor ETF",
     "assetClass": "Equity",
@@ -38437,7 +38457,27 @@
     "price": 22.7304,
     "change": 1.52,
     "volume": 10742,
-    "holdings": 310
+    "holdings": 309
+  },
+  {
+    "s": "PBOT",
+    "n": "Pictet AI & Automation ETF",
+    "assetClass": "Equity",
+    "aum": 11201092,
+    "price": 26.3681,
+    "change": 1.49,
+    "volume": 38,
+    "holdings": 50
+  },
+  {
+    "s": "SHPU",
+    "n": "Direxion Daily SHOP Bull 2X ETF",
+    "assetClass": "Equity",
+    "aum": 11168675,
+    "price": 16.58,
+    "change": 6.49,
+    "volume": 107662,
+    "holdings": 11
   },
   {
     "s": "PFIX",
@@ -38448,16 +38488,6 @@
     "change": -0.52,
     "volume": 1594453,
     "holdings": 31
-  },
-  {
-    "s": "GGTL",
-    "n": "Gabelli Global Technology Leaders ETF",
-    "assetClass": "Equity",
-    "aum": 11040204,
-    "price": 34.3597,
-    "change": 0.88,
-    "volume": 230,
-    "holdings": 53
   },
   {
     "s": "INVN",
@@ -38590,14 +38620,14 @@
     "holdings": 0
   },
   {
-    "s": "PBOT",
-    "n": "Pictet AI & Automation ETF",
+    "s": "TSYX",
+    "n": "TSPY Lift ETF",
     "assetClass": "Equity",
-    "aum": 10810108,
-    "price": 26.3681,
-    "change": 1.49,
-    "volume": 38,
-    "holdings": 50
+    "aum": 10819040,
+    "price": 22.9944,
+    "change": 1.66,
+    "volume": 14817,
+    "holdings": 5
   },
   {
     "s": "EMES",
@@ -38617,17 +38647,7 @@
     "price": 39.19,
     "change": 2.19,
     "volume": 8779,
-    "holdings": 47
-  },
-  {
-    "s": "BAIG",
-    "n": "Leverage Shares 2X Long BBAI Daily ETF",
-    "assetClass": "Equity",
-    "aum": 10716227,
-    "price": 3.38,
-    "change": 5.62,
-    "volume": 1171689,
-    "holdings": 8
+    "holdings": 46
   },
   {
     "s": "PJBF",
@@ -38640,16 +38660,6 @@
     "holdings": 42
   },
   {
-    "s": "XLUI",
-    "n": "State Street Utilities Select Sector SPDR Premium Income ETF",
-    "assetClass": "Equity",
-    "aum": 10561955,
-    "price": 25.04,
-    "change": 0,
-    "volume": 27832,
-    "holdings": 5
-  },
-  {
     "s": "CPII",
     "n": "American Beacon Ionic Inflation Protection ETF",
     "assetClass": "Fixed Income",
@@ -38660,13 +38670,13 @@
     "holdings": 15
   },
   {
-    "s": "TSYX",
-    "n": "TSPY Lift ETF",
+    "s": "XLUI",
+    "n": "State Street Utilities Select Sector SPDR Premium Income ETF",
     "assetClass": "Equity",
-    "aum": 10538847,
-    "price": 22.9944,
-    "change": 1.66,
-    "volume": 14817,
+    "aum": 10502034,
+    "price": 25.04,
+    "change": 0,
+    "volume": 27832,
     "holdings": 5
   },
   {
@@ -38728,16 +38738,6 @@
     "change": 1.85,
     "volume": 26,
     "holdings": 390
-  },
-  {
-    "s": "TDOT",
-    "n": "21shares Polkadot ETF Shares of Beneficial Interest",
-    "assetClass": "Currency",
-    "aum": 10335400,
-    "price": 16.1297,
-    "change": -1.29,
-    "volume": 2627,
-    "holdings": 1
   },
   {
     "s": "RDTY",
@@ -38833,7 +38833,7 @@
     "s": "MUNB",
     "n": "Northern Trust 2035 Tax-Exempt Distributing Ladder ETF",
     "assetClass": "Fixed Income",
-    "aum": 10087727,
+    "aum": 10097633,
     "price": 100.97,
     "change": 0.18,
     "volume": 3688,
@@ -38887,7 +38887,7 @@
     "price": 20.06,
     "change": 0.25,
     "volume": 7,
-    "holdings": 106
+    "holdings": 104
   },
   {
     "s": "MYMK",
@@ -38947,7 +38947,7 @@
     "price": 19.935,
     "change": 0.48,
     "volume": 5,
-    "holdings": 134
+    "holdings": 133
   },
   {
     "s": "MLPR",
@@ -39150,6 +39150,16 @@
     "holdings": 458
   },
   {
+    "s": "BEG",
+    "n": "Leverage Shares 2x Long BE Daily ETF",
+    "assetClass": "Equity",
+    "aum": 9455957,
+    "price": 52.2901,
+    "change": -1.99,
+    "volume": 65885,
+    "holdings": 8
+  },
+  {
     "s": "DANA",
     "n": "Dana Limited Volatility ETF",
     "assetClass": "Fixed Income",
@@ -39158,16 +39168,6 @@
     "change": 0.08,
     "volume": 1122,
     "holdings": 73
-  },
-  {
-    "s": "SHPU",
-    "n": "Direxion Daily SHOP Bull 2X ETF",
-    "assetClass": "Equity",
-    "aum": 9390665,
-    "price": 16.58,
-    "change": 6.49,
-    "volume": 107662,
-    "holdings": 11
   },
   {
     "s": "BDVG",
@@ -39277,7 +39277,17 @@
     "price": 27.91,
     "change": 1.79,
     "volume": 251433,
-    "holdings": 11
+    "holdings": 10
+  },
+  {
+    "s": "FIGG",
+    "n": "Leverage Shares 2x Long FIG Daily ETF",
+    "assetClass": "Equity",
+    "aum": 9072254,
+    "price": 0.9184,
+    "change": -14.17,
+    "volume": 7807103,
+    "holdings": 7
   },
   {
     "s": "VNIE",
@@ -39387,7 +39397,7 @@
     "price": 11.06,
     "change": 1.28,
     "volume": 2189,
-    "holdings": 33
+    "holdings": 34
   },
   {
     "s": "ENHU",
@@ -39477,7 +39487,7 @@
     "price": 43.3349,
     "change": 3.03,
     "volume": 2819,
-    "holdings": 109
+    "holdings": 108
   },
   {
     "s": "WTIU",
@@ -39520,6 +39530,26 @@
     "holdings": 71
   },
   {
+    "s": "IBGB",
+    "n": "iShares iBonds Dec 2045 Term Treasury ETF",
+    "assetClass": "Fixed Income",
+    "aum": 8608936,
+    "price": 24.61,
+    "change": 0.82,
+    "volume": 28,
+    "holdings": 9
+  },
+  {
+    "s": "HVAC",
+    "n": "AdvisorShares HVAC and Industrials ETF",
+    "assetClass": "Equity",
+    "aum": 8591033,
+    "price": 39.0587,
+    "change": 3.08,
+    "volume": 9187,
+    "holdings": 28
+  },
+  {
     "s": "SIMS",
     "n": "State Street SPDR S&P Kensho Intelligent Structures ETF",
     "assetClass": "Equity",
@@ -39540,16 +39570,6 @@
     "holdings": 216
   },
   {
-    "s": "IBGB",
-    "n": "iShares iBonds Dec 2045 Term Treasury ETF",
-    "assetClass": "Fixed Income",
-    "aum": 8582436,
-    "price": 24.61,
-    "change": 0.82,
-    "volume": 28,
-    "holdings": 9
-  },
-  {
     "s": "SATO",
     "n": "Invesco Alerian Galaxy Crypto Economy ETF",
     "assetClass": "Equity",
@@ -39558,6 +39578,16 @@
     "change": 5.58,
     "volume": 6149,
     "holdings": 61
+  },
+  {
+    "s": "TSSD",
+    "n": "Truth Social American Security & Defense ETF",
+    "assetClass": "Equity",
+    "aum": 8477278,
+    "price": 24.92,
+    "change": 0.08,
+    "volume": 9478,
+    "holdings": 59
   },
   {
     "s": "BILD",
@@ -39603,21 +39633,11 @@
     "s": "AMYY",
     "n": "GraniteShares YieldBOOST AMD ETF",
     "assetClass": "Equity",
-    "aum": 8449977,
+    "aum": 8445625,
     "price": 15.9441,
     "change": -1.46,
     "volume": 16738,
     "holdings": 9
-  },
-  {
-    "s": "HVAC",
-    "n": "AdvisorShares HVAC and Industrials ETF",
-    "assetClass": "Equity",
-    "aum": 8428680,
-    "price": 39.0587,
-    "change": 3.08,
-    "volume": 9187,
-    "holdings": 28
   },
   {
     "s": "MFIG",
@@ -39648,16 +39668,6 @@
     "change": -0.6,
     "volume": 71261,
     "holdings": 14
-  },
-  {
-    "s": "TSSD",
-    "n": "Truth Social American Security & Defense ETF",
-    "assetClass": "Equity",
-    "aum": 8337436,
-    "price": 24.92,
-    "change": 0.08,
-    "volume": 9478,
-    "holdings": 59
   },
   {
     "s": "FLAO",
@@ -39748,6 +39758,16 @@
     "change": -0.09,
     "volume": 4016,
     "holdings": 5
+  },
+  {
+    "s": "AVXX",
+    "n": "Defiance Daily Target 2x Long AVAV ETF",
+    "assetClass": "Equity",
+    "aum": 8104400,
+    "price": 11.1389,
+    "change": -10.46,
+    "volume": 319631,
+    "holdings": 10
   },
   {
     "s": "FDRX",
@@ -39870,16 +39890,6 @@
     "holdings": 4
   },
   {
-    "s": "FIGG",
-    "n": "Leverage Shares 2x Long FIG Daily ETF",
-    "assetClass": "Equity",
-    "aum": 7790880,
-    "price": 0.9184,
-    "change": -14.17,
-    "volume": 7807103,
-    "holdings": 7
-  },
-  {
     "s": "ESLV",
     "n": "Eventide Large Cap Value ETF",
     "assetClass": "Equity",
@@ -39990,16 +40000,6 @@
     "holdings": 367
   },
   {
-    "s": "AVXX",
-    "n": "Defiance Daily Target 2x Long AVAV ETF",
-    "assetClass": "Equity",
-    "aum": 7618394,
-    "price": 11.1389,
-    "change": -10.46,
-    "volume": 319631,
-    "holdings": 10
-  },
-  {
     "s": "IOPP",
     "n": "Simplify Tara India Opportunities ETF",
     "assetClass": "Equity",
@@ -40070,6 +40070,16 @@
     "holdings": 7
   },
   {
+    "s": "EPEM",
+    "n": "Harbor Emerging Markets Equity ETF",
+    "assetClass": "Equity",
+    "aum": 7488980,
+    "price": 27.6521,
+    "change": 1.18,
+    "volume": 0,
+    "holdings": 45
+  },
+  {
     "s": "ASGM",
     "n": "Virtus AlphaSimplex Global Macro ETF",
     "assetClass": "Alternatives",
@@ -40087,7 +40097,7 @@
     "price": 37.36,
     "change": 3.35,
     "volume": 14878,
-    "holdings": 13
+    "holdings": 14
   },
   {
     "s": "MYCM",
@@ -40140,16 +40150,6 @@
     "holdings": 4
   },
   {
-    "s": "EPEM",
-    "n": "Harbor Emerging Markets Equity ETF",
-    "assetClass": "Equity",
-    "aum": 7377872,
-    "price": 27.6521,
-    "change": 1.18,
-    "volume": 0,
-    "holdings": 45
-  },
-  {
     "s": "ANEW",
     "n": "ProShares MSCI Transformational Changes ETF",
     "assetClass": "Equity",
@@ -40197,7 +40197,7 @@
     "price": 41.1649,
     "change": -0.13,
     "volume": 3552,
-    "holdings": 12
+    "holdings": 13
   },
   {
     "s": "ESMV",
@@ -40220,6 +40220,16 @@
     "holdings": 31
   },
   {
+    "s": "VICE",
+    "n": "AdvisorShares Vice ETF",
+    "assetClass": "Equity",
+    "aum": 7235990,
+    "price": 32.723,
+    "change": 0.84,
+    "volume": 861,
+    "holdings": 23
+  },
+  {
     "s": "ALRG",
     "n": "Allspring LT Large Core ETF",
     "assetClass": "Equity",
@@ -40238,16 +40248,6 @@
     "change": 11.64,
     "volume": 6847,
     "holdings": 31
-  },
-  {
-    "s": "VICE",
-    "n": "AdvisorShares Vice ETF",
-    "assetClass": "Equity",
-    "aum": 7191507,
-    "price": 32.723,
-    "change": 0.84,
-    "volume": 861,
-    "holdings": 23
   },
   {
     "s": "BBB",
@@ -40283,7 +40283,7 @@
     "s": "TIPB",
     "n": "Northern Trust 2035 Inflation-Linked Distributing Ladder ETF",
     "assetClass": "Fixed Income",
-    "aum": 7077162,
+    "aum": 7075443,
     "price": 101.1907,
     "change": 0.17,
     "volume": null,
@@ -40693,11 +40693,21 @@
     "s": "GBHI",
     "n": "Gabelli High Income ETF",
     "assetClass": "Fixed Income",
-    "aum": 6065213,
+    "aum": 6074482,
     "price": 25.4045,
     "change": 0.29,
     "volume": 2,
     "holdings": null
+  },
+  {
+    "s": "QULL",
+    "n": "ETRACS 2x Leveraged MSCI US Quality Factor TR ETN",
+    "assetClass": "Equity",
+    "aum": 6049930,
+    "price": 60.4655,
+    "change": 2.43,
+    "volume": null,
+    "holdings": 0
   },
   {
     "s": "IBGL",
@@ -40748,6 +40758,16 @@
     "change": 1.96,
     "volume": 234,
     "holdings": 75
+  },
+  {
+    "s": "LAYS",
+    "n": "STKd 100% NVDA & 100% AMD ETF",
+    "assetClass": "Equity",
+    "aum": 5931827,
+    "price": 59.1244,
+    "change": 1.46,
+    "volume": 4580,
+    "holdings": 7
   },
   {
     "s": "FLYD",
@@ -40837,16 +40857,6 @@
     "price": 28.8568,
     "change": 4.21,
     "volume": 72,
-    "holdings": 0
-  },
-  {
-    "s": "QULL",
-    "n": "ETRACS 2x Leveraged MSCI US Quality Factor TR ETN",
-    "assetClass": "Equity",
-    "aum": 5736740,
-    "price": 60.4655,
-    "change": 2.43,
-    "volume": null,
     "holdings": 0
   },
   {
@@ -40990,16 +41000,6 @@
     "holdings": 10
   },
   {
-    "s": "LAYS",
-    "n": "STKd 100% NVDA & 100% AMD ETF",
-    "assetClass": "Equity",
-    "aum": 5436025,
-    "price": 59.1244,
-    "change": 1.46,
-    "volume": 4580,
-    "holdings": 7
-  },
-  {
     "s": "TEKX",
     "n": "State Street Galaxy Transformative Tech Accelerators ETF",
     "assetClass": "Equity",
@@ -41077,7 +41077,7 @@
     "price": 24.74,
     "change": 0.12,
     "volume": 249,
-    "holdings": 52
+    "holdings": 54
   },
   {
     "s": "IPAV",
@@ -41157,7 +41157,7 @@
     "price": 25.5514,
     "change": 2.21,
     "volume": 4,
-    "holdings": 78
+    "holdings": 99
   },
   {
     "s": "WTID",
@@ -41188,6 +41188,16 @@
     "change": 1.29,
     "volume": 133,
     "holdings": 43
+  },
+  {
+    "s": "FPXE",
+    "n": "First Trust IPOX Europe Equity Opportunities ETF",
+    "assetClass": "Equity",
+    "aum": 5125350,
+    "price": 34.2712,
+    "change": 1.63,
+    "volume": 1182,
+    "holdings": 108
   },
   {
     "s": "DISO",
@@ -41240,16 +41250,6 @@
     "holdings": 12
   },
   {
-    "s": "FPXE",
-    "n": "First Trust IPOX Europe Equity Opportunities ETF",
-    "assetClass": "Equity",
-    "aum": 5052976,
-    "price": 34.2712,
-    "change": 1.63,
-    "volume": 1182,
-    "holdings": 108
-  },
-  {
     "s": "MYHC",
     "n": "State Street My2029 High Yield Corporate Bond ETF",
     "assetClass": "Fixed Income",
@@ -41268,6 +41268,16 @@
     "change": 0.52,
     "volume": 2358,
     "holdings": 144
+  },
+  {
+    "s": "MYHD",
+    "n": "State Street My2030 High Yield Corporate Bond ETF",
+    "assetClass": "Fixed Income",
+    "aum": 5017935,
+    "price": 25.14,
+    "change": 0.44,
+    "volume": 2323,
+    "holdings": 170
   },
   {
     "s": "MYHB",
@@ -41330,26 +41340,6 @@
     "holdings": 82
   },
   {
-    "s": "MYHD",
-    "n": "State Street My2030 High Yield Corporate Bond ETF",
-    "assetClass": "Fixed Income",
-    "aum": 4997853,
-    "price": 25.14,
-    "change": 0.44,
-    "volume": 2323,
-    "holdings": 170
-  },
-  {
-    "s": "GOU",
-    "n": "GraniteShares 2x Long GOOGL Daily ETF",
-    "assetClass": "Equity",
-    "aum": 4978794,
-    "price": 27.4728,
-    "change": 2.82,
-    "volume": 16106,
-    "holdings": 5
-  },
-  {
     "s": "NBCE",
     "n": "Neuberger China Equity ETF",
     "assetClass": "Equity",
@@ -41368,6 +41358,26 @@
     "change": 1.22,
     "volume": 1099,
     "holdings": 469
+  },
+  {
+    "s": "GOU",
+    "n": "GraniteShares 2x Long GOOGL Daily ETF",
+    "assetClass": "Equity",
+    "aum": 4957184,
+    "price": 27.4728,
+    "change": 2.82,
+    "volume": 16106,
+    "holdings": 5
+  },
+  {
+    "s": "PLYY",
+    "n": "GraniteShares YieldBOOST PLTR ETF",
+    "assetClass": "Equity",
+    "aum": 4895761,
+    "price": 11.69,
+    "change": -1.02,
+    "volume": 11851,
+    "holdings": 8
   },
   {
     "s": "SZK",
@@ -41428,16 +41438,6 @@
     "change": -1.97,
     "volume": 17968,
     "holdings": 6
-  },
-  {
-    "s": "PLYY",
-    "n": "GraniteShares YieldBOOST PLTR ETF",
-    "assetClass": "Equity",
-    "aum": 4818070,
-    "price": 11.69,
-    "change": -1.02,
-    "volume": 11851,
-    "holdings": 8
   },
   {
     "s": "BBBL",
@@ -41567,7 +41567,7 @@
     "price": 37.16,
     "change": 0.43,
     "volume": 268,
-    "holdings": 270
+    "holdings": 269
   },
   {
     "s": "IND",
@@ -41578,6 +41578,16 @@
     "change": 3.71,
     "volume": 5292,
     "holdings": 502
+  },
+  {
+    "s": "EPSB",
+    "n": "Harbor SMID Cap Core ETF",
+    "assetClass": "Equity",
+    "aum": 4596605,
+    "price": 26.2474,
+    "change": 1.5,
+    "volume": 4,
+    "holdings": 58
   },
   {
     "s": "SDP",
@@ -41628,16 +41638,6 @@
     "change": 0,
     "volume": 20,
     "holdings": 15
-  },
-  {
-    "s": "EPSB",
-    "n": "Harbor SMID Cap Core ETF",
-    "assetClass": "Equity",
-    "aum": 4522722,
-    "price": 26.2474,
-    "change": 1.5,
-    "volume": 4,
-    "holdings": 58
   },
   {
     "s": "BTOP",
@@ -42080,16 +42080,6 @@
     "holdings": 7
   },
   {
-    "s": "PBRG",
-    "n": "Leverage Shares 2X Long PBR Daily ETF",
-    "assetClass": "Equity",
-    "aum": 3752160,
-    "price": 44.0766,
-    "change": -9.38,
-    "volume": 14199,
-    "holdings": 7
-  },
-  {
     "s": "XLFI",
     "n": "State Street Financial Select Sector SPDR Premium Income ETF",
     "assetClass": "Equity",
@@ -42120,6 +42110,16 @@
     "holdings": 27
   },
   {
+    "s": "SGRW",
+    "n": "Harbor Active Small Cap Growth ETF",
+    "assetClass": "Equity",
+    "aum": 3643647,
+    "price": 20.8257,
+    "change": 2.64,
+    "volume": 218,
+    "holdings": 139
+  },
+  {
     "s": "TDOG",
     "n": "21Shares Dogecoin ETF",
     "assetClass": "Currency",
@@ -42128,6 +42128,16 @@
     "change": 0.59,
     "volume": 3627,
     "holdings": 1
+  },
+  {
+    "s": "TTXU",
+    "n": "Direxion Daily Technology Top 5 Bull 2X ETF",
+    "assetClass": "Equity",
+    "aum": 3609852,
+    "price": 20.6358,
+    "change": 2.61,
+    "volume": 13547,
+    "holdings": 13
   },
   {
     "s": "MYY",
@@ -42210,16 +42220,6 @@
     "holdings": 8
   },
   {
-    "s": "SGRW",
-    "n": "Harbor Active Small Cap Growth ETF",
-    "assetClass": "Equity",
-    "aum": 3500852,
-    "price": 20.8257,
-    "change": 2.64,
-    "volume": 218,
-    "holdings": 139
-  },
-  {
     "s": "LFAW",
     "n": "LifeX 2060 Longevity Income ETF",
     "assetClass": "Fixed Income",
@@ -42300,16 +42300,6 @@
     "holdings": 6
   },
   {
-    "s": "TTXU",
-    "n": "Direxion Daily Technology Top 5 Bull 2X ETF",
-    "assetClass": "Equity",
-    "aum": 3360587,
-    "price": 20.6358,
-    "change": 2.61,
-    "volume": 13547,
-    "holdings": 12
-  },
-  {
     "s": "DUKX",
     "n": "Ocean Park International ETF",
     "assetClass": "Equity",
@@ -42347,7 +42337,7 @@
     "price": 22.2907,
     "change": 2.16,
     "volume": 221,
-    "holdings": 1001
+    "holdings": 997
   },
   {
     "s": "CRED",
@@ -42427,7 +42417,7 @@
     "price": 21.2217,
     "change": 1.3,
     "volume": 208,
-    "holdings": 290
+    "holdings": 286
   },
   {
     "s": "LGCF",
@@ -42540,16 +42530,6 @@
     "holdings": 9
   },
   {
-    "s": "ASMH",
-    "n": "ASML Holding NV ADRhedged",
-    "assetClass": "Equity",
-    "aum": 2966484,
-    "price": 97.5699,
-    "change": 3.54,
-    "volume": 1595,
-    "holdings": 6
-  },
-  {
     "s": "QHDG",
     "n": "Innovator Hedged Nasdaq-100 ETF",
     "assetClass": "Alternatives",
@@ -42588,6 +42568,16 @@
     "change": 3.73,
     "volume": 43076,
     "holdings": 10
+  },
+  {
+    "s": "ASMH",
+    "n": "ASML Holding NV ADRhedged",
+    "assetClass": "Equity",
+    "aum": 2918681,
+    "price": 97.5699,
+    "change": 3.54,
+    "volume": 1595,
+    "holdings": 6
   },
   {
     "s": "GRPZ",
@@ -42650,16 +42640,6 @@
     "holdings": 4
   },
   {
-    "s": "TTXD",
-    "n": "Direxion Daily Technology Top 5 Bear 2X ETF",
-    "assetClass": "Equity",
-    "aum": 2859187,
-    "price": 26.5642,
-    "change": -2.55,
-    "volume": 992,
-    "holdings": 9
-  },
-  {
     "s": "CMCI",
     "n": "VanEck CMCI Commodity Strategy ETF",
     "assetClass": "Commodity",
@@ -42720,6 +42700,16 @@
     "holdings": 266
   },
   {
+    "s": "TSRS",
+    "n": "Truth Social American Red State REITs ETF",
+    "assetClass": "Equity",
+    "aum": 2725118,
+    "price": 27.28,
+    "change": 1.79,
+    "volume": 18717,
+    "holdings": 29
+  },
+  {
     "s": "DVQQ",
     "n": "WEBs QQQ Defined Volatility ETF",
     "assetClass": "Equity",
@@ -42750,16 +42740,6 @@
     "holdings": 11
   },
   {
-    "s": "TSRS",
-    "n": "Truth Social American Red State REITs ETF",
-    "assetClass": "Equity",
-    "aum": 2667381,
-    "price": 27.28,
-    "change": 1.79,
-    "volume": 18717,
-    "holdings": 29
-  },
-  {
     "s": "MTYY",
     "n": "GraniteShares YieldBOOST MSTR ETF",
     "assetClass": "Equity",
@@ -42768,6 +42748,26 @@
     "change": -0.53,
     "volume": 10941,
     "holdings": 10
+  },
+  {
+    "s": "TTXD",
+    "n": "Direxion Daily Technology Top 5 Bear 2X ETF",
+    "assetClass": "Equity",
+    "aum": 2656251,
+    "price": 26.5642,
+    "change": -2.55,
+    "volume": 992,
+    "holdings": 9
+  },
+  {
+    "s": "PBRG",
+    "n": "Leverage Shares 2X Long PBR Daily ETF",
+    "assetClass": "Equity",
+    "aum": 2647645,
+    "price": 44.0766,
+    "change": -9.38,
+    "volume": 14199,
+    "holdings": 7
   },
   {
     "s": "HWSM",
@@ -42850,6 +42850,16 @@
     "holdings": 39
   },
   {
+    "s": "YBMN",
+    "n": "Defiance BMNR Option Income ETF",
+    "assetClass": "Equity",
+    "aum": 2516755,
+    "price": 16.8072,
+    "change": 2.05,
+    "volume": 4694,
+    "holdings": 7
+  },
+  {
     "s": "AZYY",
     "n": "GraniteShares YieldBoost AMZN ETF",
     "assetClass": "Equity",
@@ -42863,11 +42873,11 @@
     "s": "GMEY",
     "n": "YieldMax GME Option Income Strategy ETF",
     "assetClass": "Equity",
-    "aum": 2475782,
+    "aum": 2487630,
     "price": 33.0873,
     "change": -2.8,
     "volume": 2992,
-    "holdings": 11
+    "holdings": 12
   },
   {
     "s": "BIS",
@@ -42930,16 +42940,6 @@
     "holdings": 84
   },
   {
-    "s": "YBMN",
-    "n": "Defiance BMNR Option Income ETF",
-    "assetClass": "Equity",
-    "aum": 2383890,
-    "price": 16.8072,
-    "change": 2.05,
-    "volume": 4694,
-    "holdings": 7
-  },
-  {
     "s": "XLRI",
     "n": "State Street Real Estate Select Sector SPDR Premium Income ETF",
     "assetClass": "Equity",
@@ -42978,6 +42978,16 @@
     "change": 1.25,
     "volume": 119,
     "holdings": 3
+  },
+  {
+    "s": "AOTS",
+    "n": "AOT Software Platform ETF",
+    "assetClass": "Equity",
+    "aum": 2297736,
+    "price": 22.9766,
+    "change": 0.64,
+    "volume": 1740,
+    "holdings": 52
   },
   {
     "s": "DGLO",
@@ -43050,14 +43060,24 @@
     "holdings": 8
   },
   {
-    "s": "AOTS",
-    "n": "AOT Software Platform ETF",
+    "s": "TNUK",
+    "n": "Tortoise Nuclear Renaissance ETF",
     "assetClass": "Equity",
-    "aum": 2222271,
-    "price": 22.9766,
-    "change": 0.64,
-    "volume": 1740,
-    "holdings": 52
+    "aum": 2229610,
+    "price": 27.8805,
+    "change": 0.58,
+    "volume": 735,
+    "holdings": 25
+  },
+  {
+    "s": "EATZ",
+    "n": "AdvisorShares Restaurant ETF",
+    "assetClass": "Equity",
+    "aum": 2218468,
+    "price": 27.76,
+    "change": 2.74,
+    "volume": 1226,
+    "holdings": 21
   },
   {
     "s": "KJD",
@@ -43068,16 +43088,6 @@
     "change": 1.82,
     "volume": 1598,
     "holdings": 4
-  },
-  {
-    "s": "TNUK",
-    "n": "Tortoise Nuclear Renaissance ETF",
-    "assetClass": "Equity",
-    "aum": 2180185,
-    "price": 27.8805,
-    "change": 0.58,
-    "volume": 735,
-    "holdings": 25
   },
   {
     "s": "NEMG",
@@ -43140,16 +43150,6 @@
     "holdings": 8
   },
   {
-    "s": "RGYY",
-    "n": "GraniteShares YieldBoost RGTI ETF",
-    "assetClass": "Equity",
-    "aum": 2065627,
-    "price": 10.235,
-    "change": -1.87,
-    "volume": 6146,
-    "holdings": 10
-  },
-  {
     "s": "USFE",
     "n": "First Eagle US Equity ETF",
     "assetClass": "Equity",
@@ -43157,7 +43157,7 @@
     "price": 35.04,
     "change": 1.1,
     "volume": 14,
-    "holdings": 52
+    "holdings": 55
   },
   {
     "s": "LQAI",
@@ -43170,6 +43170,26 @@
     "holdings": 101
   },
   {
+    "s": "RGYY",
+    "n": "GraniteShares YieldBoost RGTI ETF",
+    "assetClass": "Equity",
+    "aum": 2042563,
+    "price": 10.235,
+    "change": -1.87,
+    "volume": 6146,
+    "holdings": 10
+  },
+  {
+    "s": "XLCI",
+    "n": "State Street Communication Services Select Sector SPDR Premium Income ETF",
+    "assetClass": "Equity",
+    "aum": 2023495,
+    "price": 25.2704,
+    "change": 0,
+    "volume": 2639,
+    "holdings": 4
+  },
+  {
     "s": "EGLE",
     "n": "Global X S&P 500 U.S. Revenue Leaders ETF",
     "assetClass": "Equity",
@@ -43178,16 +43198,6 @@
     "change": 0.98,
     "volume": 9,
     "holdings": 374
-  },
-  {
-    "s": "XLCI",
-    "n": "State Street Communication Services Select Sector SPDR Premium Income ETF",
-    "assetClass": "Equity",
-    "aum": 1999414,
-    "price": 25.2704,
-    "change": 0,
-    "volume": 2639,
-    "holdings": 4
   },
   {
     "s": "SMDD",
@@ -43208,16 +43218,6 @@
     "change": 1.74,
     "volume": 106,
     "holdings": 50
-  },
-  {
-    "s": "GXPE",
-    "n": "Global X PureCap MSCI Energy ETF",
-    "assetClass": "Equity",
-    "aum": 1975469,
-    "price": 32.3693,
-    "change": -2.88,
-    "volume": 3327,
-    "holdings": 23
   },
   {
     "s": "CSCS",
@@ -43250,6 +43250,16 @@
     "holdings": 108
   },
   {
+    "s": "GXPE",
+    "n": "Global X PureCap MSCI Energy ETF",
+    "assetClass": "Equity",
+    "aum": 1941502,
+    "price": 32.3693,
+    "change": -2.88,
+    "volume": 3327,
+    "holdings": 23
+  },
+  {
     "s": "BTRN",
     "n": "Global X Bitcoin Trend Strategy ETF",
     "assetClass": "Currency",
@@ -43270,6 +43280,16 @@
     "holdings": 53
   },
   {
+    "s": "BEDZ",
+    "n": "AdvisorShares Hotel ETF",
+    "assetClass": "Equity",
+    "aum": 1894641,
+    "price": 34.4398,
+    "change": 3.39,
+    "volume": 445,
+    "holdings": 22
+  },
+  {
     "s": "NVDW",
     "n": "Roundhill NVDA WeeklyPay ETF",
     "assetClass": "Equity",
@@ -43278,16 +43298,6 @@
     "change": 1.85,
     "volume": 79897,
     "holdings": 3
-  },
-  {
-    "s": "EATZ",
-    "n": "AdvisorShares Restaurant ETF",
-    "assetClass": "Equity",
-    "aum": 1862867,
-    "price": 27.76,
-    "change": 2.74,
-    "volume": 1226,
-    "holdings": 21
   },
   {
     "s": "CGRO",
@@ -43308,16 +43318,6 @@
     "change": 0.87,
     "volume": 529,
     "holdings": 41
-  },
-  {
-    "s": "BEDZ",
-    "n": "AdvisorShares Hotel ETF",
-    "assetClass": "Equity",
-    "aum": 1809366,
-    "price": 34.4398,
-    "change": 3.39,
-    "volume": 445,
-    "holdings": 22
   },
   {
     "s": "HAKY",
@@ -43543,7 +43543,7 @@
     "s": "BNKD",
     "n": "MicroSectors U.S. Big Banks - 3 Inverse Leveraged ETN",
     "assetClass": "Equity",
-    "aum": 1370917,
+    "aum": 1383595,
     "price": 41.7562,
     "change": -3.52,
     "volume": 620,
@@ -43640,6 +43640,26 @@
     "holdings": 155
   },
   {
+    "s": "SOLC",
+    "n": "Canary Marinade Solana ETF",
+    "assetClass": "Currency",
+    "aum": 1234373,
+    "price": 17.6361,
+    "change": -0.81,
+    "volume": 846,
+    "holdings": 3
+  },
+  {
+    "s": "TLA",
+    "n": "GraniteShares Autocallable TSLA ETF",
+    "assetClass": "Alternatives",
+    "aum": 1230627,
+    "price": 24.69,
+    "change": 1.27,
+    "volume": 1347,
+    "holdings": 13
+  },
+  {
     "s": "ETRL",
     "n": "GraniteShares 2x Long ETOR Daily ETF",
     "assetClass": "Equity",
@@ -43670,16 +43690,6 @@
     "holdings": 4
   },
   {
-    "s": "TLA",
-    "n": "GraniteShares Autocallable TSLA ETF",
-    "assetClass": "Alternatives",
-    "aum": 1199798,
-    "price": 24.69,
-    "change": 1.27,
-    "volume": 1347,
-    "holdings": 13
-  },
-  {
     "s": "SCLS",
     "n": "Stoneport Advisors Commodity Long Short ETF",
     "assetClass": "Alternatives",
@@ -43687,16 +43697,6 @@
     "price": 23.5953,
     "change": -2.26,
     "volume": 7,
-    "holdings": 10
-  },
-  {
-    "s": "BU",
-    "n": "Defiance Daily Target 2X Long BU ETF",
-    "assetClass": "Equity",
-    "aum": 1182923,
-    "price": 23.0162,
-    "change": 4.15,
-    "volume": 1066,
     "holdings": 10
   },
   {
@@ -43708,16 +43708,6 @@
     "change": 0.19,
     "volume": 5,
     "holdings": 7
-  },
-  {
-    "s": "SOLC",
-    "n": "Canary Marinade Solana ETF",
-    "assetClass": "Currency",
-    "aum": 1162148,
-    "price": 17.6361,
-    "change": -0.81,
-    "volume": 846,
-    "holdings": 3
   },
   {
     "s": "TMH",
@@ -43763,7 +43753,7 @@
     "s": "BBYY",
     "n": "GraniteShares YieldBOOST BABA ETF",
     "assetClass": "Equity",
-    "aum": 1074183,
+    "aum": 1073368,
     "price": 13.42,
     "change": -1.18,
     "volume": 6924,
@@ -43788,6 +43778,16 @@
     "change": 1.46,
     "volume": 94,
     "holdings": 22
+  },
+  {
+    "s": "LACG",
+    "n": "Leverage Shares 2X Long LAC Daily ETF",
+    "assetClass": "Equity",
+    "aum": 1052188,
+    "price": 10.5038,
+    "change": -1.74,
+    "volume": 11325,
+    "holdings": 8
   },
   {
     "s": "VALG",
@@ -43860,14 +43860,14 @@
     "holdings": 6
   },
   {
-    "s": "LACG",
-    "n": "Leverage Shares 2X Long LAC Daily ETF",
+    "s": "OKTG",
+    "n": "Leverage Shares 2X Long OKTA Daily ETF",
     "assetClass": "Equity",
-    "aum": 880264,
-    "price": 10.5038,
-    "change": -1.74,
-    "volume": 11325,
-    "holdings": 8
+    "aum": 881893,
+    "price": 9.2928,
+    "change": 0.79,
+    "volume": 18478,
+    "holdings": 7
   },
   {
     "s": "GEOA",
@@ -43970,16 +43970,6 @@
     "holdings": 7
   },
   {
-    "s": "OKTG",
-    "n": "Leverage Shares 2X Long OKTA Daily ETF",
-    "assetClass": "Equity",
-    "aum": 699886,
-    "price": 9.2928,
-    "change": 0.79,
-    "volume": 18478,
-    "holdings": 7
-  },
-  {
     "s": "TKNQ",
     "n": "Amplify Tokenization Technology ETF",
     "assetClass": "Asset Allocation",
@@ -43988,6 +43978,16 @@
     "change": 1.37,
     "volume": 1825,
     "holdings": 61
+  },
+  {
+    "s": "BU",
+    "n": "Defiance Daily Target 2X Long BU ETF",
+    "assetClass": "Equity",
+    "aum": 690791,
+    "price": 23.0162,
+    "change": 4.15,
+    "volume": 1066,
+    "holdings": 10
   },
   {
     "s": "TSLI",
@@ -44077,6 +44077,16 @@
     "price": 12.4672,
     "change": -1.37,
     "volume": 1070,
+    "holdings": 7
+  },
+  {
+    "s": "ABNG",
+    "n": "Leverage Shares 2x Long ABNB Daily ETF",
+    "assetClass": "Equity",
+    "aum": 549004,
+    "price": 18.2962,
+    "change": 5.27,
+    "volume": 156,
     "holdings": 7
   },
   {
@@ -44180,16 +44190,6 @@
     "holdings": 5
   },
   {
-    "s": "ABNG",
-    "n": "Leverage Shares 2x Long ABNB Daily ETF",
-    "assetClass": "Equity",
-    "aum": 492326,
-    "price": 18.2962,
-    "change": 5.27,
-    "volume": 156,
-    "holdings": 7
-  },
-  {
     "s": "FBYY",
     "n": "GraniteShares YieldBOOST META ETF",
     "assetClass": "Equity",
@@ -44233,11 +44233,21 @@
     "s": "DVXB",
     "n": "WEBs Materials XLB Defined Volatility ETF",
     "assetClass": "Equity",
-    "aum": 290235,
+    "aum": 294203,
     "price": 29.4479,
     "change": 0.4,
     "volume": null,
     "holdings": 4
+  },
+  {
+    "s": "SBU",
+    "n": "Leverage Shares 2X Long SBUX Daily ETF",
+    "assetClass": "Equity",
+    "aum": 290906,
+    "price": 19.4439,
+    "change": 3.21,
+    "volume": 1473,
+    "holdings": 7
   },
   {
     "s": "DVIN",
@@ -44260,14 +44270,14 @@
     "holdings": 4
   },
   {
-    "s": "SBU",
-    "n": "Leverage Shares 2X Long SBUX Daily ETF",
+    "s": "DVXC",
+    "n": "WEBs Communication Services XLC Defined Volatility ETF",
     "assetClass": "Equity",
-    "aum": 282581,
-    "price": 19.4439,
-    "change": 3.21,
-    "volume": 1473,
-    "holdings": 7
+    "aum": 282907,
+    "price": 28.2807,
+    "change": 0.25,
+    "volume": 14,
+    "holdings": 4
   },
   {
     "s": "DVUT",
@@ -44277,16 +44287,6 @@
     "price": 27.7741,
     "change": -0.59,
     "volume": 2,
-    "holdings": 4
-  },
-  {
-    "s": "DVXC",
-    "n": "WEBs Communication Services XLC Defined Volatility ETF",
-    "assetClass": "Equity",
-    "aum": 276550,
-    "price": 28.2807,
-    "change": 0.25,
-    "volume": 14,
     "holdings": 4
   },
   {
@@ -44567,7 +44567,7 @@
     "price": 279.1679,
     "change": 0.54,
     "volume": 5,
-    "holdings": 22
+    "holdings": 21
   },
   {
     "s": "SHEH",
@@ -45027,7 +45027,7 @@
     "price": 46.3291,
     "change": 0.48,
     "volume": 7015,
-    "holdings": 43
+    "holdings": 44
   },
   {
     "s": "GROZ",
@@ -45167,7 +45167,7 @@
     "price": 20.655,
     "change": -0.07,
     "volume": 22601,
-    "holdings": 406
+    "holdings": 408
   },
   {
     "s": "THIR",
@@ -45487,7 +45487,7 @@
     "price": 25.26,
     "change": 0.48,
     "volume": 69978,
-    "holdings": 334
+    "holdings": 328
   },
   {
     "s": "IMF",
@@ -45927,7 +45927,7 @@
     "price": 24.18,
     "change": 1.38,
     "volume": 31774,
-    "holdings": 101
+    "holdings": 102
   },
   {
     "s": "TEMT",
@@ -46007,7 +46007,7 @@
     "price": 27.3489,
     "change": 2.97,
     "volume": 8435,
-    "holdings": 8
+    "holdings": 10
   },
   {
     "s": "OPPE",
@@ -46687,7 +46687,7 @@
     "price": 25.3672,
     "change": 0.38,
     "volume": 6026,
-    "holdings": 640
+    "holdings": 649
   },
   {
     "s": "BNDY",
@@ -46697,7 +46697,7 @@
     "price": 26.045,
     "change": 0.37,
     "volume": 15840,
-    "holdings": 4
+    "holdings": 3
   },
   {
     "s": "ODHY",
@@ -46767,7 +46767,7 @@
     "price": 50.33,
     "change": 0.2,
     "volume": 266,
-    "holdings": 272
+    "holdings": 271
   },
   {
     "s": "PMAU",
@@ -46787,7 +46787,7 @@
     "price": 8.32,
     "change": 1.09,
     "volume": 4554,
-    "holdings": 60
+    "holdings": 59
   },
   {
     "s": "TCAI",
@@ -47097,7 +47097,7 @@
     "price": 27.207,
     "change": 2.32,
     "volume": 5,
-    "holdings": 41
+    "holdings": 42
   },
   {
     "s": "APLX",
@@ -47257,7 +47257,7 @@
     "price": 12.2958,
     "change": 2.64,
     "volume": 10160,
-    "holdings": 7
+    "holdings": 6
   },
   {
     "s": "LIFT",
@@ -47267,7 +47267,7 @@
     "price": 25.8084,
     "change": 0.11,
     "volume": 4,
-    "holdings": 32
+    "holdings": 31
   },
   {
     "s": "MMID",
@@ -47357,7 +47357,7 @@
     "price": 21.8749,
     "change": 2.51,
     "volume": 440,
-    "holdings": 30
+    "holdings": 31
   },
   {
     "s": "ARKT",
@@ -47467,7 +47467,7 @@
     "price": 54.34,
     "change": 0.41,
     "volume": 52084,
-    "holdings": 55
+    "holdings": 56
   },
   {
     "s": "CBXO",
@@ -47587,7 +47587,7 @@
     "price": 26.8969,
     "change": 1.12,
     "volume": 17850,
-    "holdings": 67
+    "holdings": 69
   },
   {
     "s": "ACSG",
@@ -48307,7 +48307,7 @@
     "price": 25.1544,
     "change": 0.26,
     "volume": 22515,
-    "holdings": 165
+    "holdings": 166
   },
   {
     "s": "SCNM",
@@ -48317,7 +48317,7 @@
     "price": 25.0589,
     "change": 0.24,
     "volume": 32374,
-    "holdings": 76
+    "holdings": 77
   },
   {
     "s": "TOXR",
@@ -48707,7 +48707,7 @@
     "price": 20.6887,
     "change": 0.63,
     "volume": 43,
-    "holdings": 85
+    "holdings": 84
   },
   {
     "s": "DGJA",
@@ -49577,7 +49577,7 @@
     "price": 46.1338,
     "change": -0.06,
     "volume": 7855,
-    "holdings": 94
+    "holdings": 92
   },
   {
     "s": "NUKX",
@@ -49977,7 +49977,7 @@
     "price": 28.11,
     "change": 2.55,
     "volume": 19881,
-    "holdings": 37
+    "holdings": 36
   },
   {
     "s": "BRIB",
@@ -50077,7 +50077,7 @@
     "price": 34.7467,
     "change": 4.69,
     "volume": 1311,
-    "holdings": 8
+    "holdings": 9
   },
   {
     "s": "ADBU",
@@ -50107,7 +50107,7 @@
     "price": 26.9694,
     "change": 1.01,
     "volume": 4632,
-    "holdings": 138
+    "holdings": 116
   },
   {
     "s": "PYPU",
@@ -50417,7 +50417,7 @@
     "price": 23.8007,
     "change": 0.68,
     "volume": 1545,
-    "holdings": 5
+    "holdings": 7
   },
   {
     "s": "CHNL",
@@ -50811,7 +50811,7 @@
   },
   {
     "s": "THMR",
-    "n": "THOR Financial Technologies Trust - THOR AdaptiveRisk Dynamic ETF",
+    "n": "THOR AdaptiveRisk Dynamic ETF",
     "assetClass": "Asset Allocation",
     "aum": null,
     "price": 25.6497,

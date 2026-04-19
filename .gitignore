@@ -1,3 +1,7 @@
 **/data.json        # ignores data.json anywhere in the project
 **/__pycache__      # ignores __pycache__ anywhere in the project
 *.pyc               # also good to add for compiled python files
+sources/__pycache__/
+sources/stockanalysis/__pycache__/
+sources/stockanalysis/utils/__pycache__/constants.cpython-312.pyc
+**/*.cpython-*.pyc
