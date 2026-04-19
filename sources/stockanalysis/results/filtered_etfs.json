@@ -1,0 +1,312 @@
+[
+  {
+    "s": "TSLL",
+    "n": "Direxion Daily TSLA Bull 2X ETF",
+    "assetClass": "Equity",
+    "aum": 5046855743,
+    "price": 13.9,
+    "change": 6.35,
+    "volume": 157221546,
+    "holdings": 14
+  },
+  {
+    "s": "SOXL",
+    "n": "Direxion Daily Semiconductor Bull 3X ETF",
+    "assetClass": "Equity",
+    "aum": 13527958656,
+    "price": 94.68,
+    "change": 7.14,
+    "volume": 67064954,
+    "holdings": 50
+  },
+  {
+    "s": "TQQQ",
+    "n": "ProShares UltraPro QQQ",
+    "assetClass": "Equity",
+    "aum": 27886252011,
+    "price": 58.59,
+    "change": 3.83,
+    "volume": 103559546,
+    "holdings": 121
+  },
+  {
+    "s": "IWM",
+    "n": "iShares Russell 2000 ETF",
+    "assetClass": "Equity",
+    "aum": 73208364528,
+    "price": 275.78,
+    "change": 2.16,
+    "volume": 46430306,
+    "holdings": 1940
+  },
+  {
+    "s": "EEM",
+    "n": "iShares MSCI Emerging Markets ETF",
+    "assetClass": "Equity",
+    "aum": 26859237569,
+    "price": 63.64,
+    "change": 1.91,
+    "volume": 46432691,
+    "holdings": 1255
+  },
+  {
+    "s": "EWY",
+    "n": "iShares MSCI South Korea ETF",
+    "assetClass": "Equity",
+    "aum": 18001251908,
+    "price": 152.33,
+    "change": 3.3,
+    "volume": 20073909,
+    "holdings": 90
+  },
+  {
+    "s": "TNA",
+    "n": "Direxion Daily Small Cap Bull 3X ETF",
+    "assetClass": "Equity",
+    "aum": 1463909089,
+    "price": 60.09,
+    "change": 6.28,
+    "volume": 9729281,
+    "holdings": 19
+  },
+  {
+    "s": "GDX",
+    "n": "VanEck Gold Miners ETF",
+    "assetClass": "Equity",
+    "aum": 30923195907,
+    "price": 100.34,
+    "change": 2.74,
+    "volume": 21762711,
+    "holdings": 54
+  },
+  {
+    "s": "KRE",
+    "n": "State Street SPDR S&P Regional Banking ETF",
+    "assetClass": "Equity",
+    "aum": 4259711333,
+    "price": 70.37,
+    "change": 2.24,
+    "volume": 21777471,
+    "holdings": 150
+  },
+  {
+    "s": "ARKK",
+    "n": "ARK Innovation ETF",
+    "assetClass": "Equity",
+    "aum": 5985022333,
+    "price": 79.23,
+    "change": 2.44,
+    "volume": 12977761,
+    "holdings": 45
+  },
+  {
+    "s": "NVDL",
+    "n": "GraniteShares 2x Long NVDA Daily ETF",
+    "assetClass": "Equity",
+    "aum": 4030027892,
+    "price": 96.25,
+    "change": 3.31,
+    "volume": 7518596,
+    "holdings": 28
+  },
+  {
+    "s": "XBI",
+    "n": "State Street SPDR S&P Biotech ETF",
+    "assetClass": "Equity",
+    "aum": 8364919521,
+    "price": 138.67,
+    "change": 2.37,
+    "volume": 10410658,
+    "holdings": 156
+  },
+  {
+    "s": "INDA",
+    "n": "iShares MSCI India ETF",
+    "assetClass": "Equity",
+    "aum": 6352092515,
+    "price": 51.28,
+    "change": 2.56,
+    "volume": 9228649,
+    "holdings": 170
+  },
+  {
+    "s": "XLY",
+    "n": "State Street Consumer Discretionary Select Sector SPDR ETF",
+    "assetClass": "Equity",
+    "aum": 21970381781,
+    "price": 120.41,
+    "change": 2.36,
+    "volume": 9828930,
+    "holdings": 51
+  },
+  {
+    "s": "SCHG",
+    "n": "Schwab U.S. Large-Cap Growth ETF",
+    "assetClass": "Equity",
+    "aum": 50888169631,
+    "price": 32.62,
+    "change": 1.53,
+    "volume": 13724265,
+    "holdings": 196
+  },
+  {
+    "s": "IEMG",
+    "n": "iShares Core MSCI Emerging Markets ETF",
+    "assetClass": "Equity",
+    "aum": 144467309321,
+    "price": 78.1,
+    "change": 1.91,
+    "volume": 10061190,
+    "holdings": 2695
+  },
+  {
+    "s": "DIA",
+    "n": "State Street SPDR Dow Jones Industrial Average ETF Trust",
+    "assetClass": "Equity",
+    "aum": 44109572849,
+    "price": 494.22,
+    "change": 1.77,
+    "volume": 10233346,
+    "holdings": 31
+  },
+  {
+    "s": "XLI",
+    "n": "State Street Industrial Select Sector SPDR ETF",
+    "assetClass": "Equity",
+    "aum": 30432892360,
+    "price": 173.51,
+    "change": 1.87,
+    "volume": 9523096,
+    "holdings": 82
+  },
+  {
+    "s": "GDXJ",
+    "n": "VanEck Junior Gold Miners ETF",
+    "assetClass": "Equity",
+    "aum": 9797343828,
+    "price": 133.12,
+    "change": 2.85,
+    "volume": 6102086,
+    "holdings": 119
+  },
+  {
+    "s": "EWT",
+    "n": "iShares MSCI Taiwan ETF",
+    "assetClass": "Equity",
+    "aum": 7742050825,
+    "price": 83.22,
+    "change": 2.3,
+    "volume": 7267269,
+    "holdings": 90
+  },
+  {
+    "s": "XLK",
+    "n": "State Street Technology Select Sector SPDR ETF",
+    "assetClass": "Equity",
+    "aum": 91255571711,
+    "price": 154.35,
+    "change": 1.53,
+    "volume": 10621123,
+    "holdings": 76
+  },
+  {
+    "s": "SMH",
+    "n": "VanEck Semiconductor ETF",
+    "assetClass": "Equity",
+    "aum": 49203801531,
+    "price": 464.16,
+    "change": 2.06,
+    "volume": 7181664,
+    "holdings": 26
+  },
+  {
+    "s": "IJH",
+    "n": "iShares Core S&P Mid-Cap ETF",
+    "assetClass": "Equity",
+    "aum": 111402111685,
+    "price": 72.9,
+    "change": 1.97,
+    "volume": 7312370,
+    "holdings": 411
+  },
+  {
+    "s": "QLD",
+    "n": "ProShares Ultra QQQ",
+    "assetClass": "Equity",
+    "aum": 9317470227,
+    "price": 76.73,
+    "change": 2.58,
+    "volume": 5536583,
+    "holdings": 120
+  },
+  {
+    "s": "SOXX",
+    "n": "iShares Semiconductor ETF",
+    "assetClass": "Equity",
+    "aum": 24762996894,
+    "price": 415.71,
+    "change": 2.4,
+    "volume": 5726285,
+    "holdings": 34
+  },
+  {
+    "s": "SSO",
+    "n": "ProShares Ultra S&P 500",
+    "assetClass": "Equity",
+    "aum": 5953929519,
+    "price": 61.62,
+    "change": 2.39,
+    "volume": 5330479,
+    "holdings": 522
+  },
+  {
+    "s": "VWO",
+    "n": "Vanguard FTSE Emerging Markets ETF",
+    "assetClass": "Equity",
+    "aum": 115689146578,
+    "price": 59.18,
+    "change": 1.67,
+    "volume": 7116076,
+    "holdings": 5095
+  },
+  {
+    "s": "MAGS",
+    "n": "Roundhill Magnificent Seven ETF",
+    "assetClass": "Equity",
+    "aum": 4318048168,
+    "price": 66.45,
+    "change": 1.75,
+    "volume": 5600026,
+    "holdings": 23
+  },
+  {
+    "s": "BIZD",
+    "n": "VanEck BDC Income ETF",
+    "assetClass": "Equity",
+    "aum": 1467751742,
+    "price": 13.2,
+    "change": 1.85,
+    "volume": 5120039,
+    "holdings": 37
+  },
+  {
+    "s": "IYR",
+    "n": "iShares U.S. Real Estate ETF",
+    "assetClass": "Equity",
+    "aum": 4258707941,
+    "price": 102.98,
+    "change": 1.6,
+    "volume": 5836820,
+    "holdings": 65
+  },
+  {
+    "s": "SCHH",
+    "n": "Schwab U.S. REIT ETF",
+    "assetClass": "Equity",
+    "aum": 9655601431,
+    "price": 23.43,
+    "change": 1.52,
+    "volume": 5457222,
+    "holdings": 121
+  }
+]
